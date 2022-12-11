@@ -1,7 +1,7 @@
 # MIUI 14 Portuguese Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 <dl>
-  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="" border="0" alt="MIUI14_logo"></a></dt>
+  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/idmH8Nu.png" border="0" alt="MIUI14_logo"></a></dt>
   <dd>
     MIUI 14 translation for all supported devices. MIUI Translation: <b>Efex, KcNirvana, Lippe35</b>
   </dd>
