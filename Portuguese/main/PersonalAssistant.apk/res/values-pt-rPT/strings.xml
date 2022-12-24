@@ -1384,4 +1384,8 @@ to show widgets."</string>
     <string name="pa_accessibility_picker_search_clear">Clear text</string>
     <string name="pa_lite_setting_service_shopping">Shopping</string>
     <string name="pa_lite_setting_service_shopping_summary">Get discounts and shopping offers</string>
+    <string name="pa_get_installed_app_permission_description">Para instalar aplicações e adicionar widgets</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Shopping</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Grant this widget permissions to get coupons and offers for your favorite e-commerce platforms</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Grant</string>
 </resources>

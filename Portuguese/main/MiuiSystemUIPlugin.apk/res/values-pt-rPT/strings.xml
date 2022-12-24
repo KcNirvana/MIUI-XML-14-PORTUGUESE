@@ -226,4 +226,25 @@ A longa exposição a sons altos pode causar problemas de audição"</string>
     <string name="switch_bar_on">Ligado</string>
     <string name="torch_high_temperature_warning">O seu dispositivo está superaquecido. Não é possível utilizar a lanterna</string>
     <string name="wifi_is_off">Wi-Fi desligado</string>
+    <string name="airplane">Modo Avião</string>
+    <string name="bootloader">Fastboot</string>
+    <string name="controls_add_device_guide">Sem dispositivos</string>
+    <string name="controls_click_to_add_device">Adicionar dispositivos</string>
+    <string name="controls_default_structure">Dispositivos inteligentes</string>
+    <string name="controls_edit_add_device_guide">Sem dispositivos para adicionar</string>
+    <string name="controls_edit_added_subtitle">Arrastar itens para ordenar</string>
+    <string name="controls_edit_added_title">Adicionado</string>
+    <string name="controls_edit_done_button">Concluído</string>
+    <string name="controls_edit_go_to_app_guide">Abrir</string>
+    <string name="controls_edit_not_added_title">Disponíveis</string>
+    <string name="controls_loading_device">Trocar locais</string>
+    <string name="controls_not_found_device_toast">Este item foi removido na aplicação</string>
+    <string name="controls_not_found_device_toast_mihome">Este item foi removido na aplicação</string>
+    <string name="controls_offline_device_toast">Este dispositivo está desligado. Prima e segure para abrir a aplicação</string>
+    <string name="controls_unsupport_toggle_toast">Não é possível controlar este dispositivo daqui. Prima e segure para abrir a aplicação</string>
+    <string name="offline">Desligado</string>
+    <string name="recovery">Modo Restauro</string>
+    <string name="silent">Modo Silêncio</string>
+    <string name="slider_view_content_left_description">Deslizar para cima para reiniciar no modo Fastboot ou deslizar para baixo para reiniciar no modo Restauro</string>
+    <string name="slider_view_content_right_description">Deslizar para cima para Modo Avião ou deslizar para baixo para Modo Silêncio</string>
 </resources>

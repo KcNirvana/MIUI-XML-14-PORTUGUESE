@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_guest_failed">Erro ao criar um novo convidado</string>
+    <string name="allow_turn_screen_on">Permitir ligar o ecrã</string>
+    <string name="allow_turn_screen_on_description">Permitir que uma aplicação ligue o ecrã. Se concedido, a aplicação pode ligar o ecrã a qualquer hora</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho</string>
     <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
     <string name="accessibility_manual_zen_less_time">Menos tempo</string>

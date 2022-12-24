@@ -31,6 +31,9 @@
     <string name="app_name">Notas</string>
     <string name="app_notification_info">As Notas estão a executar em segundo plano</string>
     <string name="app_widget">Notas</string>
+    <string name="app_widget_name_create_note">Criar notas</string>
+    <string name="app_widget_name_create_todo">Criar tarefas</string>
+    <string name="app_widget_name_fast_entry">Atalhos</string>
     <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Ícone da aplicação</string>
     <string name="audio_btn_mode_meeting">Reunião</string>

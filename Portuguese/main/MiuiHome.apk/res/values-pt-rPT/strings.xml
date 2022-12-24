@@ -746,4 +746,17 @@ Segurança melhorada"</string>
     <string name="terms_of_services_one">Bem-vindo à Gaveta de aplicações e Localizador rápido. O Localizador rápido permite que encontre aplicações, conteúdo dentro das aplicações e itens online mais rapidamente. Leia e concorede com "<font color="#B3000000"><a href="http://url1">Política de Privacidade</a></font> da Xiaomi antes de utilizar estas funcionalidades</string>
     <string name="terms_of_services_three">You can turn this feature off in the Settings.</string>
     <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <font color="#B3000000"><a href="http://url1">Política de Privacidade de Branch Discovery</a></font>. Leia e concorde com <font color="#B3000000"><a href="http://url2">Termos e Condições de Branch Discovery</a></font> e <font color="#B3000000"><a href="http://url3">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="app_edit_icon">Editar ícone</string>
+    <string name="dock_not_edit_icon_tip">Para editar, mova a aplicação para a doca primeiro</string>
+    <string name="label">Etiqueta</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">O assistente não suporta widgets deste tamanho</string>
+    <string name="monochrome_summary">Alterar a cor de fundo para ícones compatíveis</string>
+    <string name="monochrome_title">Cor de fundo</string>
+    <string name="split_screen_position_top">Dividir o topo</string>
+    <string name="toast_split_app_unsupported">A aplicação não suporta o ecrã dividido</string>
+    <string name="toast_split_select_app">Tocar noutra aplicação para utilizar o ecrã dividido</string>
+    <string name="work_mode_off_detailed_text">As suas aplicações de trabalho não podem enviar notificações, utilizar bateria ou aceder à sua localização</string>
+    <string name="work_mode_off_text">Aplicações de trabalho em pausa</string>
+    <string name="work_mode_toggle_off">Desligar aplicações de trabalho</string>
+    <string name="work_mode_toggle_on">Ligar aplicações de trabalho</string>
 </resources>

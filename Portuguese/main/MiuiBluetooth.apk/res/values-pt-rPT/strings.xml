@@ -302,4 +302,7 @@ Protocolo de ligação mais rápido"</string>
     <string name="headset_incall_reject">Cancelar</string>
     <string name="headset_incall_summary">Atender chamada em %1$s com os auriculares? Os auriculares vão manter-se ligados a esse dispositivo até a chamada terminar</string>
     <string name="headset_incall_title">Atender chamadas com auriculares</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Ligado a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilizado para LE_AUDIO</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Alterado para áudio dimensional neste dispositivo</string>
 </resources>

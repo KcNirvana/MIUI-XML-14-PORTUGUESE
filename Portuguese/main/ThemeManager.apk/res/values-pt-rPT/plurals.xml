@@ -84,6 +84,14 @@
         <item quantity="other">A actualizar %1$d ícones…</item>
         <item quantity="one">A actualizar %1$d ícon…</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Actualização disponível para %1$d super ícones</item>
+        <item quantity="one">Actualização disponível para %1$d super ícone</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">A actualizar %1$d super ícones</item>
+        <item quantity="one">A actualizar %1$d super ícone</item>
+    </plurals>
     <plurals name="pay_mibi">
         <item quantity="other">Pagar %1$s Mi Coins</item>
         <item quantity="one">Pagar %1$s Mi Coin</item>

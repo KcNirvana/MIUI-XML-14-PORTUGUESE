@@ -161,6 +161,8 @@ Make sure the name of your corporation is correct. Read and agree to the related
     <string name="gpg_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os Jogos Google Play?</string>
     <string name="gpg_title">Aplicações clonadas para Jogos Google Play</string>
     <string name="green_guard">Protecção de família</string>
+    <string name="greenguard_new_install_message">Protecção de família é uma aplicação de sistema. Pode instalar esta aplicação sem a transferir</string>
+    <string name="greenguard_new_install_title">Instalar Protecção de família</string>
     <string name="green_guard_des1">Adicione dispositivos para os gerir remotamente</string>
     <string name="green_guard_des2">Saiba exactamente onde estão todos os seus dispositivos</string>
     <string name="green_guard_des3">Controle as aplicações instaladas e restrinja a utilização</string>

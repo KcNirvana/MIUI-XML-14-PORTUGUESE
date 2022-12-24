@@ -459,6 +459,8 @@ Selecção"</string>
     <string name="phone_settings_payphone_txt">Telefones público</string>
     <string name="phone_settings_private_num_summary_txt">Bloquear chamadas de números privados</string>
     <string name="phone_settings_private_num_txt">Privadas</string>
+    <string name="phone_settings_unavailable_summary_txt">>Bloquear chamadas de números indisponíveis</string>
+    <string name="phone_settings_unavailable_txt">Indisponíveis</string>
     <string name="phone_settings_unknown_summary_txt">Bloquear chamadas de números desconhecidos</string>
     <string name="phone_settings_unknown_txt">Desconhecidas</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Bloqueio de chamadas desligado</string>

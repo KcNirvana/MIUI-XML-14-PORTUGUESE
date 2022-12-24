@@ -12,4 +12,6 @@
     <string name="title_existing_tag">Etiqueta</string>
     <string name="title_scanned_tag">Nova etiqueta recolhida</string>
     <string name="vcard_title">Informações de contacto para ^1</string>
+    <string name="call_phone_permission_denied">Esta aplicação necessita de aceder ao Telefone para poder efectuar chamadas. Pode gerir as permissões de Etiquetas nas Definições</string>
+    <string name="external_storage_permission_denied">Esta aplicação necessita de aceder ao armazenamento para poder aceder a ficheiros. Pode gerir as permissões de Etiquetas nas Definições</string>
 </resources>

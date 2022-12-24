@@ -52,6 +52,8 @@
     <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI</string>
     <string name="framwork_base_service">Para o fornecer com estes serviços, a framework Serviços Mi (Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI) necessita de ligar à Internet, aceder ao seu número de telefone, IMEI e IMSI, e permitir que o seu dispositivo receba notificações push</string>
     <string name="game_introduction">O plugin de jogos permite que inicie sessão, crie encomendas, conclua pagamentos, utilizar cupões e participar em eventos de promoções</string>
+    <string name="gamebooster_dialog_recover">Renovar</string>
+    <string name="gamebooster_dialog_start_booster">Iniciar</string>
     <string name="google_service_introduction">Para funcionar normalmente, o Google Play necessita de ligar à Internet, aceder à localização, poder gravar áudio, efectuar chamadas, aceder a eventos do calendário, registo de chamadas, sensores, armazenamento, informação do dispositivo e contas</string>
     <string name="home_settings_miui_home">Clássico</string>
     <string name="home_settings_poco_launcher">Gaveta de aplicações</string>
