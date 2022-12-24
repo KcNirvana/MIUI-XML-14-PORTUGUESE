@@ -147,4 +147,8 @@
         <item quantity="other">%1$d dispositivos ligados</item>
         <item quantity="one">%1$d dispositivo ligado</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplicações activas</item>
+        <item quantity="one">%s aplicação activa</item>
+     </plurals>
 </resources>

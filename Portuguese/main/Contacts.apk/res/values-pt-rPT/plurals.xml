@@ -34,6 +34,14 @@
         <item quantity="other">Eliminar %1$d contactos</item>
         <item quantity="one">Eliminar %1$d contacto</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d números de telefone</item>
+        <item quantity="one">%d número de telefone</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Eliminar %d números de telefone?</item>
+        <item quantity="one">Eliminar %d número de telefone?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Tocou %1$d vezes</item>
         <item quantity="one">Tocou %1$d vez</item>
@@ -154,6 +162,10 @@
     <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contactos recentes</item>
         <item quantity="one">%1$d contacto recente</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s resultados</item>
+        <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>

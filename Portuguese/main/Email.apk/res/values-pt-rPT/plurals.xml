@@ -112,6 +112,46 @@
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dias depois</item>
+        <item quantity="one">%1$d dia depois</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d dias antes</item>
+        <item quantity="one">%1$d dia antes</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d horas depois</item>
+        <item quantity="one">%1$d hora depois</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d horas antes</item>
+        <item quantity="one">%1$d hora antes</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minutos depois</item>
+        <item quantity="one">%1$d minuto depois</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minutos antes</item>
+        <item quantity="one">%1$d minuto antes</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d segundos depois</item>
+        <item quantity="one">%1$d segundo depois</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d segundos antes</item>
+        <item quantity="one">%1$d segundo antes</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d semanas depois</item>
+        <item quantity="one">%1$d semana depois</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d semanas antes</item>
+        <item quantity="one">%1$d semana antes</item>
+    </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s resultados em todas as contas</item>
         <item quantity="one">%s resultado em todas as contas</item>

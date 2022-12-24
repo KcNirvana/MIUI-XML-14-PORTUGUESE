@@ -974,7 +974,7 @@ Toque aqui para iniciar agora"</string>
     <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
     <string name="wallpaper_download_incall_show">Transferir vídeo</string>
     <string name="wallpaper_dynamic">Dinâmicos</string>
-    <string name="wallpaper_group_set_loop">Bloquear apresentação de imagens do ecrã com imagens semelhantes</string>
+    <string name="wallpaper_group_set_loop">Apresentação de imagens no ecrã de bloqueio com imagens semelhantes</string>
     <string name="wallpaper_light_mode_image_preview_tip">Pré-visualização Modo Leve</string>
     <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionado à apresentação</string>

@@ -9,6 +9,7 @@
     <string name="ad_download">Transferir</string>
     <string name="add_private">Tornar os ficheiros privados</string>
     <string name="add_private_files">Adicionar ficheiros</string>
+    <string name="add_to_widget">Adicionar ao widget</string>
     <string name="added_category">Adicionadas</string>
     <string name="aggree_desc">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="agree">Concordar</string>
@@ -675,6 +676,7 @@
     <string name="text_select_all">Seleccionar tudo</string>
     <string name="text_select_nothing">Desmarcar tudo</string>
     <string name="tip">Atenção</string>
+    <string name="tips_add_to_widget">Pode adicionar até %d ficheiros a este widget. Se adicionar mais, o antigos vão ser substituídos</string>
     <string name="title_app_tags">Aplicações</string>
     <string name="title_expire_video">Mesmo a expirar</string>
     <string name="title_recent">Recentes</string>

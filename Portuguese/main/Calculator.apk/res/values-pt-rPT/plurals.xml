@@ -88,4 +88,8 @@
         <item quantity="other">%d anos</item>
         <item quantity="one">%d ano</item>
     </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+     </plurals>
 </resources>

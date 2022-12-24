@@ -144,6 +144,8 @@
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avançado</string>
     <string name="expired_timers_dismissed">Temporizador suspendido</string>
+    <string name="force_start_permission_desc">Permitir que alarmes funcionem normalmente mesmo quando fechar a aplicação</string>
+    <string name="force_start_permission_title">Início automático</string>
     <string name="force_touch_add_alarm">Adicionar alarme</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>

@@ -533,4 +533,5 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
     <string name="xl_vip_quarter_price">%1$s Mi Coins per month (3 months)</string>
     <string name="xl_vip_semiannual">Half-yearly plan</string>
     <string name="xl_vip_semiannual_price">%1$s Mi Coins per month (6 months)</string>
+    <string name="jump_rank_hint2">Ver os mais transferidos</string>
 </resources>

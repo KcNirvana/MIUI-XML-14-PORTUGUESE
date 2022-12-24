@@ -20,13 +20,16 @@
         <item quantity="other">Eliminar %1$d ficheiros</item>
         <item quantity="one">Eliminar %1$d ficheiro</item>
     </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Eliminar %1$d pastas?</item>
+        <item quantity="one">Eliminar %1$d pasta?</item>
+     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d pastas?"</item>
         <item quantity="one">" e %1$d pasta?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d ficheiros</item>
-        <item quantity="zero">%d ficheiros</item>
         <item quantity="one">%d ficheiro</item>
     </plurals>
     <plurals name="file_count">

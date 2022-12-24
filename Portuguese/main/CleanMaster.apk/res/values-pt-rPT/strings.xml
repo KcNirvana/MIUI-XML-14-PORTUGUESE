@@ -317,6 +317,8 @@
     <string name="go_to">Continuar</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Abrir</string>
     <string name="goto_set">Definir</string>
+    <string name="gps_prompt_context">Transferir com dados móveis?</string>
+    <string name="gps_prompt_title">Dicas</string>
     <string name="grabage_rank_title">Limpo hoje</string>
     <string name="guide_dc_dialog_message">Menos de 2GB de espaço livre. Isto pode diminuir o desempenho do seu dispositivo. Execute uma Limpeza Profunda para libertar espaço</string>
     <string name="guide_dc_dialog_message_new">Menos de %dGB espaço livre. Isto pode diminuir o desempenho do seu dispositivo. Execute uma Limpeza Profunda para libertar espaço</string>
@@ -777,4 +779,7 @@
     <string name="wqfile_group_chat_voice">Mensagens de voz</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yesterday">Ontem</string>
+    <string name="fallback_menu_item_copy_link">Copiar link</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
+    <string name="fallback_menu_item_share_link">Partilhar link</string>
 </resources>
