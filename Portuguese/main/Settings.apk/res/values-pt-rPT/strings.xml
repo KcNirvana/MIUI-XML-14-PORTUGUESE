@@ -211,6 +211,22 @@ Para alternar entre funcionalidades, deslizar para cima com 3 dedos e segurar"</
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_error">Erro de sincronização</string>
+    <string name="accessibility_system_controls_title">Controlos de sistema</string>
+    <string name="accessibility_tap_assistance_title">Controlos de tempo</string>
+    <string name="accessibility_text_reading_confirm_dialog_message">As suas preferências vão ser repostas para as predefinidas</string>
+    <string name="accessibility_text_reading_confirm_dialog_reset_button">Repor</string>
+    <string name="accessibility_text_reading_confirm_dialog_title">Repor tamanho e texto do ecrã?</string>
+    <string name="accessibility_text_reading_conversation_message_1">Planos para o fim de semana?</string>
+    <string name="accessibility_text_reading_conversation_message_2">Vou à praia. Queres vir?</string>
+    <string name="accessibility_text_reading_options_suggestion_title">Alterar tamanho do texto</string>
+    <string name="accessibility_text_reading_options_title">Mostrar tamanho e texto</string>
+    <string name="accessibility_text_reading_preview_mail_content">"Bom dia!
+
+Só queria verificar como estão os projectos. Vão estar prontos antes de começarmos a construir os novos balões?"</string>
+    <string name="accessibility_text_reading_preview_mail_from">De: Bill</string>
+    <string name="accessibility_text_reading_preview_mail_subject">Assunto: Design dos balões de ar quente</string>
+    <string name="accessibility_text_reading_reset_button_title">Repor definições</string>
+    <string name="accessibility_text_reading_reset_message">As definições de tamanho e texto do ecrã foram repostas</string>
     <string name="accessibility_sync_in_progress">A sincronizar agora</string>
     <string name="accessibility_timeout_10secs">10 segundos</string>
     <string name="accessibility_timeout_1min">1 minuto</string>
@@ -3653,6 +3669,7 @@ Esta funcionalidade apenas está disponível quando a navegação está definida
     <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
+    <string name="freeform_guide_vedio_description">Tocar numa aplicação na barra lateral para a abrir numa janela flutuante</string>
     <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
 
 ·Toque \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
@@ -7351,6 +7368,7 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="search_privacy_policy">Política de Privacidade</string>
     <string name="search_privacy_settings">Cópias e restauro;Copiar e restaurar;Copiar;restaurar;Copiar</string>
     <string name="search_radio_controls_title">Mais;Sem fios</string>
+    <string name="search_result_feedback_text">Sem resultados</string>
     <string name="search_results_title">Definições</string>
     <string name="search_ring_volume_option_title">Volumes;volume;Toques e notificações;toque;toques;Alarme;Música</string>
     <string name="search_ringtone_title">Toque do telefone;toque;toques</string>
