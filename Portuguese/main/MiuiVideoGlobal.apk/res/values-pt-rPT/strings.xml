@@ -1699,9 +1699,7 @@ Update Mi Video to the latest version first."</string>
     <string name="file_not_exists">file not exists</string>
     <string name="init_error">Failed to initialize</string>
     <string name="introduction">Introduction</string>
-    <string name="library_roundedimageview_author">Vince Mi</string>
     <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
-    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
     <string name="liuliang">Data</string>
     <string name="live_tv_dialog_item_passed">This program has ended. Catch it next time!</string>
     <string name="live_tv_dialog_subscirbe_button">Subscribe</string>
@@ -1782,9 +1780,7 @@ Update Mi Video to the latest version first."</string>
     <string name="no_network">No network available; please retry</string>
     <string name="notify_tool">notify tool</string>
     <string name="offline_ad_free">Offline ads</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="page_empty">Empty</string>
-    <string name="partner_id">3041</string>
     <string name="passport_auth_title" />
     <string name="pay_d">VIPs have exclusive privilege to cache the video of this definition</string>
     <string name="reject_all_label">Reject All</string>
