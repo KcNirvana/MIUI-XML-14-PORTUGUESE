@@ -314,7 +314,7 @@
     <string name="app_behavior_notification_title_storage">%1s alterou ficheiros em segundo plano</string>
     <string name="app_behavior_now_running">Em execução</string>
     <string name="app_behavior_perm_allow_always_danger_tip">As aplicações podem realizar acções sensíveis quando são concedidas permissões</string>
-    <string name="app_behavior_perm_change_dialog_desc_title">Acerda desta permissão:</string>
+    <string name="app_behavior_perm_change_dialog_desc_title">Acerca desta permissão:</string>
     <string name="app_behavior_perm_change_tip_allow">Esta acção (%1s) está agora permitida</string>
     <string name="app_behavior_perm_change_tip_ask">Vai ser perguntado se esta acção (%1s) é permitida</string>
     <string name="app_behavior_perm_change_tip_deny">Esta acção (%1s) está agora restringida</string>

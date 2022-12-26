@@ -736,7 +736,7 @@ Alterar definições agora?"</string>
     <string name="assist_flash_title">Fazer piscar o ecrã</string>
     <string name="assist_footer">Os assistentes podem ajudá-lo com base na informação do ecrã que está a ver. Algumas aplicações suportam tanto o launcher como os serviços de entrada de voz para lhe dar uma assistência integrada</string>
     <string name="assist_gesture_sensitivity_title">Sensibilidade</string>
-    <string name="assist_gesture_summary"/>
+    <string name="assistance_category_title">Acessibilidade</string>
     <string name="assist_gesture_title">Gestos de assistência</string>
     <string name="assistant_corner_gesture_summary">Deslizar para cima a partir do canto inferior para executar o assistente digital</string>
     <string name="assistant_corner_gesture_title">Deslizar para executar o assistente</string>
@@ -3450,7 +3450,7 @@ To learn more, contact your creditor provider."</string>
     <string name="fingerprint_base_title">Impressão digital %s</string>
     <string name="fingerprint_delete_message">Eliminar esta impressão digital?</string>
     <string name="fingerprint_delete_title">Remover \"%1$s\"</string>
-    <string name="fingerprint_double_tap">Duplo toque no sensor</string>
+    <string name="fingerprint_double_tap">Duplo toque no sensor de imp. digital</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
     <string name="fingerprint_enroll_button_add">Adicionar outra</string>
     <string name="fingerprint_enroll_button_next">Seguinte</string>
@@ -3592,7 +3592,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="forbidden_switch_apn_string">O APN seleccionado não corresponde ao tipo de rede actual</string>
     <string name="force_allow_on_external">Forçar aplicações permitidas a escrever no armazenamento externo</string>
     <string name="force_allow_on_external_summary">Tornar qualquer aplicação eligível a escrever no armazenamento externo, independentemente dos valores do manifesto</string>
-    <string name="force_bold_text">Bold text</string>
+    <string name="force_bold_text">Texto negrito</string>
     <string name="force_desktop_mode">Forçar modo de ambiente de trabalho</string>
     <string name="force_desktop_mode_summary">Forçar modo de ambiente de trabalho experimental em ecrãs secundários</string>
     <string name="force_high_refresh_rate_desc">Taxa de atualização mais elevada para uma capacidade de resposta táctil e uma qualidade de animação melhoradas. Aumenta a utilização de bateria</string>
@@ -4169,9 +4169,9 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="key_combination_power_home">Ligar/Desligar + Início</string>
     <string name="key_combination_power_menu">Ligar/Desligar + Menu</string>
     <string name="key_combination_power_volume_down">Volume- + Ligar/Desligar</string>
-    <string name="key_fsg_dialog_message">Está a utilizar os gestos de ecrã inteiro para navegação. As funções relacionadas com botões não estão disponíveis. Trocar para botões?</string>
+    <string name="key_fsg_dialog_message">Está a utilizar os gestos de ecrã inteiro para navegação. As funções relacionadas com botões não estão disponíveis. Alterar para botões?</string>
     <string name="key_fsg_dialog_negative">Cancelar</string>
-    <string name="key_fsg_dialog_positive">Trocar para botões</string>
+    <string name="key_fsg_dialog_positive">Alterar para botões</string>
     <string name="key_gesture_function_dialog_message">%1$s é um atalho para %2$s. Substituir por %3$s</string>
     <string name="key_gesture_function_dialog_negative">Cancelar</string>
     <string name="key_gesture_function_dialog_positive">Substituir</string>
@@ -4406,7 +4406,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="launch_control_center">Centro de Controlo</string>
     <string name="launch_defaults_none">Nenhuma predefinição definida</string>
     <string name="launch_defaults_some">Algumas predefinições definidas</string>
-    <string name="launch_google_search">Iniciar Assistente Google</string>
+    <string name="launch_google_search">Iniciar assistente Google</string>
     <string name="launch_instant_app">Abrir</string>
     <string name="launch_mdp_app_text">Ver plano</string>
     <string name="launch_noapp_dialog_cancel">Cancelar</string>
@@ -4415,7 +4415,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
     <string name="launch_notification_center">Área de notificações</string>
     <string name="launch_recents">Iniciar Recentes</string>
     <string name="launch_smarthome">Controlo Mágico Xiaomi</string>
-    <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+    <string name="launch_voice_assistant">Iniciar assistente de voz</string>
     <string name="launch_wechat_health_code">Código de saúde WeChat</string>
     <string name="launch_wechat_health_code_auto_close">O atalho de código de saúde WeChat não está disponível. Pode trocar para um atalho diferente</string>
     <string name="launch_wechat_payment_code">Código pagamento WeChat</string>
@@ -4871,7 +4871,7 @@ Ligue pelo menos 4 pontos"</string>
     <string name="long_press_power_key_half_of_second">Toque longo no botão Ligar/Desligar por 0.5 segundos para ligar o assistente Google</string>
     <string name="long_press_power_key_half_second">Toque longo no botão Ligar/Desligar por %s segundos</string>
     <string name="long_press_power_key_tips">Toque longo no botão Ligar/Desligar <font color="#999999">Mais rápido e conveniente</font></string>
-    <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
+    <string name="long_press_volume_down">Toque longo no botão Volume-</string>
     <string name="lost_internet_access_cancel">Permanecer no Wi-Fi</string>
     <string name="lost_internet_access_persist">Não mostrar novamente</string>
     <string name="lost_internet_access_switch">Trocar para dados móveis</string>
@@ -5261,8 +5261,8 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_key_config_trans_summary">Permitir sons externos</string>
     <string name="miheadset_key_config_triple_left">Triplo toque no auricular esquerdo</string>
     <string name="miheadset_key_config_triple_right">Triplo toque no auricular direito</string>
-    <string name="miheadset_key_config_volume_down">Volume -</string>
-    <string name="miheadset_key_config_volume_up">Volume +</string>
+    <string name="miheadset_key_config_volume_down">Volume-</string>
+    <string name="miheadset_key_config_volume_up">Volume+</string>
     <string name="miheadset_keyconfig_click_thrice">Triplo toque no botão</string>
     <string name="miheadset_keyconfig_click_twice">Duplo toque no botão</string>
     <string name="miheadset_keyconfig_press_long">Premir e segurar o botão por %d segundos</string>
@@ -5271,7 +5271,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_low_latency">Latência baixa</string>
     <string name="miheadset_manual">Acerca do dispositivo</string>
     <string name="miheadset_manual_operation">Manual</string>
-    <string name="miheadset_minus">Volume -</string>
+    <string name="miheadset_minus">Volume-</string>
     <string name="miheadset_moreSettingsInAi">Definições adicionais</string>
     <string name="miheadset_multi_connect_mode">Multiponto</string>
     <string name="miheadset_multi_connect_mode_summary">Ligar a vários dispositivos ao mesmo tempo</string>
@@ -5284,7 +5284,7 @@ Não pode reverter esta acção!"</string>
     <string name="miheadset_openAnc2">Redução de ruído</string>
     <string name="miheadset_open_closeAnc">Ligar/desligar redução de ruído</string>
     <string name="miheadset_play_pause">Reproduzir/Pausar</string>
-    <string name="miheadset_plus">Volume +</string>
+    <string name="miheadset_plus">Volume+</string>
     <string name="miheadset_preferences">Preferências</string>
     <string name="miheadset_rename">Mudar o nome</string>
     <string name="miheadset_rename_device">Mudar o nome</string>
@@ -6381,13 +6381,13 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
     <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
     <string name="power_idle">Telefone inactivo</string>
     <string name="power_key_how_power_force_off">Forçar o reinício do seu dispositivo</string>
-    <string name="power_key_how_power_force_off_detail">Prima e segure o botão Ligar/Desligar até o dispositivo reiniciar</string>
+    <string name="power_key_how_power_force_off_detail">Premir e segurar o botão Ligar/Desligar até o dispositivo reiniciar</string>
     <string name="power_key_how_power_off">Abrir página de desligar</string>
     <string name="power_key_how_power_off_detail">Prima e segure o botão Ligar/Desligar por 3 segundos</string>
     <string name="power_key_how_start">Ligar o assistente Google</string>
-    <string name="power_key_how_start_detail">Prima e segure o botão Ligar/Desligar por 0.5 segundos. Solte para falar</string>
+    <string name="power_key_how_start_detail">Premir e segurar o botão Ligar/Desligar por 0.5 segundos. Solte para falar</string>
     <string name="power_key_start_enjoy">Comece a utilizar o assistente Google</string>
-    <string name="power_key_start_guide">Ligar o assistente Google Assistant utilizando o botão Ligar/Desligar no modo ecrã em tamanho inteiro</string>
+    <string name="power_key_start_guide">Ligar o assistente Google utilizando o botão Ligar/Desligar no modo ecrã em tamanho inteiro</string>
     <string name="power_label">Power</string>
     <string name="power_last_full_charge_summary">Há ^1</string>
     <string name="power_menu_cards_passes">Mostrar cartões e passes</string>
@@ -6458,10 +6458,10 @@ Press Power and Volume up at the same time."</string>
     <string name="pref_show_lunar_calendar_title">Mostrar calendário tradicional Chinês no ecrã de bloqueio</string>
     <string name="pref_title_network_details">Detalhes da rede</string>
     <string name="pref_title_update_notification">Notificações de utilização de dados</string>
-    <string name="pref_volume_launch_camera_summary">Premir duas vezes o botão Volume Menos para iniciar a câmara</string>
+    <string name="pref_volume_launch_camera_summary">Premir duas vezes o botão Volume- para iniciar a câmara</string>
     <string name="pref_volume_launch_camera_title">Iniciar câmara</string>
     <string name="pref_volume_wake_summary">Premir os botões de Volume liga o ecrã</string>
-    <string name="pref_volume_wake_title">Ligar ecrã com botões de Volume</string>
+    <string name="pref_volume_wake_title">Ligar com botões de Volume</string>
     <string name="preference_change_password_title">Alterar a palavra-passe</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
     <string name="preferred_app_settings">Predefinições</string>
@@ -7810,8 +7810,8 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="show_carrier_under_keyguard_title">Mostrar nome da operadora com ecrã bloqueado</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animação de carregamento após desbloqueio</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Continuar a mostrar a animação de carregamento depois de desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
-    <string name="show_clip_access_notification">Show clipboard access</string>
-    <string name="show_clip_access_notification_summary">Show a message when apps access text, images, or other content you’ve copied</string>
+    <string name="show_clip_access_notification">Mostrar acesso à área de transferências</string>
+    <string name="show_clip_access_notification_summary">Mostrar uma mensagem quando as aplicações acederem a texto ou outro conteúdo que copiou</string>
     <string name="show_connected_devices_summary">Ver dispositivos ligados</string>
     <string name="show_connected_devices_title">Dispositivos ligados</string>
     <string name="show_dev_already">Não é necessário, já é um programador!</string>
@@ -8160,7 +8160,7 @@ Remover consentimento de %s agora?"</string>
     <string name="spellchecker_switch_title">Ligar verificador ortográfico</string>
     <string name="spellcheckers_settings_for_work_title">Verificador ortográfico para perfil de trabalho</string>
     <string name="spellcheckers_settings_title">Verificador ortográfico</string>
-    <string name="split_screen">Entrar no ecrã dividido</string>
+    <string name="split_screen">Abrir ecrã dividido</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
     <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:

@@ -524,10 +524,10 @@ Please click the appropriate button according to the number you hear"</string>
     <string name="cit_keyboard_right_shoulder_switch_on">right_shoulder_switch_on</string>
     <string name="cit_keyboard_test_power_down">Ligar/Desligar</string>
     <string name="cit_keyboard_test_power_up">Ligar/Desligar</string>
-    <string name="cit_keyboard_test_volume_down_down">Volume -</string>
-    <string name="cit_keyboard_test_volume_down_up">Volume -</string>
-    <string name="cit_keyboard_test_volume_up_down">Volume +</string>
-    <string name="cit_keyboard_test_volume_up_up">Volume +</string>
+    <string name="cit_keyboard_test_volume_down_down">Volume-</string>
+    <string name="cit_keyboard_test_volume_down_up">Volume-</string>
+    <string name="cit_keyboard_test_volume_up_down">Volume+</string>
+    <string name="cit_keyboard_test_volume_up_up">Volume+</string>
     <string name="cit_led_selected">Current selected：</string>
     <string name="cit_macro_camera_check_title">Câmara macro</string>
     <string name="cit_magnetic_info_hint">Please rotate the device like 8 shape</string>

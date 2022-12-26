@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- General -->
+    <string name="app_needs_update">A aplicação necessita de ser actualizada</string>
+    <string name="app_not_installed">A aplicação necessita de ser instalada</string>
+    <string name="search_filter_category_all">Todas as categorias</string>
+    <string name="search_filter_color_all">Todas as cores</string>
+    <string name="search_filter_size_all">Todos os tamanhos</string>
+    <string name="widget_apps">Aplicações suportadas</string>
+    <string name="widget_num_limit">Não é possível adicionar mais widgets. Elimine alguns para adicionar novos</string>
+    <string name="widget_num_warn">Adicionado com sucesso. Lembre-se que ao colocar demasiados widgets no ecrã inicial pode tornar o seu dispositivo mais lento</string>
+    <!-- Categories -->
+    <string name="theme_clock">Relógios personalizados</string>
+    <!-- App names -->
     <string name="app_appvault">Assistente</string>
+    <string name="app_browser">Navegador</string
     <string name="app_calculator">Calculadora</string>
+    <string name="app_camera">Câmara</string>
     <string name="app_calendar">Calendário</string>
     <string name="app_clock">Relógio</string>
     <string name="app_gallery">Galeria</string>
     <string name="app_google">Google</string>
     <string name="app_health">Saúde</string>
-    <string name="app_midrop">Share Me</string>
+    <string name="app_midrop">ShareMe</string>
+    <string name="app_mifitness">Mi Fitness</string>
     <string name="app_mihome">Mi Home</string>
-    <string name="app_needs_update">A aplicação necessita de ser actualizada</string>
-    <string name="app_not_installed">A aplicação necessita de ser instalada</string>
+    <string name="app_mipay">Wallet</string>
     <string name="app_notes">Notas</string>
     <string name="app_recorder">Gravador</string>
     <string name="app_scanner">Digitalizador</string>
@@ -18,6 +32,10 @@
     <string name="app_settings">Definições</string>
     <string name="app_weather">Tempo</string>
     <string name="app_whatsapp">WhatsApp</string>
+    <!-- Shortcut groups -->
+    <string name="shortcuts_external">Atalhos de terceiros</string>
+    <string name="shortcuts_system">Atalhos de sistema</string>
+    <!-- Shortcut names -->
     <string name="auto_optimize">Optimizar</string>
     <string name="battery_history">Bateria</string>
     <string name="calculator_convert">Conversor</string>
@@ -33,14 +51,20 @@
     <string name="recorder_new">Nova gravação</string>
     <string name="scanner_document">Documentos</string>
     <string name="scanner_qrcode">Códigos QR</string>
-    <string name="shortcuts_external">Atalhos de terceiros</string>
-    <string name="shortcuts_system">Atalhos de sistema</string>
     <string name="whatsapp_photos">Fotos</string>
-    <string name="widget_apps">Aplicações suportadas</string>
+    <!-- Widgets -->
     <string name="widget_appvault_shortcuts">Atalhos</string>
     <string name="widget_appvault_shortcuts_desc">Iniciar aplicações utilizadas frequentemente</string>
     <string name="widget_appvault_smart_shortcuts">Sugestões</string>
     <string name="widget_appvault_smart_shortcuts_desc">Iniciar aplicações utilizadas frequentemente</string>
+    <string name="widget_browser_search">Pesquisar</string>
+    <string name="widget_browser_search_desc">Pesquisar na web com um toque</string>
+    <string name="widget_browser_shortcuts">Atalhos</string>
+    <string name="widget_browser_shortcuts_desc">Funcionalidades na ponta dos dedos</string>
+    <string name="widget_calculator_basic">Básica</string>
+    <string name="widget_calculator_basic_desc">Adição, subtracção, multiplicação e divisão</string>
+    <string name="widget_calculator_currency">Divisas</string>
+    <string name="widget_calculator_currency_desc">Conversão de moedas</string>
     <string name="widget_calendar_agenda">Eventos futuros</string>
     <string name="widget_calendar_agenda_desc">Ver informação de eventos futuros</string>
     <string name="widget_calendar_agenda_special">Eventos especiais</string>
@@ -49,6 +73,10 @@
     <string name="widget_calendar_countdown_desc">Ver informações de contagens</string>
     <string name="widget_calendar_date">Data</string>
     <string name="widget_calendar_date_desc">Ver as informações do dia</string>
+    <string name="widget_camera_filter">Filtros Leica</string>
+    <string name="widget_camera_filter_desc">Quatro conjuntos de filtros Leica</string>
+    <string name="widget_camera_lens">Lentes Pro</string>
+    <string name="widget_camera_lens_desc">Experimentar com lentes focadas</string>
     <string name="widget_clock_dual">Relógio duplo</string>
     <string name="widget_clock_dual_desc">Hora nas localizações seleccionadas</string>
     <string name="widget_clock_local">Actual</string>
@@ -63,14 +91,24 @@
     <string name="widget_gallery_custom_desc">Adicionar o widget e tocar para seleccionar fotos</string>
     <string name="widget_gallery_recommend">Memórias</string>
     <string name="widget_gallery_recommend_desc">Revisitar os seus momentos brilhantes</string>
+    <string name="widget_health_sleep">Sono</string>
+    <string name="widget_health_sleep_desc">Ver os dados do seu sono</string>
+    <string name="widget_health_stats">Estatísticas</string>
+    <string name="widget_health_stats_desc">Ver os dados das suas actividades</string>
     <string name="widget_health_steps">Passos</string>
     <string name="widget_health_steps_desc">Ver os passos de hoje</string>
+    <string name="widget_mipay_wallet">服务助手</string>
+    <string name="widget_mipay_wallet_desc">快速查看理财、信贷、保险信息及重要待办提醒</string>
+    <string name="widget_notes_quick">Atalhos</string>
+    <string name="widget_notes_quick_desc">Criar notas e tarefas rapidamente</string>
+    <string name="widget_notes_quick_note">Criar notas</string>
+    <string name="widget_notes_quick_note_desc">Criar e aceder a notas rapidamente</string>
+    <string name="widget_notes_quick_task">Criar tarefas</string>
+    <string name="widget_notes_quick_task_desc">Criar e aceder a tarefas rapidamente</string>
     <string name="widget_notes_tasks">Tarefas</string>
     <string name="widget_notes_tasks_desc">Ver e abrir as suas tarefas</string>
     <string name="widget_notes_view">Notas</string>
     <string name="widget_notes_view_desc">Ver e abrir as suas notas</string>
-    <string name="widget_num_limit">Não é possível adicionar mais widgets. Elimine alguns para adicionar novos</string>
-    <string name="widget_num_warn">Adicionado com sucesso. Lembre-se que ao colocar demasiados widgets no ecrã inicial pode tornar o seu dispositivo mais lento</string>
     <string name="widget_security_app_behavior">Privacidade</string>
     <string name="widget_security_app_behavior_desc">Ver o comportamento das aplicações</string>
     <string name="widget_security_app_predict">Sugestões</string>
@@ -87,8 +125,14 @@
     <string name="widget_security_optimize_desc">Ver informações de segurança e optimizar o seu dispositivo</string>
     <string name="widget_settings_usage_stats">Tempo de ecrã</string>
     <string name="widget_settings_usage_stats_desc">Ver as estatísticas de utilização</string>
+    <string name="widget_smarthome_batch">Controlar com um toque</string>
+    <string name="widget_smarthome_batch_desc">Controlar rapidamente vários dispositivos</string>
     <string name="widget_smarthome_control">Dispositivos inteligentes</string>
     <string name="widget_smarthome_control_desc">Ver e gerir dispositivos inteligentes</string>
+    <string name="widget_smarthome_environment">Informação ambiente</string>
+    <string name="widget_smarthome_environment_desc">Ver a temperatura, humidade e a qualidade do ar na sua casa</string>
+    <string name="widget_weather_aqi">Qualidade do ar</string>
+    <string name="widget_weather_aqi_desc">Ver o IQA nas localizações que seleccionar</string>
     <string name="widget_weather_forecast">Previsão</string>
     <string name="widget_weather_forecast_desc">Ver a previsão do tempo</string>
     <string name="widget_weather_forecast_detail">Previsão</string>

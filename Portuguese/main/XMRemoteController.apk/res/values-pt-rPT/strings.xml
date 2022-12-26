@@ -511,7 +511,7 @@ aguarde um momento depois da acção"</string>
     <string name="match_tv_intro_volume">Soltar quando o volume aumentar</string>
     <string name="match_tv_name_ch_inc">Canal +</string>
     <string name="match_tv_name_source">Fonte</string>
-    <string name="match_tv_name_volume">Volume +</string>
+    <string name="match_tv_name_volume">Volume+</string>
     <string name="match_tv_name_volume_dec">Diminuir volume</string>
     <string name="match_tv_name_volume_inc">Aumentar volume</string>
     <string name="match_type_selection_des">Escolher o dispositivo a emparelhar</string>

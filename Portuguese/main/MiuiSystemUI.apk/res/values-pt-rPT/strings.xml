@@ -2135,7 +2135,7 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="show_silently">Mostrar notificações silenciosamente</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Premir e segurar os botões &lt;font color=#e6e6e6>[Ligar/Desligar]&lt;/font> e &lt;font color=#e6e6e6>[Volume +]&lt;/font> até ver &lt;img src=\"\"></Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Premir e segurar os botões &lt;font color=#e6e6e6>[Ligar/Desligar]&lt;/font> e &lt;font color=#e6e6e6>[Volume+]&lt;/font> até ver &lt;img src=\"\"></Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Seleccionar &lt;font color=#e6e6e6>[Formatar dados]&lt;/font> e depois tocar em &lt;font color=#e6e6e6>[Reiniciar]&lt;/font></Data></string>
     <string name="sim_state_locked_dialog_title">Cartão SIM inválido</string>
     <string name="sim_state_locked_puk_dialog_message">Introduziu um PUK pelo menos 10 vezes. O seu cartão SIM está inválido agora. Substitua este cartão por outro</string>

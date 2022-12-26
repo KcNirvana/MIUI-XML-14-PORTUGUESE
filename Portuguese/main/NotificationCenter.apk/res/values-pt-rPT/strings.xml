@@ -37,7 +37,7 @@
     <string name="fold_importance_important">Importantes</string>
     <string name="fold_importance_unimportant">Não importantes</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
-    <string name="function_description">Acerda desta funcionalidade</string>
+    <string name="function_description">Acerca desta funcionalidade</string>
     <string name="hint_search_all">Pesquisar aplicações</string>
     <string name="hint_search_in_disabled_apps">Pesquisar aplicações que não podem mostrar notificações</string>
     <string name="hint_search_in_enabled_apps">Pesquisar aplicações que podem mostrar notificações</string>

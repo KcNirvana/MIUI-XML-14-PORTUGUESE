@@ -278,8 +278,8 @@ N:sem teste"</string>
     <string name="keypad_name">Teclado</string>
     <string name="keypad_power">Ligar/Desligar</string>
     <string name="keypad_text">Prima as seguintes teclas:</string>
-    <string name="keypad_volume_down">Volume -</string>
-    <string name="keypad_volume_up">Volume +</string>
+    <string name="keypad_volume_down">Volume-</string>
+    <string name="keypad_volume_up">Volume+</string>
     <string name="lcd_next_picture">Next</string>
     <string name="lcm_and_speaker_name">LCM And Speaker</string>
     <string name="lcm_confirm">Escolha</string>
