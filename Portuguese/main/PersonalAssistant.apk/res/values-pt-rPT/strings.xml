@@ -1089,12 +1089,12 @@ Stay tuned!"</string>
     <string name="pa_operation_switch_summary">View recent popular widgets</string>
     <string name="pa_operation_switch_title">Popular promotions</string>
     <string name="pa_picker_classic_widget">Android widgets</string>
-    <string name="pa_picker_detail_add_maml_net_unavailable">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="pa_picker_detail_add_maml_net_unavailable">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
     <string name="pa_picker_detail_add_to_home">Adicionar ao ecrã inicial</string>
     <string name="pa_picker_detail_add_to_minus">Adicionar ao assistente</string>
-    <string name="pa_picker_detail_add_widget_success">Added successfully</string>
-    <string name="pa_picker_detail_app_not_in_market">"This app doesn't provide any widgets now"</string>
-    <string name="pa_picker_detail_app_not_off_shelf">"This app's widgets are no longer available"</string>
+    <string name="pa_picker_detail_add_widget_success">Adicionado com sucesso</string>
+    <string name="pa_picker_detail_app_not_in_market">Esta aplicação não tem widgets agora</string>
+    <string name="pa_picker_detail_app_not_off_shelf">Os widgets desta aplicação já não estão disponíveis</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Ecrã inicial</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Assistente</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Adicionar ao ecrã inicial</string>

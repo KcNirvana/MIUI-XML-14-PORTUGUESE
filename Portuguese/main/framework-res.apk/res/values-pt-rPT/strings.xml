@@ -1217,6 +1217,9 @@ Enhanced notifications can access notification content, including personal infor
     <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca de contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento</string>
     <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os URLs visitados pelo navegador e todos os marcadores do navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na web</string>
     <string name="permdesc_readInstallSessions">Permite que uma aplicação leia sessões de instalação. Isto permite que veja detalhes acerca de instalações de pacotes activas</string>
+    <string name="permdesc_readMediaAudio">Permite que uma aplicação leia ficheiros áudios do seu armazenamento partilhado</string>
+    <string name="permdesc_readMediaImages">Permite que uma aplicação leia ficheiros de imagens do seu armazenamento partilhado</string>
+    <string name="permdesc_readMediaVideo">Permite que uma aplicação leia ficheiros de vídeos do seu armazenamento partilhado</string>
     <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia a utilização histórica da rede para redes e aplicações específicas</string>
     <string name="permdesc_readPhoneNumbers">Permite que a aplicação aceda aos números de telefone do dispositivo</string>
     <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta permissão permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada</string>
