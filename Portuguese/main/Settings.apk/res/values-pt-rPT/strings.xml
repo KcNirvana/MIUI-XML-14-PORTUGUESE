@@ -60,6 +60,7 @@ Para utilizar o botão de acessibilidade na barra de navegação, alterar para a
     <string name="accessibility_button_gesture_title">Botão e gesto de acessibilidade</string>
     <string name="accessibility_button_high_label">Não transparente</string>
     <string name="accessibility_button_intro">Utilizar o botão de acessibilidade. O gesto não está disponível na navegação de 3 botões</string>
+    <string name="accessibility_button_intro_text">Aceder rapidamente a funcionalidades de acessibilidade de qualquer ecrã</string>
     <string name="accessibility_button_location_title">Localização</string>
     <string name="accessibility_button_low_label">Transparente</string>
     <string name="accessibility_button_opacity_title">Transparência quando não utilizado</string>
@@ -2125,6 +2126,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
     <string name="common_issue">FAQ</string>
     <string name="common_settings">Definições rápidas</string>
     <string name="complete_parameters">Todas as especificações</string>
+    <string name="complete_parameters_new">Todas as especificações</string>
     <string name="complete_settings">Definições gerais</string>
     <string name="computer_backup_summary">Copiar e restaurar itens utilizando um computador</string>
     <string name="computer_backup_title">Computador</string>
@@ -7315,6 +7317,8 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
     <string name="search_handy_mode">Modo para uma mão;Modo Uma Mão;Uma mão;Mãos pequenas</string>
     <string name="search_hint">Pesquisar definições</string>
+    <string name="search_history_clear_description">Limpar histórico de pesquisas</string>
+    <string name="search_history_description">Histórico de pesquisas</string>
     <string name="search_home_key">Início;Botão Início;Botão inicio</string>
     <string name="search_input_hint">Pesquisar definições</string>
     <string name="search_key_settings_title">Botões;Chaves</string>
