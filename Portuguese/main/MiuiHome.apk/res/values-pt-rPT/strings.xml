@@ -219,6 +219,7 @@
     <string name="drawer_settings">Gaveta de aplicações</string>
     <string name="dual_app">Clonar aplicações</string>
     <string name="edit">Editar</string>
+    <string name="edit_folder">Editar pasta</string>
     <string name="edit_folder_title">Editar nome da pasta</string>
     <string name="edit_mode_dual_app">Clonar aplic.</string>
     <string name="edit_mode_group">Agrupar</string>
@@ -248,6 +249,12 @@
     <string name="fold_pair_install_shortcut_long_click">Premir e segurar para adicionar ao ecrã inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
+    <string name="folder_not_edit_icon_tip">Para editar, mover a aplicação para fora da pasta primeiro</string>
+    <string name="folder_picker_big_text">Aumentado</string>
+    <string name="folder_picker_default_text">Normal</string>
+    <string name="folder_picker_options_tab_text">Tamanho</string>
+    <string name="folder_picker_sliding_button_tab_text">Suggest highlighted apps</string>
+    <string name="folder_picker_tab_text">Pasta</string>
     <string name="frame_load_failed">Não é possível carregar o fotograma</string>
     <string name="free_style_apps_title">Escolher aplicação</string>
     <string name="free_style_drawer_title">Todas as aplicações</string>
@@ -747,7 +754,7 @@ Segurança melhorada"</string>
     <string name="terms_of_services_three">You can turn this feature off in the Settings.</string>
     <string name="terms_of_services_two">Para utilizar a pesquisa melhorada é necessário partilhar informações pessoais, incluindo pesquisas e endereço IP com a Branch Metrics Inc. A Branch vai processar as suas informações pessoais em concordância com <font color="#B3000000"><a href="http://url1">Política de Privacidade de Branch Discovery</a></font>. Leia e concorde com <font color="#B3000000"><a href="http://url2">Termos e Condições de Branch Discovery</a></font> e <font color="#B3000000"><a href="http://url3">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
     <string name="app_edit_icon">Editar ícone</string>
-    <string name="dock_not_edit_icon_tip">Para editar, mova a aplicação para fora da doca primeiro</string>
+    <string name="dock_not_edit_icon_tip">Para editar, mover a aplicação para fora da doca primeiro</string>
     <string name="label">Etiqueta</string>
     <string name="miui_widget_toast_for_not_support_by_pa">O assistente não suporta widgets deste tamanho</string>
     <string name="monochrome_summary">Alterar a cor de fundo para ícones compatíveis</string>
