@@ -230,6 +230,10 @@
         <item>Mais de 60 dias</item>
         <item>Mais de 90 dias</item>
     </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Sempre</item>
+        <item>Excepto quando outra aplicação de pagamento estiver aberta</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
         <item>Percentagem (no ícone)</item>

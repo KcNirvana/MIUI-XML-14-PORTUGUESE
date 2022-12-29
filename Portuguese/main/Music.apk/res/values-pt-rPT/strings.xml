@@ -151,7 +151,6 @@
     <string name="attention_failure">Follow failed</string>
     <string name="attention_success">Followed successfully</string>
     <string name="artist_news">Notícias</string>
-    <string name="audio_ad_countdown">Ignorar anúncios em %ss</string>
     <string name="audio_ad_pass">Ignorar anúncios</string>
     <string name="audio_picker_title">Escolher uma música</string>
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
@@ -1284,10 +1283,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="album_cover">Album cover</string>
     <string name="album_is_empty">Album name can not be empty.</string>
     <string name="always_use_metered">Always use mobile data</string>
-    <string name="androidx_startup">androidx.startup</string>
-    <string name="audio_ad_countdown">Skip ad in %ss</string>
-    <string name="audio_ad_pass">Skip ad</string>
-    <string name="auto_recommend">Auto (recommended)</string>
     <string name="auto_sound_quality">Auto</string>
     <string name="autoplay_is_off">Autoplay is off</string>
     <string name="autoplay_is_on">Autoplay is on</string>
