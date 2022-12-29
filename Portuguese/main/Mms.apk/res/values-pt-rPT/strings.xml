@@ -463,6 +463,7 @@ Verifique o seu cartão SIM"</string>
 Esta mensagem pode não ser solicitada"</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
     <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as mensagens inteligentes</string>
+    <string name="mms_main_purpose_new">Esta aplicação necessita de ligar à Internet para fornecer os serviços básicos. Recomendamos que ligue o Mi Message e as mensagens inteligentes</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Message! É necessário enviar uma mensagem SMS para activar Mi Message. A sua operadora vai cobrar esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que tire o máximo de Mi Message</string>
     <string name="mms_mx_privacy_policy">Política de Privacidade de Mi Message</string>
@@ -1127,6 +1128,7 @@ Veja as recomendadas!"</string>
     <string name="system_permission_declare_agree">Concordar</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Leia e concorde com os nossos %1s e %2s antes de utilizar esta funcionalidade</string>
+	<string name="system_permission_declare_exit">Sair</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Bem-vindo ao Mi Message!</string>
     <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade.

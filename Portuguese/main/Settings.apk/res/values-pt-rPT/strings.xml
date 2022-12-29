@@ -234,6 +234,8 @@ Só queria verificar como estão os projectos. Vão estar prontos antes de come�
     <string name="accessibility_timeout_2mins">2 minutos</string>
     <string name="accessibility_timeout_30secs">30 segundos</string>
     <string name="accessibility_timeout_default">Predefinido</string>
+    <string name="accessibility_toggle_audio_description_preference_title">Descrição do áudio</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_summary">Alterar cor do texto para preto ou branco. Maximiza o contraste com o fundo</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Ponteiro de rato grande</string>
     <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
@@ -2442,6 +2444,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
     <string name="dark_ui_title">Modo Escuro</string>
     <string name="dark_wallpaper_mode">Ajustar papel de parede para o Modo Escuro</string>
     <string name="dashboard_title">Definições</string>
+    <string name="data_acceleration_summery">Utilizar Wi-Fi e dados móveis para optimizar velocidade quando a ligação Wi-Fi for fraca</string>
     <string name="data_during_calls_summary">Permitir a utilização deste SIM para dados móveis apenas durante as chamadas</string>
     <string name="data_during_calls_title">Dados durante chamadas</string>
     <string name="data_limit">Limite de dados</string>
@@ -5576,7 +5579,8 @@ Seleccione o seu sistema operativo:"</string>
     <string name="multi_face_list">Dados de rosto</string>
     <string name="multi_face_name_prefix">"Rosto "</string>
     <string name="multi_face_number_reach_limit">Não é possível adicionar dados para mais do que 2 rostos</string>
-    <string name="multi_network_acceleration_app_settings">Gestão de aceleração de redes</string>
+    <string name="multi_network_acceleration_app_settings">Aceleração de redes para aplicações</string>
+    <string name="multi_network_acceleration_summery">Ligar a várias redes Wi-Fi ao mesmo tempo para optimizar velocidade</string>
     <string name="multi_touch_points_category_title">Pontos multi-toque</string>
     <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
     <string name="multi_window_cvw_summary">Arrastar o canto para alterar para uma janela flutuante e ajustar o seu tamanho</string>
@@ -5651,7 +5655,10 @@ Seleccione o seu sistema operativo:"</string>
     <string name="network_4G">4G (recomendado)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>
-    <string name="network_5G_recommended">5G (recommended)</string>
+    <string name="network_5G_recommended">5G (recomendado)</string>
+    <string name="network_acceleration">Aceleração de rede</string>
+    <string name="network_auto_switch">Trocar redes</string>
+    <string name="network_auto_switch_summery">Trocar para dados móveis quando o sinal Wi-Fi for fraco ou a rede não estiver disponível</string>
     <string name="network_alarm">Não silenciar chamadas da Internet</string>
     <string name="network_alarm_summary">Nota: Algumas aplicações não são compatíveis com esta funcionalidade. %1$s</string>
     <string name="network_alarm_summary_reg">Ver aplicações suportadas</string>
@@ -5729,6 +5736,12 @@ Seleccione o seu sistema operativo:"</string>
     <string name="nfc_and_payment_settings_no_payment_installed_summary">Para utilizar, instale uma aplicação de pagamento primeiro</string>
     <string name="nfc_and_payment_settings_payment_off_nfc_off_summary">Não disponível porque o NFC está desligado</string>
     <string name="nfc_category_title">NFC</string>
+    <string name="nfc_default_payment_footer">Para fazer um pagamento utilizando uma aplicação, encoste a traseira do seu dispositivo contra um terminal de pagamento</string>
+    <string name="nfc_default_payment_settings_title">Aplicação pagamento predefinida</string>
+    <string name="nfc_default_payment_workapp_confirmation_message_1">O perfil de trabalho tem de estar ligado</string>
+    <string name="nfc_default_payment_workapp_confirmation_message_2">Vai necessitar de introduzir o seu PIN, padrão ou palavra-passe de trabalho se tiver um</string>
+    <string name="nfc_default_payment_workapp_confirmation_message_title">Para fazer um pagamento utilizando uma aplicação de trabalho:</string>
+    <string name="nfc_default_payment_workapp_confirmation_title">Definir uma aplicação de trabalho como predefinida de pagamento?</string>
     <string name="nfc_disabled_summary">Não disponível porque o NFC está desligado</string>
     <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos próximos, tais como terminais de pagamento, leitores de acesso e anúncios ou etiquetas interactivas</string>
     <string name="nfc_disclaimer_title">Ligar NFC</string>
@@ -9428,7 +9441,7 @@ Toque no botão (+) para adicionar palavras"</string>
     <string name="visibility_override_title">No ecrã de bloqueio</string>
     <string name="vision_settings_description">Pode personalizar este dispositivo para as suas necessidades.Estas funcionalidades de acessibilidade pode ser alteradas mais tarde em Definições</string>
     <string name="vision_settings_suggestion_title">Alterar tamanho do tipo de letra</string>
-    <string name="vision_settings_title">Definições de visão</string>
+    <string name="vision_settings_title">Definições de visualização</string>
     <string name="voice_access">Controlos de voz</string>
     <string name="voice_assist">Mi AI</string>
     <string name="voice_category">Voz</string>
@@ -10027,6 +10040,7 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_password">Palavra-passe</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilizar uma rede Wi-Fi excepto se tiver uma boa ligação à Internet</string>
+    <string name="wifi_primary">Rede primária</string>
     <string name="wifi_priority_changed">Valor antigo %1$s | Novo valor %2$s</string>
     <string name="wifi_priority_label">Prioridade</string>
     <string name="wifi_priority_settings_label">Definições de prioridade</string>
@@ -10051,9 +10065,10 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_required_info_text">Para concluir a instalação, o seu dispositivo necessita de aceder ao Wi-Fi. Depois da instalação, pode alternar entre os dados móveis e o Wi-Fi</string>
     <string name="wifi_sap_no_channel_error">Banda de 5 GHz não disponível neste país</string>
     <string name="wifi_save">Guardar</string>
+    <string name="wifi_saved_access_point">Redes guardadas</string>
     <string name="wifi_saved_access_points_label">Redes guardadas</string>
     <string name="wifi_saved_access_points_tab">Redes Wi-Fi</string>
-    <string name="wifi_saved_other_networks_tab">Other networks</string>
+    <string name="wifi_saved_other_networks_tab">Outras redes</string>
     <string name="wifi_scan_always_available">Localizar sempre disponível</string>
     <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando o Wi-Fi está desligado</string>
     <string name="wifi_scan_always_confirm_allow">Permitir</string>

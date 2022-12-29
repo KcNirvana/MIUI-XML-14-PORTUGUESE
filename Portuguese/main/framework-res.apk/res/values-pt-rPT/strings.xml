@@ -1398,6 +1398,9 @@ para a conta %s"</string>
     <string name="permlab_readContacts">ler os contactos</string>
     <string name="permlab_readHistoryBookmarks">ler os marcadores da web e histórico</string>
     <string name="permlab_readInstallSessions">ler sessões de instalação</string>
+    <string name="permlab_readMediaAudio">ler ficheiros de áudio do armazenamento partilhado</string>
+    <string name="permlab_readMediaImages">ler ficheiros de imagens do armazenamento partilhado</string>
+    <string name="permlab_readMediaVideo">ler ficheiros de vídeo armazenamento partilhado</string>
     <string name="permlab_readNetworkUsageHistory">ler histórico de utilização da rede</string>
     <string name="permlab_readPhoneNumbers">ler os números do telefone</string>
     <string name="permlab_readPhoneState">ler o estado e a identidade do telefone</string>

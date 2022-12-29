@@ -570,7 +570,7 @@
     <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um momento e tente novamente</string>
     <string name="query_quota_searching">Aguarde…</string>
     <string name="recent_hide_camera_and_screenshots">Não mostrar fotos da Galeria e capturas de ecrã nos ficheiros recentes</string>
-    <string name="recent_hide_cloud_drive_files">Não mostrar ficheiro Mi Drive nos Recentes</string>
+    <string name="recent_hide_cloud_drive_files">Não mostrar ficheiros Mi Drive nos Recentes</string>
     <string name="refresh_fail">Não foi possível actualizar</string>
     <string name="refresh_success">Actualizado</string>
     <string name="refreshing">A actualizar</string>
