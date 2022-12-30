@@ -183,4 +183,19 @@
         <item quantity="other">%1$d pessoas</item>
         <item quantity="one">%1$d pessoa</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" days"</item>
+        <item quantity="one">" day"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
 </resources>

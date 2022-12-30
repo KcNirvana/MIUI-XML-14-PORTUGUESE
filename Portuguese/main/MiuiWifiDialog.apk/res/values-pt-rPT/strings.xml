@@ -2,6 +2,9 @@
 <resources>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
+    <string name="notification_channel_network_alerts">Network alerts</string>
+    <string name="notification_channel_network_available">Network available</string>
+    <string name="notification_channel_network_status">Network status</string>
     <string name="wifiResourcesAppLabel">System Wi-Fi Resources</string>
     <string name="wifi_available_action_all_networks">All networks</string>
     <string name="wifi_available_action_connect">Connect</string>

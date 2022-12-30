@@ -181,4 +181,26 @@
         <item>Ver itens sincronizados</item>
         <item>Detalhes de armazenamento</item>
     </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>For identifying synced items</item>
+        <item>For syncing messages</item>
+        <item>For syncing contacts</item>
+        <item>For syncing calendar events</item>
+        <item>For syncing items with services that use storage</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Phone</item>
+        <item>SMS</item>
+        <item>Contacts</item>
+        <item>Calendar</item>
+        <item>Storage</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sync your photos, notes, recordings, and more</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sync app data</item>
+        <item>Find device</item>
+    </string-array>
 </resources>

@@ -89,4 +89,24 @@
         <item quantity="other">%d destinatários</item>
         <item quantity="one">%d destinatário</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">As mensagens de áudio podem ter até %1$4d segundos</item>
+        <item quantity="one">As mensagens de áudio podem ter %1$4d segundo</item>
+     </plurals>
+     <plurals name="max_file_size">
+        <item quantity="other">Enviar ficheiros até %1$4dMB</item>
+        <item quantity="one">Enviar ficheiros até %1$4dMB</item>
+     </plurals>
+     <plurals name="max_recipients_size">
+        <item quantity="other">Enviar mensagens até %1$4d contactos</item>
+        <item quantity="one">Enviar mensagens até %1$4d contacto</item>
+     </plurals>
+     <plurals name="max_text_size">
+        <item quantity="other">As mensagens podem ter até %1$4d caracteres</item>
+        <item quantity="one">As mensagens podem ter até %1$4d caracter</item>
+     </plurals>
+     <plurals name="max_video_length">
+        <item quantity="other">Os vídeos podem ter até %1$4d segundos</item>
+        <item quantity="one">Os vídeos podem ter até %1$4d segundo</item>
+     </plurals>
 </resources>

@@ -17,4 +17,8 @@
         <item>Equilibrado</item>
         <item>Predefinido</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Equilibrado</item>
+        <item>Predefinido</item>
+    </string-array>
 </resources>

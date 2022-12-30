@@ -1284,8 +1284,6 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="album_is_empty">Album name can not be empty.</string>
     <string name="always_use_metered">Always use mobile data</string>
     <string name="auto_sound_quality">Auto</string>
-    <string name="autoplay_is_off">Autoplay is off</string>
-    <string name="autoplay_is_on">Autoplay is on</string>
     <string name="back">Back</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="buy_vip_skip_ad">Remove ads</string>

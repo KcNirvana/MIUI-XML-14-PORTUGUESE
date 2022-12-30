@@ -32,4 +32,8 @@
         <item quantity="other">Não foi possível sincronizar %s itens</item>
         <item quantity="one">Não foi possível sincronizar %s item</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Não faz uma cópia há %s semanas. Crie cópias para não perder nada importante</item>
+        <item quantity="one">Não faz uma cópia há %s semana. Crie cópias para não perder nada importante</item>
+    </plurals>
 </resources>

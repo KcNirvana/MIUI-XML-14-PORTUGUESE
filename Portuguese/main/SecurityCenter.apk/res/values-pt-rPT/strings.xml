@@ -329,6 +329,13 @@
     <string name="app_behavior_read_clipboard_bg">%1s acedeu a itens na área de transferências em segundo plano</string>
     <string name="app_behavior_recognition">%1s acedeu às suas actividades</string>
     <string name="app_behavior_recognition_single">Esta aplicação acedeu às suas actividades</string>
+    <string name="app_behavior_record_cancel">Cancelar</string>
+    <string name="app_behavior_record_close">Desligar</string>
+    <string name="app_behavior_record_close_title">Desligar</string>
+    <string name="app_behavior_record_hide_system">Ocultar aplicações de sistema</string>
+    <string name="app_behavior_record_open">Ligar</string>
+    <string name="app_behavior_record_open_content_text">O comportamento das aplicações mostra o que as aplicações andam a fazer e ajuda-o a evitar riscos de segurança</string>
+    <string name="app_behavior_record_show_system">Mostrar aplicações de sistema</string>
     <string name="app_behavior_record_setting_button_title">Mostrar comportamento de serviços de sistema</string>
     <string name="app_behavior_record_setting_show_system">Mostrar comportamento de serviços de sistema</string>
     <string name="app_behavior_record_setting_show_system_desc">Ligar para ver o comportamento de serviços de sistema. Para assegurar a estabilidade do sistema, estes serviços vão utilizar as permissões necessárias</string>
@@ -5543,4 +5550,92 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_predownload_receive_tips">Ligar actualizações em segundo plano para obter recompensas</string>
     <string name="gb_predownload_title">Actualizações em segundo plano</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s restantes</string>
+    <string name="application_mode_name">Layouts das aplicações</string>
+    <string name="gamebooster_dialog_recover">Renovar</string>
+    <string name="gamebooster_dialog_start_booster">Iniciar</string>
+    <string name="gamebooster_push_expiring_soon_button">Renovar</string>
+    <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
+    <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
+    <string name="gb_award_noti_title">Game for Peace rewards are here!</string>
+    <string name="gb_predownload_receive_error">A network error occurred. Try again.</string>
+    <string name="gb_predownload_receive_max">"Can't get more rewards on this device"</string>
+    <string name="gb_predownload_receiving">Receiving…</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para utilizar o ecrã dividido
+· Premir e segurar o indicador para mover a janela"</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante
+· Premir e segurar o indicador para mover a janela"</string>
+    <string name="bh_buy_order_fail_tips_text">An error occurred. Wait a minute or two and try again.</string>
+    <string name="bh_charge_for_more">More</string>
+    <string name="bh_charge_record">Purchase history</string>
+    <string name="bh_charge_traffic">Buy mobile data</string>
+    <string name="bh_copy_list_item_tips">Copied successfully</string>
+    <string name="bh_create_order_carrier_item_text">Carrier</string>
+    <string name="bh_create_order_fee_item_text">Amount</string>
+    <string name="bh_create_order_id_item_text">Order number</string>
+    <string name="bh_create_order_record_failed_text">"Couldn't complete"</string>
+    <string name="bh_create_order_record_service_text">Online support</string>
+    <string name="bh_create_order_record_success_text">Completed</string>
+    <string name="bh_create_order_time_item_text">Time</string>
+    <string name="bh_home_to_set_phone_number">Set phone number</string>
+    <string name="bh_more_functions">More tools</string>
+    <string name="bh_no_resource_tab_view">No items available</string>
+    <string name="bh_open_pay_loading_dialog_title">Preparing payment…</string>
+    <string name="bh_order_detail_carrier_text">Carrier</string>
+    <string name="bh_order_detail_create_time_text">Time</string>
+    <string name="bh_order_detail_fee_text">Order total</string>
+    <string name="bh_order_detail_id_text">Order number</string>
+    <string name="bh_order_detail_number_text">Phone number</string>
+    <string name="bh_order_detail_price_text">Amount</string>
+    <string name="bh_order_details_title_content">Order details</string>
+    <string name="bh_pay_status_confirm_text">Getting info…</string>
+    <string name="bh_pay_status_failed_text">"Couldn't complete payment"</string>
+    <string name="bh_pay_status_success_text">Completed payment successfully</string>
+    <string name="bh_pay_status_success_tips_text">Purchases might be delivered with a delay</string>
+    <string name="bh_product_input_normal_phone">Enter a valid phone number</string>
+    <string name="bh_product_list_all">All data plans</string>
+    <string name="bh_product_status_abnormal_click_phone_text">Tap to set manually.</string>
+    <string name="bh_product_status_abnormal_phone_text">"Couldn't recognize phone number."</string>
+    <string name="bh_product_status_no_net_text">"Can't connect to the network"</string>
+    <string name="bh_product_status_no_resources_text">"These items aren't available now. Try other data plans."</string>
+    <string name="bh_purchase_dialog_cilck_to_buy">Buy</string>
+    <string name="bh_purchase_dialog_number_text">"Phone number: "</string>
+    <string name="bh_purchase_dialog_tips">Purchases might be delivered with a delay</string>
+    <string name="bh_set_phone_dialog_title">"Make sure the phone number you enter here is correct.
+You can change your phone number in Settings."</string>
+    <string name="bh_set_phone_dialog_title_new">"Add your phone number to view and purchase data plans available to you.
+You can always change your phone number in Settings."</string>
+    <string name="bh_settings_declare">Disclaimer</string>
+    <string name="bh_settings_policy_text">Privacy Policy</string>
+    <string name="bh_settings_user_agreement">User Agreement</string>
+    <string name="bh_settings_withdrawal_dialog_content_text">"If you continue, you'll withdraw your consent to the Privacy Policy of Yulore Limited.
+After that, we'll stop collecting and using your personal information and delete your order history permanently. Make sure all your transactions are completed before you withdraw consent."</string>
+    <string name="bh_settings_withdrawal_dialog_not_content_text">"Looks like you'd like to withdraw your consent to the Privacy Policy of Yulore Limited.
+However, some of your transactions aren't completed yet. To be able to withdraw consent, contact customer support to close your orders."</string>
+    <string name="bh_settings_withdrawal_dialog_title">Withdrawal of consent</string>
+    <string name="bh_settings_withdrawal_subtitle">Withdraw consent to the Privacy Policy of Data usage</string>
+    <string name="bh_settings_withdrawal_text">Withdrawal of consent</string>
+    <string name="bh_settings_withdrawal_yulore">Withdraw consent to the Privacy Policy of Yulore Limited</string>
+    <string name="bh_settings_yulore_limited_paivacy">View Yulore Limited Privacy Policy</string>
+    <string name="bh_settings_yulore_limited_user">View Yulore Limited User Agreement</string>
+    <string name="bh_traffic_product_out_of_stock">Sold out</string>
+    <string name="bh_withdrawal_yulore_fail">"Couldn't withdraw consent"</string>
+    <string name="bh_withdrawal_yulore_success">Consent withdrawn successfully</string>
+    <string name="main_toolbar_custom_service">Customers service</string>
+    <string name="main_toolbar_recharge_record">Recharge record</string>
+    <string name="na_operator_not_support_correction">"This carrier doesn't support fee and balance inquiries"</string>
+    <string name="order_bh_net_error">No network</string>
+    <string name="other_operator_name_virtual_operator">Other virtual carriers</string>
+    <string name="pc_emergency_call">Emergency</string>
+    <string name="pc_endurance_calculation">Calculating…</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Got it</string>
+    <string name="pc_high_temp_protection_noti_summary">"Can't use hotspots, mobile data, and location services now"</string>
+    <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
+    <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
+    <string name="pc_temperature_too_high">Device overheated</string>
+    <string name="pc_wait_device_cools_down">Wait until your device cools down to be able to use this feature.</string>
+    <string name="permission_instruction_shake">"This permission allows apps to track your device's orientation and movement (e.g. shaking, tilting, and rotating)"</string>
+    <string name="vb_video_effects_immersion_sound">Som imersivo</string>
+    <string name="vb_video_effects_immersion_sound_summary">Experience immersion and sense of space when supported audio is played through earphones</string>
+    <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio and video and adjust immersive sound based on head movement</string>
 </resources>

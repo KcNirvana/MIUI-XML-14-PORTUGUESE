@@ -74,4 +74,14 @@
         <item>Termos de Utilização</item>
         <item>Xiaomi;Conta;Conta Xiaomi;Utilização;Termos;Ver</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Family storage space</item>
+        <item>View/turn on Family storage space</item>
+        <item>Family storage space;Storage sharing</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Family services</item>
+        <item>View/turn on Family services</item>
+        <item>Family;Family services;Family sharing</item>
+    </string-array>
 </resources>

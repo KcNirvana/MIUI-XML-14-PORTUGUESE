@@ -104,4 +104,15 @@
     <string name="refocus_type_static">Focagem</string>
     <string name="refocus_type_video">Trilhas leves</string>
     <string name="save">Guardar</string>
+    <string name="grant_permission_go_and_set_2">Definições</string>
+    <string name="grant_permission_remind_title">Permissões necessárias</string>
+    <string name="grant_permission_storage">Permitir que esta aplicação aceda ao armazenamento</string>
+    <string name="grant_permission_text">O editor da galeria necessita das seguintes permissões para funcionar normalmente: %s. Toque em \"Definições\" para conceder</string>
+    <string name="saf_operation_guide_1">"O editor da galeria necessita da sua permissão para poder proteger e gerir os seus dados. "</string>
+    <string name="saf_operation_guide_2">Para conceder a permissão, toque em \"%1$s\" e seleccione \"%2$s\"</string>
+    <string name="saf_operation_guide_param1">Seguinte</string>
+    <string name="saf_requester_cancel">Cancelar</string>
+    <string name="saf_requester_title">Permitir que o editor da galeria aceda a \"%s\"</string>
+    <string name="saf_secret_album">Álbum privado</string>
+    <string name="saf_secret_album_guide">Esta aplicação necessita de permissões para mostrar itens dos seus álbuns privados</string>
 </resources>

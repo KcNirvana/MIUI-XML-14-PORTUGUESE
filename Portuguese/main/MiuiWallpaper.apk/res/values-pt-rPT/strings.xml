@@ -72,4 +72,24 @@ dd/M"</string>
     <string name="weather_summary">Informações de tempo</string>
     <string name="weather_super_wallpaper_label">Tempo</string>
     <string name="weather_title">Tempo</string>
+    <string name="earth_position_content_0">O Parque Natural do Cabo Kamenjak, na Croácia, é o lar da maior parte das paisagens de tirar o fôlego ao longo da costa do Mediterrâneo. As impressionantes formações geológicas transformam este lugar num paraíso para mergulhadores. Todos os verões, o sol deslumbrante e as águas quentes do Mediterrâneo atraem incontáveis entusiastas do ar livre</string>
+    <string name="earth_position_content_1">"Os terraços de arroz são o resultado da actividade humana, mas também servem como um excelente ponto de paisagem natural.
+Na China, os terraços de arroz estão localizados principalmente ao sul do Rio Yangtze, onde as chuvas são comuns e as montanhas são abundantes. Os terraços de Longsheng existem há mais de 700 anos e há alguns monumentos históricos nas aldeias mais próximas"</string>
+    <string name="earth_position_content_2">Ilulissat está localizada no oeste da Groenlândia, a 200 quilómetros a norte do Círculo Ártico. O lindo Icefjord Ilulissat de 56 quilómetros está situado ao lado do glaciar Jakobshavn Isbræ. Sendo o maior glaciar do hemisfério norte, produz 2 bilhões de toneladas de icebergs em cada ano. Após um curto desvio para norte, eles vão para sul e fluem no Oceano Atlântico</string>
+    <string name="earth_position_content_3">"Navagio is one of the most beautiful beaches on the coast of Zakynthos, in the Ionian Islands of Greece. It's said to be the home of a famous shipwreck, which is why the beach is also called \"Smugglers Cove\"."</string>
+    <string name="earth_position_content_4">The Dolomites are a mountain range located in northeastern Italy. Mount Seceda is truly one of the most picturesque places there.</string>
+    <string name="earth_position_title_0">"Croácia
+Cabo Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Terraços de arroz de Longsheng"</string>
+    <string name="earth_position_title_2">"Gronelândia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Greece
+Navagio Beach"</string>
+    <string name="earth_position_title_4">"Italy
+Dolomites"</string>
+    <string name="mars_position_content_3">Estas imagens foram tiradas quando o rover Curiosity se encontrava em Marte a explorar as colinas de Pahrump na cratera de Gale. Esta região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água. As áreas escuras são areia</string>
+    <string name="mars_position_content_4">O vale de Bahram é um vale de traço único, com paredes recortadas em algumas zonas. A presença de características erosivas simplificadas no seu solo mostram que àgua estava envolvida na formação</string>
+    <string name="mars_position_title_3">Colinas Pahrump</string>
+    <string name="mars_position_title_4">Vale de Bahram</string>
 </resources>

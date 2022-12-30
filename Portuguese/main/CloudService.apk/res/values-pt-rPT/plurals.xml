@@ -116,4 +116,8 @@
         <item quantity="other">%1$s minutos</item>
         <item quantity="one">%1$s minuto</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Não foi possível sincronizar %s itens</item>
+        <item quantity="one">Não foi possível sincronizar %s item</item>
+    </plurals>
 </resources>

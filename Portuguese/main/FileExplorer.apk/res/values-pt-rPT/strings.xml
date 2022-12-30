@@ -281,6 +281,9 @@
     <string name="image_loading_error">Não foi possível carregar imagem</string>
     <string name="imm_str_storage">Armazenamento</string>
     <string name="import_files_from_old_phones">Importar do dispositivo antigo</string>
+    <string name="install_media_editor_button_text">Transferir</string>
+    <string name="install_media_editor_message">Para pode editar itens, transfira o plugin primeiro. Transferir agora?</string>
+    <string name="install_media_editor_title">Necessário plugin</string>
     <string name="instruction">"Introduzir o endereço seguinte no cliente FTP : "</string>
     <string name="instruction_pre_pad">Gerir ficheiros neste dispositivo utilizando um computador</string>
     <string name="instruction_pre_phone">Gerir ficheiros neste dispositivo utilizando um computador</string>

@@ -182,4 +182,60 @@ Available today only"</item>
         <item quantity="other">Ocultar %d ficheiros seleccionados?</item>
         <item quantity="one">Ocultar %d ficheiro seleccionado?</item>
     </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Ver %d respostas</item>
+        <item quantity="one">Ver %d resposta</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d out of %2$2d episodes available</item>
+        <item quantity="one">%1$1d out of %2$2d episode available</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d out of %2$2d episodes available</item>
+        <item quantity="one">%1$1d out of %2$2d episode available</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodes total</item>
+        <item quantity="one">%d episode total</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s segundos restantes</item>
+        <item quantity="one">%s segundo restante</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Shared successfully. You've earned %d points. Claim in the Points Center."</item>
+        <item quantity="one">"Shared successfully. You've earned %d point. Claim in the Points Center."</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Subscribed successfully. You've earned %d points. Claim in the Points Center."</item>
+        <item quantity="one">"Subscribed successfully. You've earned %d point. Claim in the Points Center."</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d days until %3$s.</item>
+        <item quantity="one">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d day until %3$s.</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Eliminar permanentemente %s ficheiros agora?</item>
+        <item quantity="one">Eliminar permanentemente %s ficheiro agora?</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Adicionar até %d marcadores</item>
+        <item quantity="one">Adicionar até %d marcador</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s gostos</item>
+        <item quantity="one">%s gosto</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
+    </plurals>
 </resources>

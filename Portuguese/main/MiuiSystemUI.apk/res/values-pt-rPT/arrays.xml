@@ -461,10 +461,21 @@
         <item>Não disponível</item>
         <item>Desligado</item>
         <item>Ligado</item>
-     </string-array>
-     <string-array name="tile_states_qr_code_scanner">
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>Não disponível</item>
         <item>Desligado</item>
         <item>Ligado</item>
-     </string-array>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Não disponível</item>
+        <item>Desligado</item>
+        <item>Ligado</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mover para a esquerda</item>
+        <item>Mover para baixo</item>
+        <item>Mover para a direita</item>
+        <item>Mover para cima</item>
+    </string-array>
 </resources>

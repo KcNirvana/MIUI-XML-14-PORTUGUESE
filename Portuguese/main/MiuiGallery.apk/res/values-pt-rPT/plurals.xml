@@ -626,4 +626,28 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d ecrãs</item>
+        <item quantity="one">%1$d ecrã</item>
+    </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Não foi possível transferir %1$d itens</item>
+        <item quantity="one">Não foi possível transferir %1$d item</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Não foi possível transferir %1$d itens. Vá a i.mi.com para transferir</item>
+        <item quantity="one">Não foi possível transferir %1$d item. Vá a i.mi.com para transferir</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Items can be stored here for %1$s days. Tap to extend this period.</item>
+        <item quantity="one">Items can be stored here for %1$s day. Tap to extend this period.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Deleted items are stored in the cloud for %1$d days</item>
+        <item quantity="one">Deleted items are stored in the cloud for %1$d day</item>
+    </plurals>
 </resources>

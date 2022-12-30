@@ -31,4 +31,10 @@
         <item>Interno</item>
         <item>Externo</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Sem som</item>
+        <item>Microfone</item>
+        <item>Sons de sistema</item>
+        <item>Ambos</item>
+    </string-array>
 </resources>

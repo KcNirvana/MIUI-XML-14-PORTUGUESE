@@ -892,4 +892,24 @@ Faça um intervalo!"</item>
         <item quantity="other">Trojans: %d</item>
         <item quantity="one">Trojan: %d</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">App behavior records are stored on this device for %d days. If you turn this feature off, new records will no longer appear and the old ones will be deleted. Turn off anyway?</item>
+        <item quantity="one">App behavior records are stored on this device for %d day. If you turn this feature off, new records will no longer appear and the old ones will be deleted. Turn off anyway?</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days. Renew now to enjoy seamless gaming.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day. Renew now to enjoy seamless gaming.</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Checked in %d days in a row</item>
+        <item quantity="one">Checked in %d time</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragments</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
 </resources>

@@ -276,4 +276,6 @@ Tocar em \"%1$s\" e depois seleccionar \"%2$s\""</string>
     <string name="waiting_close_airplane_mode">Aguarde…</string>
     <string name="wifi_call">Chamadas VoWifi</string>
     <string name="xiaoai_assistant">Assistente de chamadas Mi IA</string>
+    <string name="vilte_call">ViLTE</string>
+    <string name="viwifi_call">ViWifi</string>
 </resources>

@@ -280,4 +280,5 @@ Duplo toque para abrir Recentes"</string>
     <string name="voice_category">Voz</string>
     <string name="wake_suppression_summary">O seu dispositivo vai responder a toques acidentais e a gestos pertos das laterais</string>
     <string name="wake_suppression_title">Área pequena</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Ligar o assistente de voz em modo ecrã inteiro (sem botões virtuais)</string>
 </resources>

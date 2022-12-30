@@ -1006,4 +1006,85 @@ Toque no botão correspondente de acordo com o número que ouvir"</string>
     <string name="cit_tool_wlan_clear">Limpar</string>
     <string name="cit_tool_wlan_export">Exportar</string>
     <string name="cit_tool_wlan_update_ap_list">Actualizar lista PA Móvel</string>
+    <string name="CurrentDsiAnt0">\u0009Ant0</string>
+    <string name="CurrentDsiAnt1">\u0009Ant1</string>
+    <string name="CurrentDsiAnt2">\u0009Ant2</string>
+    <string name="CurrentDsiAnt3">\u0009Ant3</string>
+    <string name="CurrentDsiAnt4">\u0009Ant4</string>
+    <string name="CurrentDsiAnt5">\u0009Ant5</string>
+    <string name="CurrentDsiDisplayAnt0">0</string>
+    <string name="CurrentDsiDisplayAnt1">0</string>
+    <string name="CurrentDsiDisplayAnt2">0</string>
+    <string name="CurrentDsiDisplayAnt3">0</string>
+    <string name="CurrentDsiDisplayAnt4">0</string>
+    <string name="CurrentDsiDisplayAnt5">0</string>
+    <string name="CurrentDsiDisplayOtherAnt">0</string>
+    <string name="CurrentDsiOtherAnt">\u0009OtherAnts</string>
+    <string name="ST_CurrentDsi">\u0009\u0009ST_CurrentDsi</string>
+    <string name="ST_CurrentDsiDisplay">-1</string>
+    <string name="ST_CurrentMcc">\u0009\u0009ST_CurrentMcc</string>
+    <string name="ST_CurrentMccDisplay">-1</string>
+    <string name="ST_EffectiveRegulatoryBody">\u0009\u0009ST_EffectiveRegulatoryBody</string>
+    <string name="ST_EffectiveRegulatoryBodyDisplay">-1</string>
+    <string name="ST_ExposureMode">\u0009\u0009ST_ExposureMode</string>
+    <string name="ST_ExposureModeDisplay">-1</string>
+    <string name="ST_MccRegulatoryBody">\u0009\u0009ST_MccRegulatoryBody</string>
+    <string name="ST_MccRegulatoryBodyDisplay">-1</string>
+    <string name="ST_PeakModeOverrideMask">\u0009\u0009ST_PeakModeOverrideMask</string>
+    <string name="ST_PeakModeOverrideMaskDisplay">-1</string>
+    <string name="ST_QstGen">\u0009\u0009ST_QstGen</string>
+    <string name="ST_QstGenDisplay">-1</string>
+    <string name="ST_QstMode">\u0009\u0009ST_QstMode</string>
+    <string name="ST_QstModeDisplay">-1</string>
+    <string name="ST_SensingMode">\u0009\u0009ST_SensingMode</string>
+    <string name="ST_SensingModeDisplay">-1</string>
+    <string name="Sensor3Display">0</string>
+    <string name="Sensor3_Status">\u0009\u0009Sensor3_Status</string>
+    <string name="auto_frontflash_description">All the front flash lights are on, click to pass, otherwise click to fail</string>
+    <string name="auto_frontflash_title">Front camera flash test</string>
+    <string name="auto_rearflash_description">All rear camera flash lights are on, click to pass, otherwise click to fail</string>
+    <string name="auto_rearflash_title">Rear camera flash test</string>
+    <string name="battery_third_connector">Battery Connector Voltage</string>
+    <string name="bottom_speaker_title">Bottom speaker test</string>
+    <string name="cit_DP_check_summary">The DP lines should be connected during the testing process</string>
+    <string name="cit_DP_check_title">DP</string>
+    <string name="cit_DP_in_start_test">Please insert the DP line to start the testing</string>
+    <string name="cit_DP_plug_err">"Test failed 
+ Did not get the value"</string>
+    <string name="cit_DP_plug_fail">"Test failed 
+ This line is not a DP line, replace another line for testing"</string>
+    <string name="cit_DP_plug_out_err">"Test failure
+Did not get the value"</string>
+    <string name="cit_DP_plug_out_fail">"Broken connection was detected
+Test Failed
+"</string>
+    <string name="cit_DP_plug_out_pass">"Broken connection was detected
+Test Pass"</string>
+    <string name="cit_DP_plug_pass">The connected DP line is detected, please observe whether the screen projection is successful, and click the corresponding button</string>
+    <string name="cit_DP_plug_re_plugin">DP test completed, please see whether the screen is successful, and click the corresponding button</string>
+    <string name="cit_USB3_OTG_error_condition">"An OTG device insertion was detected, but could not get the device information 
+ Test failed"</string>
+    <string name="cit_USB3_check_summary">USB3.0-supporting devices need to be inserted during testing</string>
+    <string name="cit_USB3_check_title">USB3.0</string>
+    <string name="cit_USB3_error_condition">"Device insertion was detected, but could not get device information 
+ Test failed"</string>
+    <string name="cit_USB3_in_need_plugout">USB device connected detected, pull out to start test</string>
+    <string name="cit_USB3_in_start_test">Insert the USB3.0-enabled devices and start testing</string>
+    <string name="cit_USB3_plug_err">Did not read the correct value, please contact the development to see the reason</string>
+    <string name="cit_USB3_plug_fail">The test device does not support USB3.0 and the test failed</string>
+    <string name="cit_USB3_plug_out_test_err">"Device has pull out ,test fail
+Did not get the correct value, please contact the research and development student to find out the reason"</string>
+    <string name="cit_USB3_plug_out_test_fail">"Device has pull out ,test fail
+It is recommended to retest the replacement equipment"</string>
+    <string name="cit_USB3_plug_out_test_pass">Device has pull out ,test pass</string>
+    <string name="cit_USB3_plug_pass">USB3.0 pass ,please pull out devices</string>
+    <string name="cit_USB3_plug_re_plugin">"USB3.0 test is end, please don't repeat the test"</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Please keep the device closed for calibration</string>
+    <string name="cit_digital_hall_sensor_cali_title">Digital Hall Calibration Test</string>
+    <string name="cit_reverse_charge_check_summary">"Please insert the OTG reverse charging device to charge the other party's device"</string>
+    <string name="inputaddress">\u0009</string>
+    <string name="inputdefine">确定</string>
+    <string name="sar_algo_data_check_description">Sar Algo Data Collect</string>
+    <string name="sar_mtk_test_title">Sar Mtk Authentation Test</string>
+    <string name="top_speaker_title">Top speaker test</string>
 </resources>

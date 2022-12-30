@@ -19,6 +19,8 @@
     <string name="cm_terms_title">Contrato de operadora de rede móvel</string>
     <string name="compass_introduction">Pode utilizar esta aplicação para navegação, ver coordenadas, pressão atmosférica e altitude</string>
     <string name="congratulation_label">Tudo pronto para começar!</string>
+    <string name="congratulation_pre_label">Aguarde…</string>
+    <string name="congratulation_pre_title">A preparar o sistema…</string>
     <string name="congratulation_swipe">Deslize para cima para entrar no sistema</string>
     <string name="congratulation_title">Configuração concluída</string>
     <string name="content_description_complete">Concluído</string>
@@ -476,4 +478,44 @@ You must agree to Kika Privacy Policy before using this feature."</string>
     <string name="sim_card_detection_sb_nonactivated">Não activado</string>
     <string name="sim_card_dial_card">SIM %d para chamadas</string>
     <string name="sim_card_network_card">SIM %d para dados</string>
+    <string name="carousel_cookies_content"><Data>When you tap images and stories in Wallpaper Carousel, their full versions will be opened in your browser. Our trusted third party content provider can then recommend additional content and ads that are tailored to your interests. If you agree to activate this feature, they will place cookies in your browser, as described in this &lt;a href=\"%1$s\">Cookie Policy&lt;/a>. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.</Data></string>
+    <string name="carousel_cookies_subtitle">Cookies allow us to personalize your Lock screen experience.</string>
+    <string name="carousel_cookies_title">Personalized content and cookies</string>
+    <string name="carousel_privacy"><Data>"Read and agree to our trusted third party service provider's &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before using Wallpaper Carousel."</Data></string>
+    <string name="carousel_setting">Set up your Lock screen</string>
+    <string name="carousel_setting_sub">Wallpaper Carousel will show you fresh stories every time you unlock your device</string>
+    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="create_shortcut">Home screen shortcut</string>
+    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
+To be able to work normally, these service need to connect to the internet and require the following permissions:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For transferring items over Wi-Fi
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
+\u0009\u0009Access storage
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Mi Share:
+\u0009\u0009Access and save files and photos on your device
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Access location
+\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby and transferring files wirelessly
+\u0009\u0009Connect to nearby devices
+\u0009\u0009For finding devices nearby and connecting to them
+\u0009\u0009Casting:
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Access location
+\u0009\u0009For getting the info about nearby devices
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected during casting
+If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
+Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
 </resources>

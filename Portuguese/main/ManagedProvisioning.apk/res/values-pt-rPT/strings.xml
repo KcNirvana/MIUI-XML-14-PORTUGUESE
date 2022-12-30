@@ -220,4 +220,8 @@
     <string name="user_consent_msg">I consent</string>
     <string name="user_setup_incomplete">User Setup Incomplete</string>
     <string name="work_profile_description">Your work apps will be kept in this profile and managed by your organization</string>
+    <string name="error_role_holder_download_install_failed">Try again later or ask your IT admin for help</string>
+    <string name="error_role_holder_hash_mismatch">"Can't set up device. Contact your IT admin and reference \"Invalid checksum\"."</string>
+    <string name="error_role_holder_package_invalid">"Can't set up device. Contact your IT admin and reference \"Missing or corrupted components\"."</string>
+    <string name="setting_up">Setting up…</string>
 </resources>
