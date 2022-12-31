@@ -1436,7 +1436,6 @@ Tentativas efectuadas: %s"</string>
     <string name="send_after_compress">Compress</string>
     <string name="send_orignal_picture">Original</string>
     <string name="send_orignal_video">Original</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="set_chairman">Set as manager</string>
     <string name="set_phone_number">Set</string>
     <string name="sim_not_support_mms">"This SIM card doesn't support MMS"</string>

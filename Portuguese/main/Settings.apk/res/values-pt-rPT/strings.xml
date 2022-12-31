@@ -11168,7 +11168,6 @@ After deletion, you will need your PIN, pattern, or password to unlock your phon
     <string name="spatial_summary_on_one">On / %1$s</string>
     <string name="spatial_summary_on_two">On / %1$s and %2$s</string>
     <string name="speech_category_title">Speech</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="stylus_handwriting">Stylus handwriting</string>
     <string name="stylus_handwriting_summary">When enabled, current Input method receives stylus MotionEvent if an Editor is focused.</string>
     <string name="suggested_app_locales_title">Suggested languages</string>
