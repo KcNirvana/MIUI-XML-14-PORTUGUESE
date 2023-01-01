@@ -11,13 +11,15 @@
     <string name="widget_num_warn">Adicionado com sucesso. Lembre-se que ao colocar demasiados widgets no ecrã inicial pode tornar o seu dispositivo mais lento</string>
     <!-- Categories -->
     <string name="theme_clock">Relógios personalizados</string>
+    <string name="theme_pals">Parceiros</string>
     <!-- App names -->
     <string name="app_appvault">Assistente</string>
-    <string name="app_browser">Navegador</string
+    <string name="app_browser">Navegador</string>
     <string name="app_calculator">Calculadora</string>
     <string name="app_camera">Câmara</string>
     <string name="app_calendar">Calendário</string>
     <string name="app_clock">Relógio</string>
+    <string name="app_files">Ficheiros</string>
     <string name="app_gallery">Galeria</string>
     <string name="app_google">Google</string>
     <string name="app_health">Saúde</string>
@@ -87,6 +89,8 @@
     <string name="widget_clock_weather_desc">Hora, data e tempo na sua localização actual</string>
     <string name="widget_clock_world">Relógio mundial</string>
     <string name="widget_clock_world_desc">Tempo numa localização diferente</string>
+    <string name="widget_files_pin">Ficheiros frequentes</string>
+    <string name="widget_files_pin_desc">Fixar ficheiros vistos frequentemente para uma acesso rápido</string>
     <string name="widget_gallery_custom">Imagens seleccionadas</string>
     <string name="widget_gallery_custom_desc">Adicionar o widget e tocar para seleccionar fotos</string>
     <string name="widget_gallery_recommend">Memórias</string>
@@ -109,6 +113,10 @@
     <string name="widget_notes_tasks_desc">Ver e abrir as suas tarefas</string>
     <string name="widget_notes_view">Notas</string>
     <string name="widget_notes_view_desc">Ver e abrir as suas notas</string>
+    <string name="widget_pals_cat">Kitty</string>
+    <string name="widget_pals_cat_desc">Meow ~ não me incomodes quando tiver a dormir…</string>
+    <string name="widget_pals_dog">Doggy</string>
+    <string name="widget_pals_dog_desc">Woof ~ brinca comigo!</string>
     <string name="widget_security_app_behavior">Privacidade</string>
     <string name="widget_security_app_behavior_desc">Ver o comportamento das aplicações</string>
     <string name="widget_security_app_predict">Sugestões</string>
