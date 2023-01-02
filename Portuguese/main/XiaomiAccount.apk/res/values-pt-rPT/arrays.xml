@@ -39,11 +39,6 @@
         <item>Gerir dispositivos associados com a sua Conta Xiaomi</item>
         <item>Dispositivos;Gerir;Iniciar sessão;Iniciar sessão;Dispositivos;Xiaomi;Conta Xiaomi;Conta</item>
     </string-array>
-    <string-array name="settings_search_payment_information">
-        <item>Informações de pagamento</item>
-        <item>Ver e gerir as informações de pagamento</item>
-        <item>Pagamentos;Informações;Xiaomi;Conta Xiaomi;Conta</item>
-    </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Política de Privacidade</item>
         <item>Ver Política de Privacidade da Conta Xiaomi</item>

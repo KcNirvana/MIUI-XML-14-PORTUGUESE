@@ -839,7 +839,6 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
     <string name="wipe_data_dialog_msg">Alguns itens (%s) não foram sincronizados</string>
     <string name="wipe_data_dialog_msg_and_on">" e outros itens"</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Itens não sincronizados</string>
     <string name="wipe_data_query_progress_title">A verificar…</string>
     <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>

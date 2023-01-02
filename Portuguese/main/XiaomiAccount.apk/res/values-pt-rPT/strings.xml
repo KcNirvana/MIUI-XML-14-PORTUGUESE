@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device_info">Ver detalhes do dispositivo</string>
+    <string name="about_mi_account">Acerca da Conta Xiaomi</string>
+    <string name="accept">Permitir</string>
     <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="access_token_expired_warning">A sua conta Weibo expirou</string>
     <string name="access_token_invalid_warning">A sua conta Weibo é inválida</string>
@@ -29,7 +31,7 @@
     <string name="account_none_binded_info">Nenhum</string>
     <string name="account_none_binded_secure_phone">Sem número de telefone</string>
     <string name="account_none_user_name">Nenhum</string>
-    <string name="account_notification_message">&gt;A sessão expirou. Inicie sessão novamente</string>
+    <string name="account_notification_message">A sessão expirou. Inicie sessão novamente</string>
     <string name="account_secure_info_pref_title">Informações da conta</string>
     <string name="account_security">Segurança da conta</string>
     <string name="account_security_info_pref_title">Informações de segurança</string>
@@ -465,7 +467,7 @@ Envie este código ao supervisor"</string>
     <string name="passport_uplink_send_sms_hint">Toque \"Enviar\" após ser redireccionado para a página com a mensagem</string>
     <string name="passport_uplink_slot1_reg">Utilizar SIM 1</string>
     <string name="passport_uplink_slot2_reg">Utilizar SIM 2</string>
-    <string name="passport_uplink_sms_send_cancel">Envio de SMS  cancelado</string>
+    <string name="passport_uplink_sms_send_cancel">Envio de SMS cancelado</string>
     <string name="passport_uplink_sms_send_confirm">Enviado</string>
     <string name="passport_uplink_sms_send_failed">Não foi possível verificar o SMS</string>
     <string name="passport_uplink_sms_sending">A enviar mensagem paga…</string>
@@ -588,7 +590,6 @@ Envie este código ao supervisor"</string>
     <string name="vip_settings_info">Definições VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-    <string name="accept">Permitir</string>
     <string name="account_and_password">Palavra-passe</string>
     <string name="account_user_phone_show">Telefone: %s</string>
     <string name="account_verify_guide_bind_mail_desc">Adicionar um email de recuperação</string>
@@ -690,7 +691,6 @@ Envie este código ao supervisor"</string>
     <string name="user_license_without_3rd_telcom"><Data>"Eu li e concordei com &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como &lt;a href=%3$s>Termos e Condições dos serviços eSurfing de verificação de contas&lt;/a>"</Data></string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Iniciar sessão com WeChat</string>
-    <string name="about_mi_account">Acerca da Conta Xiaomi</string>
     <string name="find_new_apk_version">Actualização disponível</string>
     <string name="has_no_new_version">Actualizado</string>
     <string name="new_version">Nova versão</string>

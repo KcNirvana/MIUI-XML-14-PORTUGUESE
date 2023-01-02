@@ -58,6 +58,13 @@
     <string name="all">Tudo</string>
     <string name="all_brand">Todas as marcas</string>
     <string name="all_catogory_name">Tudo</string>
+    <string name="allow_camera_permission">Permitir que C.Remoto utilize a câmara</string>
+    <string name="allow_camera_permission_summary">Para utilizar comandos partilhados por outras pessoas</string>
+    <string name="allow_location_permission">Permitir que C.Remoto aceda à localização</string>
+    <string name="allow_location_permission_summary">Para localizar dispositivos Bluetooth próximos e partilhar comandos com outras pessoas</string>
+    <string name="allow_voice_permission">Permitir que C.Remoto utilize o microfone</string>
+    <string name="allow_voice_permission_summary">Para utilizar comandos de voz</string>
+    <string name="allowed_permission">Concedida</string>
     <string name="already_muted">Silêncio</string>
     <string name="anion">Ionizador</string>
     <string name="apk_files_list_title">APKs locais</string>
@@ -820,6 +827,7 @@ Se não concordar em dar esta autorização, não vai poder utilizar esta funcio
 
 Se não concordar em dar esta autorização, não vai poder utilizar esta funcionalidade. Pode retirar o seu consentimento a qualquer momento no seu telefone"</string>
     <string name="permission_location_rational_desc">esta aplicação necessita de autorização à localização para partilhar dispositivos ou receber dispositivos partilhados</string>
+    <string name="permission_manage_tips">Para fornecer uma melhor experiência, C.Remoto necessitar das seguintes permissões em certos cenários</string>
     <string name="permission_name_camera">Câmara</string>
     <string name="permission_name_location">Localização</string>
     <string name="permission_name_microphone">Microfone</string>
@@ -846,6 +854,7 @@ Se não concordar em dar esta autorização, não vai poder utilizar esta funcio
     <string name="press_to_continue_match">Toque para continuar</string>
     <string name="press_to_match">Toque para emparelhar</string>
     <string name="prev_remote">Controlo anterior</string>
+    <string name="privay_cn_title_4_miui">Bem-vindo ao C. Remoto! Pode utilizar esta aplicação para controlar dispositivos IR e muito mais</string>
     <string name="privacy_content">Leia a <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e os <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
     <string name="privacy_content_cn">"Bem-vindo ao C. Remoto. Com esta aplicação pode controlar os seus dispositivos IR e muito mais.
  Vamos cumprir rigorosamente com as leis em vigor e com a nossa Política de Privacidade para proteger as suas informações pessoais.
@@ -926,6 +935,14 @@ Se não concordar em conceder estas permissões ou não permitir obter as inform
     <string name="rename_hint">Introduzir nome do dispositivo</string>
     <string name="repeat_diagnosis">Testar novamente</string>
     <string name="report_problem">Reportar problema</string>
+    <string name="request_agree">Allow</string>
+    <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+    <string name="request_cancel">Cancelar</string>
+    <string name="request_error_invalid_token">"Couldn't verify"</string>
+    <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
+    <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
+    <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
+    <string name="request_location_reason">Esta aplicação necessita de aceder à sua localização para localizar dispositivos Bluetooth próximos e partilhar comandos com outras pessoas</string>
     <string name="require">Obrigatório</string>
     <string name="require_login">Iniciar sessão primeiro</string>
     <string name="rescan">Pesquisar novamente</string>
