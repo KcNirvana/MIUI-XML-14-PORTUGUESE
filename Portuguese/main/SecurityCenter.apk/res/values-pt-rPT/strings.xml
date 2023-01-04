@@ -5557,9 +5557,9 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
     <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
     <string name="gb_award_noti_title">Game for Peace rewards are here!</string>
-    <string name="gb_predownload_receive_error">A network error occurred. Try again.</string>
+    <string name="gb_predownload_receive_error">Ocorreu um erro de rede. Tente novamente</string>
     <string name="gb_predownload_receive_max">"Can't get more rewards on this device"</string>
-    <string name="gb_predownload_receiving">Receiving…</string>
+    <string name="gb_predownload_receiving">A receber…</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante
 · Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para utilizar o ecrã dividido
 · Premir e segurar o indicador para mover a janela"</string>
@@ -5626,16 +5626,16 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="na_operator_not_support_correction">"This carrier doesn't support fee and balance inquiries"</string>
     <string name="order_bh_net_error">No network</string>
     <string name="other_operator_name_virtual_operator">Other virtual carriers</string>
-    <string name="pc_emergency_call">Emergency</string>
-    <string name="pc_endurance_calculation">Calculating…</string>
-    <string name="pc_high_temp_protection_noti_bt_text">Got it</string>
-    <string name="pc_high_temp_protection_noti_summary">"Can't use hotspots, mobile data, and location services now"</string>
-    <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
-    <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
-    <string name="pc_temperature_too_high">Device overheated</string>
-    <string name="pc_wait_device_cools_down">Wait until your device cools down to be able to use this feature.</string>
-    <string name="permission_instruction_shake">"This permission allows apps to track your device's orientation and movement (e.g. shaking, tilting, and rotating)"</string>
+    <string name="pc_emergency_call">Emergência</string>
+    <string name="pc_endurance_calculation">A calcular…</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Percebi</string>
+    <string name="pc_high_temp_protection_noti_summary">Não é possível utilizar a partilha de ligação e a localização agora</string>
+    <string name="pc_high_temp_protection_noti_summary2">Não é possível utilizar a partilha de ligação agora</string>
+    <string name="pc_high_temp_protection_noti_tile">Dispositivo superaquecido</string>
+    <string name="pc_temperature_too_high">Dispositivo superaquecido</string>
+    <string name="pc_wait_device_cools_down">Aguardar até que o dispositivo arrefeça para poder utilizar esta funcionalidade</string>
+    <string name="permission_instruction_shake">Esta permissão permite registar a orientação e movimentos do dispositivo</string>
     <string name="vb_video_effects_immersion_sound">Som imersivo</string>
-    <string name="vb_video_effects_immersion_sound_summary">Experience immersion and sense of space when supported audio is played through earphones</string>
-    <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio and video and adjust immersive sound based on head movement</string>
+    <string name="vb_video_effects_immersion_sound_summary">Experimentar imersão e sensação de espaço quando o áudio compatível for reproduzido por auriculares</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimentar uma sensação melhorada de espaço e direcção para áudio e vídeo suportados e ajuste o som envolvente com base no movimento da cabeça</string>
 </resources>
