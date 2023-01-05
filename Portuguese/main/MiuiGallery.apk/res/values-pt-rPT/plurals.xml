@@ -143,6 +143,10 @@
         <item quantity="other">Eliminar %d fotos de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Eliminar %d foto de todos os dispositivos e da Xiaomi Cloud?</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Eliminar %d fotos?</item>
+        <item quantity="one">Eliminar %d foto?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Eliminar %d fotos?</item>
         <item quantity="one">Eliminar %d foto?</item>
@@ -162,6 +166,10 @@
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminar %d fotos de todos os dispositivos e da Xiaomi Cloud?</item>
         <item quantity="one">Eliminar %d foto de todos os dispositivos e da Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Eliminar %d itens?</item>
+        <item quantity="one">Eliminar %d item?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Eliminar %d fotos do seu dispositivo?</item>

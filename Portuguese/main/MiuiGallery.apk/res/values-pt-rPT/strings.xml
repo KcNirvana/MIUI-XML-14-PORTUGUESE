@@ -307,6 +307,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="base_btn_download">Continuar</string>
     <string name="begin_share">Foi criado o álbum de bebé \"%s\". Pode agora partilhá-lo</string>
     <string name="begin_share_toast">Criar um álbum em separado para esta criança antes de o partilhar?</string>
+    <string name="blur_refocus_enter">Desfocar</string>
     <string name="both_stroke_and_substrate_are_not_supported">Não é possível colocar texto com contornos em cenários</string>
     <string name="browse_category_title">Navegação</string>
     <string name="btn_cancel">Cancelar</string>
@@ -314,6 +315,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="btn_exit_send">Sair</string>
     <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Transferir original (%s|%s)</string>
+    <string name="burst_photo_enter">Disparo</string>
     <string name="burst_preview_title">Disparo Contínuo</string>
     <string name="burst_save_all">Manter todas as fotos</string>
     <string name="burst_save_choice_title">Seleccionados %1$d de %2$d</string>
@@ -576,6 +578,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="delete_in_album">Os itens seleccionados vão ser eliminados da Xiaomi Cloud e de todos os dispositivos associados e ficam guardados no lixo da Xiaomi Cloud por %d dias. Eliminar mesmo assim?</string>
     <string name="delete_in_home_page">Os itens seleccionados vão ser eliminados da Xiaomi Cloud e de todos os dispositivos associados e ficam guardados no lixo da Xiaomi Cloud por %d dias. Eliminar mesmo assim?</string>
     <string name="delete_in_process">A eliminar…</string>
+    <string name="delete_media_for_cloud">Os itens seleccionados vão ser removidos da Xiaomi Cloud e de todos os dispositivos sincronizados</string>
     <string name="delete_origin">Eliminar itens do álbum original</string>
     <string name="delete_other_shared_images">Não é possível eliminar fotos partilhadas por outras pessoas</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d eliminadas, %2$d guardadas</string>
@@ -596,6 +599,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="disable_auto_upload_title">Desligar a sincronização com a Xiaomi Cloud</string>
     <string name="disable_secret_album_upload_message">As fotos novas não vão ser sincronizadas com a Xiaomi Cloud se desligar esta funcionalidade. Desligar mesmo assim?</string>
     <string name="do_not_remind_me">Não mostrar novamente</string>
+    <string name="doc_photo_enter">Editar no documento</string>
     <string name="document_provider_guide_step_1">%d. Toque no botão \"Mais\"</string>
     <string name="document_provider_guide_step_2">%d. Toque em  \"Mostrar armazenamento interno\"</string>
     <string name="document_provider_guide_step_3">%d. Toque no botão menu lateral</string>
@@ -642,6 +646,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="drop_success">Guardado com sucesso</string>
     <string name="dump_db_info">Transferir informações da base de dados</string>
     <string name="edit_baby_info">Ver informação do bebé</string>
+    <string name="edit_subtitle_enter">Editar legendas</string>
     <string name="editor_cancel">Cancelar</string>
     <string name="editor_export">Guardar</string>
     <string name="editor_talkback_redo">Refazer</string>
@@ -961,6 +966,7 @@ efeitos de fotos"</string>
     <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Criado um álbum para \"%s\" na Xiaomi Cloud</string>
     <string name="finish_fill_baby">Criar</string>
+    <string name="first_delete_media_for_cloud">Os itens seleccionados vão ser eliminados da Xiaomi Cloud e de todos os dispositivos sincronizados e eliminados permamentemente após %d dias. Eliminar mesmo assim?</string>
     <string name="first_time_add_video_to_secret_tips">Actualize a Galeria para poder ocultar vídeos</string>
     <string name="flash_off">Sem flash</string>
     <string name="flash_on">Flash utilizado</string>
@@ -1585,7 +1591,9 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="permission_optional_category">Permissões opcionais</string>
     <string name="permission_phone_desc">Para pedidos de rede baseados no ID do dispositivo</string>
     <string name="permission_phone_name">Telefone</string>
+    <string name="permission_post_notification_desc">Para enviar notificações acerca de álbuns partilhados e sincronização</string>
     <string name="permission_require_category">Permissões obrigatórias</string>
+    <string name="permission_read_media_images_desc">Para aceder e guardar fotos e vídeos enquanto utiliza a Galeria</string>
     <string name="permission_storage_desc">Para mostrar, editar e guardar fotos</string>
     <string name="permission_storage_desc_2">Para mostrar, editar e guardar fotos</string>
     <string name="permission_storage_name">Armazenamento</string>
@@ -2150,6 +2158,21 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="share_album_manage">Gerir itens partilhados</string>
     <string name="share_album_needs_auto_upload_tip">Não é possível desligar a sincronização para álbuns partilhados</string>
     <string name="share_album_pref_album_name">Nome do álbum</string>
+    <string name="share_album_risk_control_invalid_name">Não é possível utilizar este nome. Escolha outro e tente novamente</string>
+    <string name="share_album_risk_control_tip_off">Reportar</string>
+    <string name="share_album_risk_control_tip_off_cate">Tipo de conteúdo</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Ilegal</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Outros</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Política</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Sexual</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Violência</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Se reportar o conteúdo dum álbum partilhado, apenas a pessoa que carregou o conteúdo vai poder vê-lo. Reportar agora?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Reportar</string>
+    <string name="share_album_risk_control_tip_off_select">Seleccionar tipo de conteúdo</string>
+    <string name="share_album_risk_control_tip_off_success">Reportado com sucesso</string>
+    <string name="share_album_risk_control_too_many_albums">Não é possível criar mais álbuns partilhados</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">Não é possível adicionar mais membros</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">Não é possível convidar mais membros</string>
     <string name="share_album_pref_auto_add_photos_summary">Seleccionar pessoas para adicionar automaticamente as fotos a este álbum</string>
     <string name="share_album_pref_auto_add_photos_title">Adicionar as fotos automaticamente</string>
     <string name="share_album_qr_code">Código QR do álbum</string>
@@ -2228,6 +2251,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="slim_stop">Parar optimização</string>
     <string name="slim_stop_v2">Parar</string>
     <string name="slim_success_tip">Libertou %s de espaço</string>
+    <string name="slow_motion_enter">Câmara Lenta</string>
     <string name="sort">Ordenar</string>
     <string name="special_type_8k">IA 8K</string>
     <string name="special_type_ai_audio">IA Áudio</string>
@@ -2319,6 +2343,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="sub_discard_negative_btn">Rejeitar</string>
     <string name="sub_discard_positive_btn">Guardar</string>
     <string name="success_create_quick_icon_on_desk">Criado com sucesso</string>
+    <string name="super_slow_motion_enter">Super Câmara Lenta</string>
     <string name="support_single_image">Seleccionar uma imagem</string>
     <string name="support_single_video">Seleccionar um vídeo</string>
     <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
@@ -2518,6 +2543,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="trash_purge_all">Todos as fotos e vídeos vão ser eliminados da Xiaomi Cloud. Não os vai poder restaurar. Eliminar mesmo assim?</string>
     <string name="trash_purge_all_cloud">Todos os itens no lixo vão ser eliminados permamentemente da Xiaomi Cloud e dispositivos sincronizados. Eliminar mesmo assim?</string>
     <string name="trash_purge_all_local">Todos os itens no lixo vão ser eliminados permamentemente. Eliminar mesmo assim?</string>
+    <string name="trash_purge_all_media">Eliminar permamentemente todos os itens da Xiaomi Cloud e dispositivos sincronizados? Não pode reverter esta acção</string>
     <string name="trash_purge_dialog_title">Limpar lixo</string>
     <string name="trash_purge_positive_button">Eliminar</string>
     <string name="trash_size">Itens eliminados (%s)</string>
@@ -2693,6 +2719,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="video_quality_720p_original">720P (não comprimido)</string>
     <string name="video_quality_8k">8K</string>
     <string name="video_quality_title_sub">Resolução actual: %1$s (≈%2$s)</string>
+    <string name="video_tags_enter">Mostrar marcas</string>
     <string name="video_with_time">Vídeo gravado em %s</string>
     <string name="video_with_time_and_location">Vídeo gravado em %1$s. Localização: %2$s.</string>
     <string name="view_by_gallery_tip">Galeria MIUI</string>
