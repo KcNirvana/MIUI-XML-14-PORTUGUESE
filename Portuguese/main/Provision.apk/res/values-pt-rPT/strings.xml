@@ -82,6 +82,7 @@
     <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
     <string name="mint_keyboard_oobe_checkbox">Eu li e concordei com a Política de Privacidade do teclado Mint</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidade do teclado Mint</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
     <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Utilização em %s</string>
     <string name="mobile_network">Utilizar dados móveis</string>

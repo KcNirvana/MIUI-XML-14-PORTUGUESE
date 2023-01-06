@@ -99,6 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">adquirir o número de telefone da operadora para iniciar sessão</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Se não conseguiu iniciar sessão com um toque, volte para a página de início e tente novamente</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicação necessita de adquirir o seu número de telefone da operadora para iniciar sessão. Permitir?</string>
+    <string name="HIPS_Perm_operator_shake">Aceder ao acelerómetro</string>
+    <string name="HIPS_Perm_operator_shake_Desc">aceder aos dados do acelerómetro utilizados para registar a orientação e movimentos</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Aceder à aplicação Telefone</string>
@@ -209,6 +211,7 @@
     <string name="permdesc_recognition">Permitir que %1$s aceda às suas informações de actividades?</string>
     <string name="permdesc_send_sms">Permitir que %1$s envie mensagens de texto?</string>
     <string name="permdesc_sensors">Permitir que %1$s leia dados gerados pelos sensores do corpo?</string>
+    <string name="permdesc_shake">Permitir que %1$s aceda aos dados do acelerómetro?</string>
     <string name="permdesc_use_sip">Permitir que %1$s utilize o protocolo de início de sessão para transmitir vídeos?</string>
     <string name="permdesc_write_calendar">Permitir que %1$s crie e guarde eventos do calendário?</string>
     <string name="permdesc_write_call_log">Permitir que %1$s edite o registo de chamadas?</string>

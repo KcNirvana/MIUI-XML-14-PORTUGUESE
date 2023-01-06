@@ -111,6 +111,7 @@ Pode iniciar sessão na sua Conta Xiaomi com %s agora"</string>
     <string name="copy">Copiar</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
+    <string name="current_account_can_use_pwd_login">Introduzir a palavra-passe para iniciar sessão</string>
     <string name="delete_action">Eliminar</string>
     <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
     <string name="delete_bank_card_title">Atenção</string>
@@ -193,6 +194,7 @@ Envie este código ao supervisor"</string>
     <string name="input_new_pwd">Introduza uma nova palavra-passe</string>
     <string name="io_error_title">Confirme a sua rede</string>
     <string name="just_a_second">Aguarde…</string>
+    <string name="keep_phone_ticket_login">Iniciar sessão com código de verificação</string>
     <string name="loading_micloud_sync_data">Aguarde…</string>
     <string name="login_check_find_device">A obter informação de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança</string>
@@ -202,6 +204,7 @@ Envie este código ao supervisor"</string>
     <string name="login_notification_title">Iniciar sessão na sua Conta Xiaomi</string>
     <string name="logout_account">Terminar sessão</string>
     <string name="logout_failed">Não é possível terminar sessão</string>
+    <string name="messenger_send_button_text">Enviar</string>
     <string name="mi_account">A minha conta</string>
     <string name="mi_account_identity_title">Verificar a sua identidade</string>
     <string name="mi_finance">As minhas finanças</string>
@@ -501,6 +504,8 @@ Envie este código ao supervisor"</string>
     <string name="permission_group_storage">Armazenamento</string>
     <string name="phone_num_use_for">Número de telefone utilizado para:</string>
     <string name="phone_register">Utilizar número de telefone</string>
+    <string name="phone_ticket_login">Iniciar sessão com código de verificação</string>
+    <string name="phone_ticket_register">Criar conta com número de telefone</string>
     <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
     <string name="provision_back">Voltar</string>
@@ -581,6 +586,7 @@ Envie este código ao supervisor"</string>
     <string name="update_email_address_dialog_title">Actualizar email</string>
     <string name="update_phone_notice">Alterar definições de segurança</string>
     <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
+    <string name="use_google_account_login">Iniciar sessão com Google</string>
     <string name="used_cloud_storage_info">Utilizado %s</string>
     <string name="user_agreement_network_permission_msg">É necessário ligar à Internet para podermos fornecer os serviços necessários</string>
     <string name="user_agreement_use_account_msg">A Conta Xiaomi permite aceder a todos os serviços fornecidos pela Xiaomi</string>
