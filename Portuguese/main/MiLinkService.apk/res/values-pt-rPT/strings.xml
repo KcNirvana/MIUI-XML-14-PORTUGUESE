@@ -6,6 +6,138 @@
     <string name="audio_record_des">Para transmitir áudio do dispositivo para ecrãs externos</string>
     <string name="cast_image_des">Tutorial de transmissão</string>
     <string name="casting_tips">A transmitir…</string>
+    <string name="circulate_audio_group_title">Playing…</string>
+    <string name="circulate_back_button_content_description">Back</string>
+    <string name="circulate_card_mirror_device_button">Stop</string>
+    <string name="circulate_card_mirror_device_pad_subtitle">"Showing tablet's screen…"</string>
+    <string name="circulate_card_mirror_device_subtitle">"Showing phone's screen…"</string>
+    <string name="circulate_card_mirror_device_title_laptop">Computer</string>
+    <string name="circulate_card_mirror_device_title_pad">Tablet</string>
+    <string name="circulate_card_mirror_device_title_television">TV</string>
+    <string name="circulate_card_mirror_help"><u>Compatible devices</u></string>
+    <string name="circulate_card_mirror_pad_subtitle">"Drag \"Tablet's screen\" to a TV
+to mirror screen"</string>
+    <string name="circulate_card_mirror_pad_title">"Tablet's screen"</string>
+    <string name="circulate_card_mirror_phone_subtitle">"Drag \"Phone's screen\" to another device
+to mirror screen"</string>
+    <string name="circulate_card_mirror_phone_title">"Phone's screen"</string>
+    <string name="circulate_card_mirror_subtitle_active_format">Mirroring screen on %1$s</string>
+    <string name="circulate_card_mirror_subtitle_normal">Drag to mirror screen</string>
+    <string name="circulate_card_mirror_subtitle_pad_normal">"Drag to another device
+to mirror this tablet's screen"</string>
+    <string name="circulate_card_mirror_tv_button_1">Floating window</string>
+    <string name="circulate_card_mirror_tv_button_2">Screen off</string>
+    <string name="circulate_card_mirror_tv_button_3">Privacy</string>
+    <string name="circulate_card_sticker">Stickers</string>
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Show remotes</string>
+    <string name="circulate_card_sticker_access">Double tap to activate</string>
+    <string name="circulate_card_sticker_add">Add stickers</string>
+    <string name="circulate_card_sticker_blank_contentDescription">Double tap the blank area to exit</string>
+    <string name="circulate_card_sticker_complete">Done</string>
+    <string name="circulate_card_sticker_control_contentDescription">Control panel</string>
+    <string name="circulate_card_sticker_dressing_equipment">Customize device</string>
+    <string name="circulate_card_sticker_expend_contentDescription">Show customized devices</string>
+    <string name="circulate_card_sticker_no">No stickers</string>
+    <string name="circulate_card_sticker_remote_control">TV remote</string>
+    <string name="circulate_card_sticker_remote_control_bottom">Down</string>
+    <string name="circulate_card_sticker_remote_control_center">OK</string>
+    <string name="circulate_card_sticker_remote_control_coordination_input">协同输入</string>
+    <string name="circulate_card_sticker_remote_control_coordination_input_subtitle">当电视进入首页搜索输入页时，可以在此使用本机键盘为电视输入文字</string>
+    <string name="circulate_card_sticker_remote_control_cut">Screenshot</string>
+    <string name="circulate_card_sticker_remote_control_home">Home</string>
+    <string name="circulate_card_sticker_remote_control_keyboard">Keyboard</string>
+    <string name="circulate_card_sticker_remote_control_left">Left</string>
+    <string name="circulate_card_sticker_remote_control_menu">Menu</string>
+    <string name="circulate_card_sticker_remote_control_power">Power</string>
+    <string name="circulate_card_sticker_remote_control_return">Back</string>
+    <string name="circulate_card_sticker_remote_control_right">Right</string>
+    <string name="circulate_card_sticker_remote_control_top">Up</string>
+    <string name="circulate_card_sticker_remote_control_volum_add">Volume up</string>
+    <string name="circulate_card_sticker_remote_control_volum_reduce">Volume down</string>
+    <string name="circulate_card_sticker_selected">Selected</string>
+    <string name="circulate_common_retry_later">Wait a minute or two and try again</string>
+    <string name="circulate_cta_agree">Concordar</string>
+    <string name="circulate_cta_app_name">Mi Smart Hub</string>
+    <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Pode utilizar esta aplicação para transmitir conteúdo do ecrã, transferir multimédia entre dispositivos, utilizar Mi Smart Play e MIUI+. Esta aplicação necessita de ligar à Internet e das seguintes permissões para funcionar normalmente:</string>
+    <string name="circulate_cta_exit">Não concordar</string>
+    <string name="circulate_cta_premission_sound_subtitle">Para transferir áudio a dispositivos ligados</string>
+    <string name="circulate_cta_premission_sound_title">Gravar áudio</string>
+    <string name="circulate_cta_premission_storage_subtitle">Para enviar e receber ficheiros</string>
+    <string name="circulate_cta_premission_storage_title">Aceder e guardar itens no armazenamento</string>
+    <string name="circulate_cta_premission_wlan_subtitle">Para transferir itens e ligar dispositivos via Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Para transferir itens e ligar dispositivos via Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title">Ligar e desligar o Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title_china">Ligar e desligar o Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Leia e concorde com os nossos &lt;txt href=\"%1$s\">Termos de Utilização&lt;/txt> e &lt;txt href=\"%2$s\">Política de Privacidade&lt;/txt> antes de continuar</string>
+    <string name="circulate_device_type_name_pad">Tablet</string>
+    <string name="circulate_device_type_name_pc">Computer</string>
+    <string name="circulate_device_type_name_phone">Phone</string>
+    <string name="circulate_device_type_name_tv">TV</string>
+    <string name="circulate_device_type_name_wifi_speaker">Speaker</string>
+    <string name="circulate_device_type_name_wifi_speaker_with_screen">Touch screen speaker</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Put both earphones in the charging case.
+2. Press and hold the button on the case.
+3. Finish pairing on the target device."</string>
+    <string name="circulate_headset_back_to_box_desc_err_308">To be able to transfer playback between devices, pair your earphones to your TV first.</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Put both earphones in the charging case.
+2. Press and hold the button on the case.
+3. Open the list of available Bluetooth devices on your TV and confirm pairing."</string>
+    <string name="circulate_headset_back_to_box_subtitle">"Can't pair these earphones automatically. Pair them manually on the target device instead."</string>
+    <string name="circulate_headset_back_to_box_title">Pair earphones first</string>
+    <string name="circulate_headset_back_to_box_title_err_308">Pair your earphones</string>
+    <string name="circulate_headset_back_to_box_title_pad">Pair earphones with this device</string>
+    <string name="circulate_headset_back_to_box_title_phone">Pair earphones with this device</string>
+    <string name="circulate_headset_back_to_box_title_tv">Pair your earphones</string>
+    <string name="circulate_headset_duplicate_cancel">Cancel</string>
+    <string name="circulate_headset_duplicate_dialog_message">Looks like another set of earphones is connected to your %1$s. Replace them with the current set?</string>
+    <string name="circulate_headset_duplicate_dialog_title">Replace earphones connected to %1$s</string>
+    <string name="circulate_headset_duplicate_ok">Replace</string>
+    <string name="circulate_headset_error_account_not_match">"Make sure you're using the same Xiaomi Account on both devices"</string>
+    <string name="circulate_headset_error_acquired_by_other_host">Using another device now. Try again later.</string>
+    <string name="circulate_headset_error_default">Connection timed out</string>
+    <string name="circulate_headset_error_device_not_support">"Can't connect earphones to this device"</string>
+    <string name="circulate_headset_error_headset_not_support">"Can't connect your earphones to this computer"</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Turn on Bluetooth on your TV
+and sign in to your Xiaomi Account"</string>
+    <string name="circulate_headset_error_self_upgrade">"Couldn't complete this action. Update Mi Smart Hub first."</string>
+    <string name="circulate_headset_error_timeout">Connection timed out</string>
+    <string name="circulate_headset_error_upgrade">Update Mi Smart Hub on your target device first</string>
+    <string name="circulate_help_button_content_description">Help</string>
+    <string name="circulate_help_card_subtitle">View help</string>
+    <string name="circulate_help_card_title">"Can't find
+your devices?"</string>
+    <string name="circulate_help_error">"Couldn't connect to the network"</string>
+    <string name="circulate_help_exit_button_content_description">Exit</string>
+    <string name="circulate_help_feedback_button">Feedback</string>
+    <string name="circulate_local_pad_name">My tablet</string>
+    <string name="circulate_local_phone_name">My phone</string>
+    <string name="circulate_public_device_title_format">%2$s de %1$s</string>
+    <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_tv_power_alter_text">"You've set your TV to power off or turn its screen off. Remotes and TVs will disappear from here after the TV is powered off."</string>
+    <string name="circulate_tv_power_alter_title">Attention</string>
+    <string name="circulate_video_capture_fail">"Couldn't take a screenshot"</string>
+    <string name="circulate_video_capture_success">Took a screenshot successfully</string>
+    <string name="circulate_video_retry_later">Trying to control TV…</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="close">Close</string>
+    <string name="close_hotspot_hint">Turn off portable hotspot before casting</string>
+    <string name="close_hotspot_hint_DFS">To transfer items to a TV, turn off hotspot first.</string>
+    <string name="close_invisible_mode_dialog_cancel">Cancel</string>
+    <string name="close_invisible_mode_dialog_message">"Can't use Mi Smart Play now. Turn off Incognito mode in the Settings to be able to use this feature."</string>
+    <string name="close_invisible_mode_dialog_ok">Settings</string>
+    <string name="close_invisible_mode_dialog_title">"You're incognito"</string>
+    <string name="close_slave_wifi_hint">Disconnect from auxiliary Wi-Fi networks before casting</string>
+    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary Wi-Fi networks before casting</string>
+    <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="connect_device_fail">"Couldn't connect to device"</string>
     <string name="close_hotspot_hint">Desligar PA Móvel antes de transmitir</string>
     <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="close_slave_wifi_hint_china">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
@@ -61,6 +193,26 @@ Para mais questões, veja a ajuda"</string>
     <string name="global_privacy_positive">Concordar</string>
     <string name="global_privacy_screencast">Ao gravar ou transmitir, o serviço que fornece esta funcionalidade pode obter informações sensíveis que são mostradas no seu ecrã ou reproduzidas do seu dispositivo, tal como áudio, palavras-passe, informações de pagamento, fotos e mensagens</string>
     <string name="global_privacy_tip"><Data>Necessitamos de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Pode remover o consentimento em qualquer altura nas Definições</Data></string>
+    <string name="guide_confirm_button_text">Iniciar</string>
+    <string name="guide_exit_button_content_description">Sair</string>
+    <string name="guide_next_button_text">Saber mais</string>
+    <string name="guide_page_subtitle_0">Mi Smart Hub unites your devices into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+    <string name="guide_page_subtitle_0_pad">Mi Smart Hub combines your mobile devices, as well as TVs and smart speakers that are connected to the same Wi-Fi network, into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+    <string name="guide_page_subtitle_0_pad_global">Mi Smart Hub combines your mobile devices, as well as TVs and smart speakers that are connected to the same Wi-Fi network, into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+    <string name="guide_page_subtitle_1">Drag the audio card to a speaker or TV to continue playback on another device.</string>
+    <string name="guide_page_subtitle_1_pad">Drag the audio card to a speaker or TV to continue playback on another device.</string>
+    <string name="guide_page_subtitle_2">"Drag the card with this device's screen to a tablet, computer, or TV to mirror what's on your device's screen."</string>
+    <string name="guide_page_subtitle_2_pad">"Drag the card with this device's screen to a TV to mirror what's on your device's screen."</string>
+    <string name="guide_page_subtitle_3">"Drag the app to Mi Smart Hub and select the device on which you'd like to continue your current task."</string>
+    <string name="guide_page_subtitle_earphones">Arrastar o cartão dos auriculares para um telefoner, tablet ou TV para ligar os auriculares ao dispositivo e continuar a utilizá-los</string>
+    <string name="guide_page_title_0">Bem-vindo ao Mi Smart Hub!</string>
+    <string name="guide_page_title_0_pad">Bem-vindo ao Mi Smart Hub!</string>
+    <string name="guide_page_title_1">Reprodução de áudio</string>
+    <string name="guide_page_title_1_pad">Reprodução de áudio</string>
+    <string name="guide_page_title_2">Espelho de ecrã</string>
+    <string name="guide_page_title_2_pad">Espelho de ecrã</string>
+    <string name="guide_page_title_3">Aplicações</string>
+    <string name="guide_page_title_earphones">Transferência de auriculares</string>
     <string name="hang_up">Transmitir com o ecrã desligado</string>
     <string name="hang_up_alert_dialog_content">A transmissão não vai ser interrompida quando o ecrã desligar. Prima o botão Ligar/Desligar para voltar a ligar o ecrã</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
