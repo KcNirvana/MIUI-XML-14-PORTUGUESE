@@ -80,6 +80,7 @@
     <string name="pad_settings_connect_phone_group">Trabalhar com o seu telefone</string>
     <string name="pad_settings_connect_summary1">Transferir e instalar MIUI+ no seu computador: www.miui.com</string>
     <string name="pad_settings_connect_summary2">Digitalizar o código QR no ecrã do computador com o seu dispositivo móvel. Pode utilizar várias aplicações (p.e. Digitalizador, Câmara, Navegador) para fazer isso</string>
+    <string name="pad_settings_current_device_tip">Ligar a outros tablets associados com a sua Conta Xiaomi automaticamente</string>
     <string name="pad_settings_feature_characteristics_summary_1">Copiar texto no seu telefone e colá-lo no seu computador, adicionar imagens e sincronizar edições nos seus documentos</string>
     <string name="pad_settings_feature_characteristics_summary_2">Arrastar e soltar para transferir itens de e para o seu dispositivo</string>
     <string name="pad_settings_feature_characteristics_summary_3">Aproximar o seu telefone a um computador ligado anteriormente para se ligar novamente automaticamente</string>
@@ -313,15 +314,6 @@ Pode iniciar outra sessão no seu computador"</string>
     <string name="pc_cooperate_guide_screenshot">Captura de ecrã</string>
     <string name="pc_cooperate_guide_task">Mostrar tarefas</string>
     <string name="pc_cooperate_guide_undo">Anular (Ctrl+Z)</string>
-    <string name="phone_pc_app_introduction_summary">Utilizar aplicações de telefone no seu computador</string>
-    <string name="phone_pc_app_introduction_title">Aplicações</string>
-    <string name="phone_pc_connect_introduction_summary">Após a primeira ligação, um telefone associado com a mesma conta vai ser ligado automaticamente quando os dois dispositivos estiverem próximos</string>
-    <string name="phone_pc_connect_introduction_title">Ligar automaticamente</string>
-    <string name="phone_pc_doc_introduction_summary">Arrastar ficheiros para os transferir para os dispositivos ligados</string>
-    <string name="phone_pc_doc_introduction_title">Ficheiros</string>
-    <string name="phone_pc_message_introduction_summary">Copiar texto ou tirar uma foto no seu telefone e colar estes itens num computador ligado</string>
-    <string name="phone_pc_message_introduction_title">Área de transferências partilhada</string>
-    <string name="phone_settings_current_device_tip">Ligar a outros telefones associados com a sua Conta Xiaomi automaticamente</string>
     <string name="privacy_describe_change_wifi_state_china">Para ligar dispositivos e transferir ficheiros via Wi-Fi</string>
     <string name="scanner_lower_version_toast">Actualizar MIUI+ no seu computador para ligar</string>
     <string name="settings_current_device">Dispositivo ligado</string>
