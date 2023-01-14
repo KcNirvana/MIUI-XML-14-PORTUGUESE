@@ -268,6 +268,7 @@
     <string name="hide_pull_down_negative">Não ocultar</string>
     <string name="hide_pull_down_positive">Ocultar</string>
     <string name="hide_retract_button">Ocultar</string>
+    <string name="historical_wallpaper">Utilizado anteriormente</string>
     <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
     <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
     <string name="home_daily">Destaques diários</string>

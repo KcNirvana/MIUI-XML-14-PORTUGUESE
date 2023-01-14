@@ -1577,6 +1577,8 @@ Update Mi Video to the latest version first."</string>
     <string name="local_hide_folder_setting_tip">Pode gerir os seus vídeos ocultos em Perfil > Definições > Gerir vídeos ocultos</string>
     <string name="local_play_end_close_tip">Não vão ser mostradas recomendações novamente</string>
     <string name="local_play_end_drag_up_guide">Tocar ou deslizar para reproduzir</string>
+    <string name="local_play_recommend_guide_card_bottom">Mais vídeos</string>
+    <string name="local_play_recommend_guide_card_title">Recomendado</string>
     <string name="settings_manager_hidden_folder">Gerir vídeos ocultos</string>
     <string name="dialog_item_add_video">Adicionar vídeos</string>
     <string name="fcm_2_args">First: %1$s and second %2$s</string>

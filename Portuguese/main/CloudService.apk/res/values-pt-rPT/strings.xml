@@ -34,11 +34,15 @@
     <string name="cloud_find_device_off">Desligado</string>
     <string name="cloud_find_device_on">Ligado</string>
     <string name="cloud_lab_title">Laboratório</string>
+    <string name="cloud_manage_storage_text">Gerir Xiaomi Cloud</string>
     <string name="cloud_service_open_authorization">Bem-vindo aos serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar notas, fotos e vídeos, gravações e outros itens das aplicações de sistema em todos os seus dispositivos. Pode ver todos os itens sincronizados em i.mi.com</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Armazenamento quase cheio. Pode não conseguir sincronizar fotos</string>
+    <string name="cloud_storage_common_functions_text">Utilizado frequentemente</string>
     <string name="cloud_space_full_gallery_notification_content_text">Actualize o seu plano para ter mais espaço na Xiaomi Cloud</string>
     <string name="cloud_storage_already_full">O armazenamento Xiaomi Cloud está cheio: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
+    <string name="cloud_storage_full_upgrade_default_text">Armazenamento insuficiente. Não foi possível sincronizar fotos</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Família</string>
@@ -47,6 +51,10 @@
     <string name="cloud_storage_loading_data">Aguarde…</string>
     <string name="cloud_storage_manage_title">Gerir armazenamento</string>
     <string name="cloud_storage_no_data">Sem itens</string>
+    <string name="cloud_storage_sufficient_text">Actualizar para obter até %dTB</string>
+    <string name="cloud_storage_upgrade_text">Actualizar</string>
+    <string name="cloud_storage_upgrade_text_now">Actualizar</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Actualizar de graça</string>
     <string name="cloudservice_new_sync">Sincronizar %s com Xiaomi Cloud</string>
     <string name="confirm_delete">Eliminar</string>
     <string name="confirm_save">Manter</string>
@@ -58,6 +66,7 @@
     <string name="copy">Copiar</string>
     <string name="cta_notification_content_text">Permitir que %s se ligue à Internet para poder restaurar itens</string>
     <string name="cta_notification_content_title">Não é possível restaurar itens de %s</string>
+    <string name="customize_notification_btn_text">Actualizar</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de várias aplicações (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta é utilizada também noutro dispositivo. Unir os itens de %s com os itens neste dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de %1$s e %2$s com os itens neste dispositivo?</string>
@@ -70,6 +79,7 @@
     <string name="data_merge_dialog_loading">A verificar dados…</string>
     <string name="data_merge_dialog_title">Unir itens</string>
     <string name="data_protection_title">Proteger dados</string>
+    <string name="default_noti_quota_full_title">Xiaomi Cloud cheia</string>
     <string name="detect_sim_card">Pesquisar por cartão SIM</string>
     <string name="device_activation_card_cannot_get_yet">Não foi possível obter informações. Tente novamente mais tarde</string>
     <string name="device_activation_card_description">A primeira activação é registada quando o dispositivo liga à rede pela primeira vez. Normalmente, demora um bocado a registar a primeira activação por isso é melhor aguardar 3 a 5 dias para verificar o estado da activação.&lt;br>&lt;br>A activação do dispositivo é o factor chave para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparações e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Pode também ligar para a linha de suporte se tiver alguma questão</string>
@@ -536,11 +546,12 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
     <string name="noti_quota_button_text">Actualizar</string>
     <string name="noti_quota_full_sum">Actualizar o seu plano para continuar a sincronizar itens</string>
     <string name="noti_quota_full_sum_without_button">Obter mais espaço para continuar a sincronizar itens</string>
-    <string name="noti_quota_full_title">A Xiaomi Cloud está cheia</string>
+    <string name="noti_quota_full_title">A Xiaomi Cloud está &lt;font color=#F22424>cheia&lt;/font></string>
     <string name="noti_quota_full_title_without_button">A Xiaomi Cloud está cheia</string>
     <string name="noti_quota_low_sum">Actualizar o seu plano para continuar a sincronizar itens</string>
     <string name="noti_quota_low_sum_without_button">Obter mais espaço para continuar a sincronizar itens</string>
     <string name="noti_quota_low_title">Sem espaço suficiente</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Menos de &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g>GB&lt;/font> de espaço restante</string>
     <string name="noti_quota_low_title_without_button">Sem espaço suficiente</string>
     <string name="notification_reinstall_key_text">Verifique a sua identidade e tente novamente</string>
     <string name="notification_sync_fail_title">Não foi possível sincronizar</string>
@@ -599,7 +610,7 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="privacy_runtime_perm_call_log_title">Aceder e editar os registos de chamadas</string>
     <string name="privacy_runtime_perm_contacts_desc">Para sincronizar contactos</string>
     <string name="privacy_runtime_perm_contacts_title">Aceder e editar contactos</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de contactos e anexos de mensagens</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de contactos</string>
     <string name="privacy_runtime_perm_external_storage_title">Aceder ao armazenamento</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para aceder ao número de telefone e estado do dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Aceder a informações do dispositivo</string>

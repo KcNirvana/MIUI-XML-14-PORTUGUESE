@@ -148,6 +148,7 @@
     <string name="enter_ai_assistant">Utilizar</string>
     <string name="enter_ai_assistant_tip">O assistente de chamadas IA pode atender esta chamada e transcrever o discurso da outra pessoa. Permitir que a IA atenda agora?</string>
     <string name="font_camera_tip">Dobrar o dispositivo para utilizar a câmara frontal</string>
+    <string name="high_temperature_toast">Na protecção de altas temperaturas, esta funcionalidade está temporariamente indisponível</string>
     <string name="inCallLabel">Telefone</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar para a chamada</string>
     <string name="incall_call_type_label_sip">Chamadas pela Internet</string>

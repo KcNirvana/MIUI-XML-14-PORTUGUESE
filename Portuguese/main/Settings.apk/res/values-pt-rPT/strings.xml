@@ -3060,6 +3060,7 @@ Pode ver o registo gerado no Ficheiros"</string>
     <string name="effect_preview">Pré-visualizar</string>
     <string name="eighthours">8 horas</string>
     <string name="elastic_text">Janelas e menus dropdown aparecem com um pop elástico que traz mais foco nesses objetos</string>
+    <string name="embedded_window_guide_text">Quando o ecrã estiver na horizontal, as aplicações vão ser mostradas paralelamente. As aplicações vão ser centralizadas quando esta funcionalidade estiver desligada</string>
     <string name="emergency_address_summary">Endereço utilizado pelos serviços de emergência como a sua localização se efectuar uma chamada de emergência através de Wi-Fi</string>
     <string name="emergency_address_title">Actualizar o endereço de emergência</string>
     <string name="emergency_dashboard_summary">Emergência SOS, informações médicas, alertas</string>
@@ -4889,7 +4890,7 @@ Ligue pelo menos 4 pontos"</string>
     <string name="lte_ram_dump_on">Activar o esvaziamento da memória RAM LTE</string>
     <string name="macaddr_label">Endereço MAC:</string>
     <string name="magic_list_empty_text_pad">Sem aplicações compatíveis com esta funcionalidade</string>
-    <string name="magic_window_name_pad">Optimização para o modo paisagem</string>
+    <string name="magic_window_name_pad">Janelas paralelas</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 
@@ -5842,7 +5843,7 @@ Esta substitui %2$s como aplicação de pagamento predefinida"</string>
     <string name="no_battery_summary_24hr">No battery use for past 24 hours</string>
     <string name="no_carrier_update_now_text">Updated just now</string>
     <string name="no_carrier_update_text">Updated ^2 ago</string>
-    <string name="no_certificate_management_app">None</string>
+    <string name="no_certificate_management_app">Nenhuma</string>
     <string name="no_channels">Esta aplicação não publicou notificações</string>
     <string name="no_connected_devices">Sem dispositivos ligados</string>
     <string name="no_data_usage">Sem dados utilizados</string>
@@ -10007,8 +10008,8 @@ Definir a rede como oculta não altera as definições do router"</string>
     <string name="wifi_no_domain_warning">Tem de especificar um domínio</string>
     <string name="wifi_no_internet">Não é possível ligar à Internet</string>
     <string name="wifi_no_internet_no_reconnect">Não é possível ligar à Internet</string>
-    <string name="wifi_no_related_sim_card">None</string>
-    <string name="wifi_no_sim_card">No SIM</string>
+    <string name="wifi_no_related_sim_card">Nenhum</string>
+    <string name="wifi_no_sim_card">Sem SIM</string>
     <string name="wifi_no_user_cert_warning">Necessário certificado</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
     <string name="wifi_not_in_range_message">Rede fora do alcance</string>
@@ -11041,9 +11042,9 @@ To pair the left one, make sure it’s turned on and ready to pair."</string>
     <string name="dream_setup_description">Choose what you’ll see on your screen when your tablet is docked. Your device may use more energy when a screen saver is used.</string>
     <string name="dream_setup_title">Choose your screen saver</string>
     <string name="enable_2g_summary_disabled_carrier">%1$s requires 2G to be available</string>
-    <string name="encrypt_title">Encrypt phone</string>
-    <string name="encrypted_summary">Encrypted</string>
-    <string name="encryption_settings_title">Encryption</string>
+    <string name="encrypt_title">Telefone encriptado</string>
+    <string name="encrypted_summary">Encriptado</string>
+    <string name="encryption_settings_title">Encriptação</string>
     <string name="failed_attempts_now_wiping_device">"Too many unsuccesful attempts. This device's data will be erased."</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Dismiss</string>
     <string name="failed_attempts_now_wiping_profile">Too many unsuccesful attempts. This work profile and its data will be deleted.</string>
@@ -11140,10 +11141,10 @@ To learn more, contact your credit provider."</string>
     <string name="screen_resolution_option_high">High resolution</string>
     <string name="screen_resolution_option_highest">Highest resolution</string>
     <string name="screensaver_settings_toggle_title">Use screen saver</string>
-    <string name="security_advanced_settings">More security settings</string>
-    <string name="security_advanced_settings_keywords">security, more security settings, more settings, advanced security settings</string>
-    <string name="security_advanced_settings_no_work_profile_settings_summary">Encryption, credentials, and more</string>
-    <string name="security_advanced_settings_work_profile_settings_summary">Work profile lock, encryption, and more</string>
+    <string name="security_advanced_settings">Mais definições de segurança</string>
+    <string name="security_advanced_settings_keywords">segurança, mais definições de segurança, mais definições, definições avançadas de segurança</string>
+    <string name="security_advanced_settings_no_work_profile_settings_summary">Encriptação e credenciais</string>
+    <string name="security_advanced_settings_work_profile_settings_summary">Bloqueio do perfil de trabalho e encriptação</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">The screen lock option is disabled. To learn more, contact your organization’s admin.</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">You can still use your fingerprint to authorize purchases and app access.</string>
     <string name="security_settings_face_settings_remove_dialog_details_convenience">"Your face model will be permanently and securely deleted.
