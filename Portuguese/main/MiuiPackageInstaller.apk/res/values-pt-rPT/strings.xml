@@ -41,7 +41,6 @@
     <string name="app_info_version_replace">Versão: %1$s -> %2$s</string>
     <string name="app_install_safe_check">Verificar aplicações antes de instalar</string>
     <string name="app_installing_not_allow">"Bloqueou a instalação de %1$s. "</string>
-    <string name="app_installing_not_allow">Não permitiu que %1$s pudesse instalar aplicações. Pode alterar isto em Definições</string>
     <string name="app_name">Instalador de pacotes</string>
     <string name="app_name_unknown">Desconhecido</string>
     <string name="app_non_put_on_the_shelf">Não disponível</string>

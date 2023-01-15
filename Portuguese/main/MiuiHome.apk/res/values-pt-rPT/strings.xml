@@ -250,6 +250,7 @@
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
     <string name="folder_not_edit_icon_tip">Para editar, mover a aplicação para fora da pasta primeiro</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
     <string name="folder_picker_big_text">Aumentado</string>
     <string name="folder_picker_default_text">Normal</string>
     <string name="folder_picker_options_tab_text">Tamanho</string>
