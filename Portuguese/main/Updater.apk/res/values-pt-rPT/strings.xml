@@ -8,6 +8,7 @@
     <string name="btn_error">Ocorreu um erro. Tentar novamente?</string>
     <string name="btn_install">Verificar MD5 e instalar</string>
     <string name="btn_no">Não</string>
+    <string name="btn_not">Não</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pausar</string>
     <string name="btn_share">Partilhar</string>
@@ -32,6 +33,7 @@
     <string name="download_fail_desc">O MD5 não corresponde…</string>
     <string name="downloading">A transferir…</string>
     <string name="downloading_desc">Transferência em curso. Verifique o estado na área de notificações</string>
+    <string name="fastboot_mode">Está no modo Fastboot. Apenas pode instalar ROMs com o terminal no PC</string>
     <string name="fastboot_update_warning">Estea actualização é para instalação fastboot apenas!</string>
     <string name="fetch_notification_default_channel_name">Transferências</string>
     <string name="fetch_notification_download_cancel">Cancelar</string>
@@ -51,8 +53,10 @@
 Os dados não vão ser eliminados"</string>
     <string name="install_title">Tem a certeza que quer continuar?</string>
     <string name="menu_title_current_version_log">O que há de novo?</string>
+    <string name="menu_title_fastboot_mode">Alterar para modo Fastboot</string>
     <string name="menu_title_pick_rom_file">Escolher pacote de actualização</string>
     <string name="menu_title_recovery">Reiniciar no modo restauro</string>
+    <string name="menu_title_recovery_mode">Alterar para modo restauro</string>
     <string name="menu_title_show_notifications">Mostrar notificações</string>
     <string name="message_checkbox">Ocultar mensagens futuras da equipa Xiaomi.eu</string>
     <string name="message_checkbox_device">Não mostrar novamente</string>
@@ -78,10 +82,12 @@ Não estão disponíveis actualizações"</string>
     <string name="pick_not_found">Não foi encontrado nenhum explorador de ficheiros</string>
     <string name="pick_title">Escolha utilizando:</string>
     <string name="recovery_desc">O dispositivo vai reiniciar para o modo restauro. Continuar?</string>
+    <string name="recovery_mode">Está no modo restauro. Pode instalar ROMs nas actualizações</string>
     <string name="server_error">O servidor não está a responder. A aplicação pode não funcionar correctamente</string>
     <string name="share_desc">A versão da MIUI foi actualizada para %1$s. Veja as alterações em: %2$s</string>
     <string name="share_title">Partilhar com</string>
     <string name="stable">Stable</string>
+    <string name="twrp_update_warning">Para poder utilizar OTA é necessário seleccionar se tem ou instalado o TWRP no seu dispositivo:</string>
     <string name="version">Instalado actualmente:</string>
     <string name="weekly">Semanal</string>
     <string name="wifi_recommended">Sem ligação ao Wi-Fi para iniciar a transferência</string>
