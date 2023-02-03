@@ -197,6 +197,7 @@
     <string name="onscreen_audio_mode_conference">Conferência</string>
     <string name="onscreen_audio_mode_handset">Auriculares</string>
     <string name="onscreen_audio_mode_headset">Auscultadores</string>
+    <string name="onscreen_audio_mode_mirror">Tablet</string>
     <string name="onscreen_audio_mode_speaker">Altifalante</string>
     <string name="onscreen_call_record">Gravar</string>
     <string name="onscreen_change_to_video">Videochamada</string>

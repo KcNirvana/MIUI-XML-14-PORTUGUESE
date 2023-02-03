@@ -36,4 +36,8 @@
         <item quantity="other">Não faz uma cópia há %s semanas. Crie cópias para não perder nada importante</item>
         <item quantity="one">Não faz uma cópia há %s semana. Crie cópias para não perder nada importante</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Não faz uma cópia há %s semanas. Toque para saber como ligar as cópias automáticas</item>
+        <item quantity="one">Não faz uma cópia há %s semana. Toque para saber como ligar as cópias automáticas</item>
+    </plurals>
 </resources>

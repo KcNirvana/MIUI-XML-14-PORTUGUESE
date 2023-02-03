@@ -15,6 +15,7 @@
     <string name="backup_action_buy_cloud_space">Obter mais espaço</string>
     <string name="backup_action_check_network">Verificar as definições de rede</string>
     <string name="backup_action_clean_disk_space">Libertar espaço</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Copiar os seus itens</string>
     <string name="backup_action_long_time_not_backup_action">Copiar</string>
     <string name="backup_action_long_time_not_backup_title">Sem cópias recentes</string>
     <string name="backup_action_retry_now">Tentar novamente</string>
@@ -116,7 +117,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
     <string name="cloud_backup_detail_state_summary">Criar cópias da Xiaomi Cloud automaticamente quando ligado ao Wi-Fi</string>
     <string name="cloud_backup_detail_state_summary_china">Criar cópias da Xiaomi Cloud automaticamente quando ligado ao Wi-Fi</string>
     <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
-    <string name="cloud_backup_detail_title">Ecrã inicial, aplicações e definições</string>
+    <string name="cloud_backup_detail_title">Copiar itens</string>
+    <string name="cloud_backup_get_installed_apps_summary">Para copiar e restaurar aplicações do ecrã inicial</string>
+    <string name="cloud_backup_get_installed_apps_title">Aceder à lista de aplicações instaladas neste dispositivo</string>
     <string name="cloud_backup_have_data">Cópia encontrada na Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="cloud_backup_in_process">A copiar…</string>
@@ -140,6 +143,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
     <string name="confirm_restore_summary">O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
+    <string name="cta_dialog_all_purpose">Bem-vindo às Cópias da Xiaomi Cloud! Pode utilizar esta aplicação para copiar o layout do ecrã inicial, aplicações e definições de sistema. Certifique-se que está a utilizar a versão mais recente para poder utilizar todas as funcionalidades</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Para copiar e restaurar aplicações</string>
+    <string name="cta_dialog_permission_description_storage">Para copiar e restaurar itens</string>
     <string name="customization"><u>Personalizar</u></string>
     <string name="date_format">dd/mm/yyyy</string>
     <string name="deskclock_backup">Alarmes</string>
@@ -155,6 +161,10 @@ ID:%s
 Envie este código para o técnico"</string>
     <string name="dialog_app_usage_consent_title">Permitir o acesso de dados de utilização</string>
     <string name="dialog_app_usage_denied">Conceder a Cópias da Xiaomi Cloud a permissão de \"Acesso de utilização\" nas Definições para poder copiar itens</string>
+    <string name="dialog_auto_backup_condition_normal_content">Para poder copiar regularmente todos os itens importantes automaticamente, certifique-se que tem espaço suficiente na Xiaomi Cloud, que este dispositivo está bloqueado, tem %s de bateria e está ligado ao Wi-Fi à noite. Pode fazer uma cópia manualmente em qualquer altura</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Para poder copiar regularmente todos os itens importantes automaticamente, certifique-se que tem espaço suficiente na Xiaomi Cloud, que este dispositivo está bloqueado, tem %s de bateria e está ligado ao Wi-Fi à noite. Pode fazer uma cópia manualmente em qualquer altura</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Percebi</string>
+    <string name="dialog_auto_backup_condition_normal_title">Copiar os seus itens</string>
     <string name="dialog_backup_failed">Não foi possível copiar</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_confirm2">Percebi</string>
@@ -180,6 +190,11 @@ Envie este código para o técnico"</string>
     <string name="dialog_negative_btn_cancel_restore">Parar restauro</string>
     <string name="dialog_positive_btn_cancel_backup">Não cancelar</string>
     <string name="dialog_positive_btn_cancel_restore">Não parar</string>
+    <string name="dialog_recommend_wechat_backup_content">You can now back up WeChat conversations and other data to Xiaomi Cloud. To be able to back up your items, make sure you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">You can now back up WeChat conversations and other data to Xiaomi Cloud. To be able to back up your items, make sure you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Percebi</string>
+    <string name="dialog_recommend_wechat_backup_positive">Saber mais</string>
+    <string name="dialog_recommend_wechat_backup_title">Copiar dados do WeChat</string>
     <string name="dialog_title_cancel_backup">Cancelar cópia</string>
     <string name="dialog_title_cancel_restore">Parar restauro</string>
     <string name="dialog_title_require_wlan">Ligar ao Wi-Fi</string>
@@ -260,6 +275,8 @@ Envie este código para o técnico"</string>
     <string name="remove_task_in_process">A eliminar…</string>
     <string name="remove_task_unfinished">Remoção não concluída</string>
     <string name="remove_unfinished">A remover. Tente novamente mais tarde</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Pode agora copiar dados do WeChat. Toque para detalhes</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Copiar dados do WeChat</string>
     <string name="restore_app_order_finish">Concluído</string>
     <string name="restore_app_order_loading">Aguarde…</string>
     <string name="restore_app_order_retry">Tentar novamente</string>
@@ -359,6 +376,8 @@ Verifique as suas definições de rede e tente novamente"</string>
     <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Xiaomi Cloud</string>
     <string name="start_recover">Restaurar %s</string>
     <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do ecrã inicial</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Backed up WeChat data. Tap for details.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Completed automatic backup</string>
     <string name="system_error_info">Sistema ocupado. Aguarde um momento e tente novamente</string>
     <string name="temporary_not_available">Temporariamente não disponível</string>
     <string name="title_alert_cancel_restore">Parar restauro</string>

@@ -314,10 +314,12 @@ Pode iniciar outra sessão no seu computador"</string>
     <string name="pc_cooperate_guide_screenshot">Captura de ecrã</string>
     <string name="pc_cooperate_guide_task">Mostrar tarefas</string>
     <string name="pc_cooperate_guide_undo">Anular (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Ligar automaticamente a um computador com MIUI+ aberto e com sessão iniciada na mesma Conta Xiaomi</string>
     <string name="privacy_describe_change_wifi_state_china">Para ligar dispositivos e transferir ficheiros via Wi-Fi</string>
     <string name="scanner_lower_version_toast">Actualizar MIUI+ no seu computador para ligar</string>
     <string name="settings_current_device">Dispositivo ligado</string>
     <string name="settings_pc">Computador</string>
+    <string name="settings_pc_handoff_title">Ligar ao computador</string>
     <string name="settings_phone">Telefone</string>
     <string name="settings_phone_handoff_title">Ligar automaticamente</string>
     <string name="share_pc_abort_dialog_message">Certifique-se que o Bluetooth e Wi-Fi estão ligados em ambos os dispositivos e inicie a sessão novamente no seu computador</string>

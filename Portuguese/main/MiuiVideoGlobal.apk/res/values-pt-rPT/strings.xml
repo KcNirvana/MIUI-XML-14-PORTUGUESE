@@ -760,6 +760,7 @@ Tente ver outros vídeos!"</string>
     <string name="share_ugc_content">Veja em %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Junte-se a nós</string>
     <string name="share_ugc_waitting">A gerar link…</string>
+    <string name="shorts_assemble_ad_recommend">Recomendado</string>
     <string name="signup_type_silent_default">Silencioso</string>
     <string name="signup_type_user_default">consumidor LoginSDK</string>
     <string name="slid_fail_message">Não foi possível guardar</string>
@@ -793,6 +794,8 @@ Tente ver outros vídeos!"</string>
     <string name="talkback_voice_search">Pesquisa de voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Alguns vídeos podem não ser vistos aqui devido a restrições de Android. Toque em \"Ficheiros\" para encontrar outros vídeos</string>
     <string name="temporary_not_available">Funcionalidade ainda não disponível</string>
+    <string name="text_default_ad_description">Anúncios</string>
+    <string name="text_default_ad_title">Pode gostar de</string>
     <string name="thursday">Quinta-feira</string>
     <string name="title_firework_recommend">Recomendações Firework</string>
     <string name="today">Hoje</string>

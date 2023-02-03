@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add_sound">Adicionar equalizador personalizado</string>
+    <string name="app_disable_description_title">Desactivar esta aplicação?</string>
     <string name="app_name">Auriculares</string>
     <string name="apply_sound">Aplicar</string>
     <string name="can_you_here">Consegue ouvir o som?</string>
