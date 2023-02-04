@@ -1977,9 +1977,9 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="rapid_charge_mode_tip">Carregamento rápido</string>
     <string name="reboot_info_auto_boot_global">Próximo alarme: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Alarme de desligar: %s</string>
-    <string name="recent_used_camera">Esta aplicação utilizou a câmara</string>
-    <string name="recent_used_camera_and_microphone">Esta aplicação gravou áudio e utilizou a câmara</string>
-    <string name="recent_used_microphone">Esta aplicação gravou áudio</string>
+    <string name="recent_used_camera">Esta aplicação acedeu à câmara</string>
+    <string name="recent_used_camera_and_microphone">Esta aplicação acedeu à câmara e microfone</string>
+    <string name="recent_used_microphone">Esta aplicação acedeu ao microfone</string>
     <string name="recent_conversations">Conversas recentes</string>
     <string name="recents_quick_scrub_onboarding">Arrastar para a direita para mudar de aplicação</string>
     <string name="recents_swipe_up_onboarding">Deslizar para cima para mudar de aplicação</string>
@@ -2434,9 +2434,9 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
     <string name="user_setup_dialog_title">Configurar o utilizador agora?</string>
     <string name="user_setup_profile_dialog_message">Configurar o perfil agora?</string>
     <string name="user_switch_to_user">Trocar para %s</string>
-    <string name="using_camera">Esta aplicação está a utilizar a câmara</string>
-    <string name="using_camera_and_microphone">Esta aplicação está a gravar áudio e a utilizar a câmara</string>
-    <string name="using_microphone">Esta aplicação está a gravar áudio</string>
+    <string name="using_camera">Esta aplicação está a aceder à câmara</string>
+    <string name="using_camera_and_microphone">Esta aplicação está a aceder à câmara e microfone</string>
+    <string name="using_microphone">Esta aplicação está a aceder ao microfone</string>
     <string name="v7_preference_off">Desligado</string>
     <string name="v7_preference_on">Ligado</string>
     <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>

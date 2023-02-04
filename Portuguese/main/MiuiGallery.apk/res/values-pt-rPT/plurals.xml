@@ -651,11 +651,11 @@
         <item quantity="one">Não foi possível transferir %1$d item. Vá a i.mi.com para transferir</item>
     </plurals>
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Items can be stored here for %1$s days. Tap to extend this period.</item>
-        <item quantity="one">Items can be stored here for %1$s day. Tap to extend this period.</item>
+        <item quantity="other">Os itens podem ser guardados aqui até %1$s dias. Toque para estender este período</item>
+        <item quantity="one">Os itens podem ser guardados aqui até %1$s dia. Toque para estender este período</item>
     </plurals>
     <plurals name="trash_vip_info_text_no_sync_server">
-        <item quantity="other">Deleted items are stored in the cloud for %1$d days</item>
-        <item quantity="one">Deleted items are stored in the cloud for %1$d day</item>
+        <item quantity="other">Os itens eliminados são mantidos na Xiaomi Cloud por %1$d dias</item>
+        <item quantity="one">Os itens eliminados são mantidos na Xiaomi Cloud por %1$d dia</item>
     </plurals>
 </resources>
