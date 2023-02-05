@@ -18,8 +18,6 @@
     <string name="notification_sound_default">Toque de notificação predefinido</string>
     <string name="permission_audio">Permitir que <b>^1</b> modifique ou elimine esta música?</string>
     <string name="permission_images">Permitir que <b>^1</b> modifique ou elimine esta imagem?</string>
-    <string name="permission_required">Necessária permissão para modificar ou eliminar este item</string>
-    <string name="permission_required_action">Continuar</string>
     <string name="permission_video">Permitir que <b>^1</b> modifique ou elimine este vídeo?</string>
     <string name="ringtone_default">Toque predefinido</string>
     <string name="root_audio">Áudio</string>
@@ -65,8 +63,8 @@
     <string name="permission_progress_write_generic">{count, plural, =1 {Modifying item…} other {Modifying ^1 items…} }</string>
     <string name="permission_progress_write_image">{count, plural, =1 {Modifying photo…} other {Modifying ^1 photos…} }</string>
     <string name="permission_progress_write_video">{count, plural, =1 {Modifying video…} other {Modifying ^1 videos…} }</string>
-    <string name="permission_required">Permission required to modify or delete this item.</string>
-    <string name="permission_required_action">Continue</string>
+    <string name="permission_required">Necessária permissão para modificar ou eliminar este item</string>
+    <string name="permission_required_action">Continuar</string>
     <string name="permission_trash_audio">{count, plural, =1 {Allow ^1 to move this audio file to trash?} other {Allow ^1 to move ^2 audio files to trash?} }</string>
     <string name="permission_trash_generic">{count, plural, =1 {Allow ^1 to move this item to trash?} other {Allow ^1 to move ^2 items to trash?} }</string>
     <string name="permission_trash_image">{count, plural, =1 {Allow ^1 to move this photo to trash?} other {Allow ^1 to move ^2 photos to trash?} }</string>
