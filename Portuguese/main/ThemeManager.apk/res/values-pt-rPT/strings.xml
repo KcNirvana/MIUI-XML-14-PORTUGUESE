@@ -1303,7 +1303,7 @@ You can grant this permission in Settings &gt; Privacy."</string>
     <string name="large_icon_no_more">Sem ícones</string>
     <string name="large_icon_no_network">Não foi possível ligar à rede</string>
     <string name="large_icon_not_support">Não é possível definir ícones para %s</string>
-    <string name="large_icon_not_support_current_type">"%s não é suportado para este ícone</string>
+    <string name="large_icon_not_support_current_type">%s não é suportado para este ícone</string>
     <string name="large_icon_official">Predefinidos</string>
     <string name="large_icon_picker_haven">Disponíveis</string>
     <string name="large_icon_picker_more">Mais</string>

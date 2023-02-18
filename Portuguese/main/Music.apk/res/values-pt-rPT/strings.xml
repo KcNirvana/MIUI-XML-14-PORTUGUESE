@@ -1097,6 +1097,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Pesquisar músicas</string>
     <string name="search_title">Pesquisar</string>
+    <string name="see_more_videos">Mais vídeos</string>
     <string name="select_album">Seleccionar álbum</string>
     <string name="select_all">Seleccionar tudo</string>
     <string name="select_clip_desc">Seleccionar um clipe da música</string>
@@ -1574,6 +1575,7 @@ Be Happy"</string>
     <string name="start_update">Installing new version…</string>
     <string name="summary_command_mode">Turn on to enter Command mode</string>
     <string name="supplementary_songs">Additional songs</string>
+    <string name="swipe_for_more">Swipe up for more music videos</string>
     <string name="switch_success">Switched successfully</string>
     <string name="tab_chart">Gráficos</string>
     <string name="tab_flow">Ver</string>
@@ -1618,5 +1620,6 @@ Be Happy"</string>
     <string name="video_retry_btn">Try again</string>
     <string name="view_album">View album</string>
     <string name="you_may_like">You may also like</string>
+    <string name="you_might_like_it">You might like</string>
     <string name="youtube_play_history">Histórico de reprodução</string>
 </resources>

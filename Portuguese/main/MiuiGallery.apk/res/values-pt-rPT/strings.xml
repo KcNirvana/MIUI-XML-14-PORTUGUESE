@@ -3321,7 +3321,7 @@ Send this code to the supervisor."</string>
     <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
     <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
     <string name="sns_sign_in">Other ways to sign in</string>
-    <string name="sort_and_showmode">Sort and view</string>
+    <string name="sort_and_showmode">Ordenar e vista</string>
     <string name="stop_migration_msg">"You won't be able to resume the transfer if you stop it now. If you decide to stop the transfer, you can visit i.mi.com to download the items still stored in Xiaomi Cloud."</string>
     <string name="stop_migration_ok">Stop</string>
     <string name="stop_migration_title">Stop the transfer now?</string>

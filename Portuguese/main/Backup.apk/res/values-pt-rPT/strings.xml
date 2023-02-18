@@ -47,6 +47,7 @@
     <string name="backup_failed">Não foi possível fazer cópia</string>
     <string name="backup_file_error">Não foi possível fazer cópia</string>
     <string name="backup_finished">Cópia de segurança concluída</string>
+    <string name="backup_for_broken_screen">Cópias com o ecrã danificado</string>
     <string name="backup_hint">Mantenha o seu dispositivo ligado</string>
     <string name="backup_hint_onpad">Mantenha o seu dispositivo ligado</string>
     <string name="backup_hint_pad">Mantenha o seu dispositivo ligado</string>

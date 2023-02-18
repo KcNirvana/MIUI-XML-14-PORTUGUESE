@@ -1356,8 +1356,8 @@ to show widgets."</string>
     <string name="pa_stock_widget_empty">Sem itens</string>
     <string name="pa_stock_widget_name">Stocks</string>
     <string name="pa_sure">OK</string>
-    <string name="pa_toast_home_layout_locked">Home screen layout is locked</string>
-    <string name="pa_toast_message_not_support_size">"Widgets of this size aren't supported by App vault"</string>
+    <string name="pa_toast_home_layout_locked">O layout do ecrã inicial está bloqueado</string>
+    <string name="pa_toast_message_not_support_size">Widgets deste tamanho não são suportados pelo assistente</string>
     <string name="pa_vertical_center">Vertical layout. Center aligned.</string>
     <string name="pa_vertical_left">Vertical layout. Left aligned.</string>
     <string name="pa_vertical_right">Vertical layout. Right aligned.</string>

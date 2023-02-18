@@ -10,6 +10,15 @@
         <item>O alarme vai tocar em %2$s %3$s</item>
         <item>O alarme vai tocar em %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>O alarme vai tocar em %1$s</item>
+        <item>O alarme vai tocar em %2$s</item>
+        <item>O alarme vai tocar em %1$s %2$s</item>
+        <item>O alarme vai tocar em %3$s</item>
+        <item>O alarme vai tocar em %1$s %3$s</item>
+        <item>O alarme vai tocar em %2$s %3$s</item>
+        <item>O alarme vai tocar em %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
         <item>Diariamente</item>
@@ -25,14 +34,23 @@
         <item>Personalizar</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarme vai tocar daqui a menos de um minuto</item>
-        <item>Alarme vai tocar daqui a %1$s</item>
-        <item>Alarme vai tocar daqui a %2$s</item>
-        <item>Alarme vai tocar daqui a %1$s e %2$s</item>
-        <item>Alarme vai tocar daqui a %3$s</item>
-        <item>Alarme vai tocar daqui a %1$s e %3$s</item>
-        <item>Alarme vai tocar daqui a %2$s e %3$s</item>
-        <item>Alarme vai tocar daqui a %1$s %2$s e %3$s</item>
+        <item>Alarme vai desligar em menos de um minuto</item>
+        <item>Alarme vai desligar em %1$s</item>
+        <item>Alarme vai desligar em %2$s</item>
+        <item>Alarme vai desligar em %1$s e %2$s</item>
+        <item>Alarme vai desligar em %3$s</item>
+        <item>Alarme vai desligar em %1$s e %3$s</item>
+        <item>Alarme vai desligar em %2$s e %3$s</item>
+        <item>Alarme vai desligar em %1$s %2$s e %3$s</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Alarme vai desligar em %1$s</item>
+        <item>Alarme vai desligar em %2$s</item>
+        <item>Alarme vai desligar em %1$s e %2$s</item>
+        <item>Alarme vai desligar em %3$s</item>
+        <item>Alarme vai desligar em %1$s e %3$s</item>
+        <item>Alarme vai desligar em %2$s e %3$s</item>
+        <item>Alarme vai desligar em %1$s %2$s e %3$s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bom</item>

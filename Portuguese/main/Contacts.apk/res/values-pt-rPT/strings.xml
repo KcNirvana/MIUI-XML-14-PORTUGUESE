@@ -62,6 +62,8 @@
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Ligar para o telefone de casa</string>
     <string name="call_isdn">Ligar para o ISDN</string>
+    <string name="call_limit">Restrições de chamadas</string>
+    <string name="call_limit_content">Não é possível ligar para “%s”. Apenas pode ligar para números aprovados na sua lista de contactos</string>
     <string name="call_main">Ligar para o telefone principal</string>
     <string name="call_mms">Ligar para MMS</string>
     <string name="call_mobile">Ligar para o telemóvel</string>
@@ -442,6 +444,7 @@ Motivo: \"%s\""</string>
     <string name="invisible_mode_unable_get_location">Desligar o modo anónimo para poder utilizar a localização e importar contactos de outros dispositivos via Bluetooth. Desligar agora?</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Utilize o armazenamento interno do dispositivo</string>
+    <string name="know">Percebi</string>
     <string name="label_custom_type">Personalizar</string>
     <string name="label_no_duplicate_contacts">Não foram encontrados duplicados</string>
     <string name="label_notes">Notas</string>
@@ -963,6 +966,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_card_order_name">Service package</string>
     <string name="bh_card_order_pay_price">Amount paid</string>
     <string name="bh_card_order_price">Price</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">Add %2$s CNY to %1$s?</string>
     <string name="bh_charge_continue">Top up</string>
     <string name="bh_charge_number">Topping up %1$s</string>
@@ -992,7 +996,7 @@ Escolher uma das seguintes opções:"</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Checked successfully. The info might be updated with a delay here.</string>
     <string name="bh_get_charge_phone_number">Select from contacts</string>
-    <string name="bh_goto_granted">去授权</string>
+    <string name="bh_goto_granted">Grant permissions</string>
     <string name="bh_goto_open">Not granted</string>
     <string name="bh_goto_set">Set</string>
     <string name="bh_i_got_it">Got it</string>
