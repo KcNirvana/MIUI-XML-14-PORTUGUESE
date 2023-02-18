@@ -101,6 +101,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicação necessita de adquirir o seu número de telefone da operadora para iniciar sessão. Permitir?</string>
     <string name="HIPS_Perm_operator_shake">Aceder ao acelerómetro</string>
     <string name="HIPS_Perm_operator_shake_Desc">aceder aos dados do acelerómetro utilizados para registar a orientação e movimentos</string>
+    <string name="HIPS_Perm_operator_wall_paper">Definir papel de parede</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">alterar papéis de parede</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Aceder à aplicação Telefone</string>

@@ -660,10 +660,11 @@
     <string name="preferences_week_start_day_dialog">Início da semana</string>
     <string name="preferences_week_start_day_title">Início da semana</string>
     <string name="prefsx_notify_sound_none">Silêncio</string>
-    <string name="premission_description_agree">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
+    <string name="premission_description_agree">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima</string>
     <string name="premission_description_calendar">Adicionar e mostrar os seus eventos</string>
     <string name="premission_description_contact">Mostrar aniversários dos seus contactos</string>
     <string name="premission_description_log">Guardar registos</string>
+    <string name="premission_description_notice">Para enviar notificações acerca de eventos e feriados</string>
     <string name="premission_description_phone_state">Identificar o seu dispositivo baseado no ID de dispositivo</string>
     <string name="premission_description_ringtone">Definir toques</string>
     <string name="privacy_and_permissions">Privacidade e permissões</string>
@@ -879,6 +880,7 @@ You can also add reminders so you don't miss anything important."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tap to change date.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Day %2$d of menstrual cycle. Selected.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Day %2$d of menstrual cycle. Tap to select date.</string>
+    <string name="permission_denial">Conceder permissões para poder utilizar esta funcionalidade</string>
     <string name="permission_description">Detalhes das permissões</string>
     <string name="tb_picker_day">Selected day: %1$d. Swipe vertically to select day.</string>
     <string name="tb_picker_menstruation_cycle">Selected number of days: %1$d. Swipe vertically to change cycle duration.</string>
