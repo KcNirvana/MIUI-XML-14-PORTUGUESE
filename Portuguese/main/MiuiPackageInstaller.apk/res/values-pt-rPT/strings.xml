@@ -461,7 +461,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
     <string name="risk_warning_top_button">Não instalar</string>
     <string name="safe_guard_support">Suporte técnico fornecido por %1$s</string>
     <string name="safe_relative">Segurança</string>
-    <string name="prepare_install">A preparar instalção…</string>
+    <string name="prepare_install">A preparar instalação…</string>
     <string name="pure_function_introduction">Funcionalidades do Modo Seguro</string>
     <string name="pure_guarding">Ligado</string>
     <string name="pure_introduction_des1">Check apps from unknown sources for possible security risks before installation</string>
