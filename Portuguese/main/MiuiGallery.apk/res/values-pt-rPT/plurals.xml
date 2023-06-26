@@ -634,10 +634,6 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
-    <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d itens</item>
-        <item quantity="one">%1$d item</item>
-    </plurals>
     <plurals name="share_album_home_pref_screen_devices">
         <item quantity="other">%1$d ecrãs</item>
         <item quantity="one">%1$d ecrã</item>

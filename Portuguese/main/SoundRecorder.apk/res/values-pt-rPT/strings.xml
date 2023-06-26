@@ -179,6 +179,7 @@
     <string name="record_scenes_summaries_stereo_music">Gravar através de %d canais. Ouvir som estéreo nos auriculares</string>
     <string name="record_scenes_summaries_stereo_voice">Mover o microfone para mais perto para melhor qualidade</string>
     <string name="record_scenes_summaries_voice">Mover o microfone para mais perto para melhor qualidade</string>
+    <string name="record_while_in_call_tip">Não é possível gravar durante uma chamada</string>
     <string name="recorder_record">Áudio</string>
     <string name="recording">Gravação</string>
     <string name="recording_quality_high">Qualidade alta</string>

@@ -858,6 +858,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
     <string name="message_count_spacer">  </string>
     <string name="message_decode_error">Não é possível descodificar a mensagem</string>
     <string name="message_discarded">Rascunho rejeitado</string>
+    <string name="message_forward_has_signature_pdf">Quer reencaminhar com PDFs assinados?</string>
     <string name="message_invite_accept">Sim</string>
     <string name="message_invite_calendar_download_prompt">Transferir Calendário para poder utilizar esta funcionalidade</string>
     <string name="message_invite_calendar_view">Ver no calendário</string>

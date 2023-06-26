@@ -4,6 +4,10 @@
         <item quantity="other">%d jogos adicionados</item>
         <item quantity="one">%d jogo adicionado</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplicações adicionadas</item>
+        <item quantity="one">%d aplicação adicionada</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicações</item>
         <item quantity="one">%d aplicação</item>
@@ -167,6 +171,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <plurals name="exit_dialog_scan_message_new">
         <item quantity="other">A pontuação do seu dispositivo é menor que %d. Optimizar agora?</item>
         <item quantity="one">A pontuação do seu dispositivo é menor que %d. Optimizar agora?</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d aplicações</item>
@@ -422,6 +434,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">"O acesso à rede está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicações"</item>
         <item quantity="one">"O acesso à rede está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicação"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplicações não adicionadas</item>
+        <item quantity="one">%d aplicação não adicionada</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d dias sem verificar</item>
         <item quantity="one">%d dia sem verificar</item>
@@ -501,6 +517,10 @@ You can get a %d-day free trial now!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Sem bateria. A entrar no Modo Hibernação em %1$d segundos</item>
+        <item quantity="one">Sem bateria. A entrar no Modo Hibernação em %1$d segundo</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dias</item>

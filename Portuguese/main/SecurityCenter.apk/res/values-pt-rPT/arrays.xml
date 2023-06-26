@@ -152,6 +152,10 @@
         <item>Aplicações de terceiros que não são verificadas podem causar vários problemas</item>
         <item>Algumas aplicações de terceiros podem conter malware</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Predefinido</item>
+        <item>Tudo</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Interno</item>
         <item>Externo</item>

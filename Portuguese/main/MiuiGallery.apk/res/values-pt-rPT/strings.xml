@@ -454,6 +454,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="cloud_bacup_disable_processing">A processar…</string>
     <string name="cloud_camera_display_name">Fotos da câmara</string>
     <string name="cloud_cancel_authorizing_to_device">A cancelar autorização…</string>
+    <string name="cloud_data_size">Fotos e vídeos na Xiaomi Cloud: %1$s</string>
     <string name="cloud_full_space_tip_message">Actualizar o seu plano de armazenamento para poder sincronizar todas as fotos e vídeos</string>
     <string name="cloud_full_space_tip_negative">Agora não</string>
     <string name="cloud_full_space_tip_positive">Actualizar</string>
@@ -1078,6 +1079,7 @@ efeitos de fotos"</string>
     <string name="id_photo_module_finish">Plugin de \"ID\" transferido com sucesso</string>
     <string name="id_photo_module_loading">A transferir plugin…</string>
     <string name="ignore_album">Não mostrar</string>
+    <string name="ignore_alert_dialog_title">Ignorar esta pessoa?</string>
     <string name="ignore_alert_title">Não mostrar este álbum? Toque no canto superior direito para ver as fotos que ignorou</string>
     <string name="ignore_face">Ignorar esta pessoa</string>
     <string name="ignore_faces_title">Ignoradas</string>

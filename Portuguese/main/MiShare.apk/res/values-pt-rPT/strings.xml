@@ -104,6 +104,7 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="start_scan">Iniciar procura</string>
     <string name="stop_advertise">Parar anúncios</string>
     <string name="stop_scan">Parar procura</string>
+    <string name="sub_title_mishare_switch">Esta funcionalidade vai desligar automaticamente após %d minutos</string>
     <string name="success_receive_much_file_from_pc">Recebidos mais de %2$d ficheiros de %1$s. Toque para ver</string>
     <string name="support_device_type">Dispositivos suportados</string>
     <string name="throwing_print">Imprimir</string>
@@ -114,11 +115,15 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="tips_p2p_support_use5g">Para melhores resultados, utilize uma rede Wi-Fi 5GHz</string>
     <string name="tips_p2p_support_use5g_china">Para melhores resultados, utilize uma rede Wi-Fi 5GHz</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="to_feedback">Reportar</string>
+    <string name="toast_auto_close_in_minutes">Mi Share vai desligar após %d minutos</string>
+    <string name="toast_transfering">A transferir itens. Tente novamente mais tarde</string>
     <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
     <string name="transfer_to_pc_summary">Pode utilizar o Mi Share para enviar itens para Mi Notebooks directamente. Nos outros portáteis tem de instalar o Mi Share primeiro</string>
     <string name="transfer_to_pc_title">Enviar ficheiros para computadores</string>
-    <string name="transfer_to_phone_summary">O Mi Share permite enviar imagens e ficheiros para telefones Mi próximos e outros dispositivos Android compatíveis</string>
+    <string name="transfer_to_phone_summary_new">O Mi Share permite enviar imagens e ficheiros para telefones Mi próximos e outros dispositivos Android compatíveis</string>
     <string name="transfer_to_phone_title">Enviar ficheiros para telefones</string>
+    <string name="transfer_to_summary_new">Turn on Mi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
     <string name="unkonw_device">Dispositivo desconhecido</string>
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>
