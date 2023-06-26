@@ -81,7 +81,7 @@
     <string name="delete_file_success">Eliminado com sucesso</string>
     <string name="delete_operation_record">Eliminar este registo?</string>
     <string name="delete_operation_record_timeout">Não foi possível eliminar este registo. Aguarde um momento e tente novamente</string>
-    <string name="delete_record_only">Os itens seleccionados não vão ser eliminados</string>
+    <string name="delete_record_only">Apenas itens seleccionados vão ser eliminados. Não vão ser eliminados ficheiros</string>
     <string name="delete_success">Ficheiro eliminado</string>
     <string name="detail_download_path">"Localização: "</string>
     <string name="detail_download_time">"Transferido: "</string>
@@ -253,7 +253,7 @@ Make sure you're using the current Xiaomi Account as your MIUI system account."<
     <string name="operation_move">Cortar</string>
     <string name="operation_rename">Mudar o nome</string>
     <string name="operation_save">Enviar</string>
-    <string name="operation_sure_to_delete">Eliminar agora?</string>
+    <string name="operation_sure_to_delete">Eliminar histórico?</string>
     <string name="operation_transport_success">Adicionado às transferências</string>
     <string name="operation_will_not_show_after_delete">Este registo não vai aparecer mais aqui</string>
     <string name="pause_all">Pausar tudo</string>
