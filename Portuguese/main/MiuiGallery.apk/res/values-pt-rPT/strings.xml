@@ -1358,7 +1358,7 @@ para personalizar a galeria"</string>
     <string name="mosaic_item_talkback_effect9">Estrelas</string>
     <string name="mosaic_item_talkback_eraser">Borracha</string>
     <string name="motion_photo_play">Reproduzir</string>
-    <string name="move_to_other_albums_tip">Mover este álbum para outros álbuns?</string>
+    <string name="move_to_other_albums_tip">Mover este álbum para \"Outros álbuns\"?</string>
     <string name="move_to_rubbish_albums_tip">Mover álbuns seleccionados para o lixo?</string>
     <string name="movie_add_disable">Pode seleccionar até %d fotos</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -1524,7 +1524,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="operation_hide_time">Ocultar data</string>
     <string name="operation_in_process">A processar…</string>
     <string name="operation_move">Mover</string>
-    <string name="operation_move_to_other_albums">Mover para outros álbuns</string>
+    <string name="operation_move_to_other_albums">Mover para \"Outros álbuns\"</string>
     <string name="operation_move_to_rubbish_albums">Mover para o lixo</string>
     <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
     <string name="operation_photo_rename">Mudar o nome</string>
@@ -1533,7 +1533,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="operation_projection">Transmitir</string>
     <string name="operation_remove_face">Remover</string>
     <string name="operation_remove_from_face_album">Remover do álbum</string>
-    <string name="operation_remove_from_other_albums">Mover de outros álbuns</string>
+    <string name="operation_remove_from_other_albums">Mover de \"Outros álbuns\"</string>
     <string name="operation_remove_from_rubbish_albums">Restaurar</string>
     <string name="operation_remove_rubbish">Restaurar</string>
     <string name="operation_remove_secret">Mostrar</string>
@@ -1569,7 +1569,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="origin_video_name">Vídeo</string>
     <string name="other_album">Outros álbuns</string>
     <string name="other_album_operation_move_to_rubbish_albums">Mover para o lixo</string>
-    <string name="other_album_operation_remove_from_other_albums">Remover</string>
+    <string name="other_album_operation_remove_from_other_albums">Remover de \"Outros álbuns\"</string>
     <string name="other_settings">Definições adicionais</string>
     <string name="owner_album_subtitle">Partilhar com %1$s pessoas</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
@@ -1900,7 +1900,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="remove_from_album_title">Remover deste álbum</string>
     <string name="remove_from_current_album">Remover deste álbum</string>
     <string name="remove_from_favorites_failed">Não foi possível remover dos favoritos</string>
-    <string name="remove_from_other_albums_tip">Mover este álbum de outros álbuns?</string>
+    <string name="remove_from_other_albums_tip">Mover este álbum de \"Outros álbuns\"?</string>
     <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
     <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
     <string name="remove_from_secret_successful">Removido do álbum oculto</string>
@@ -2203,8 +2203,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="show_cloud_albumlist_title">Gerir álbuns sincronizados</string>
     <string name="show_hidden_album_summary">Ver e gerir álbuns ocultos</string>
     <string name="show_hidden_album_title">Ver álbuns ocultos</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Removido com sucesso. Pode ver este item em \"Álbuns\"</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Pode ver este item em \"Álbuns\"</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido para o lixo com sucesso</string>
     <string name="signature_dialog_clear">Limpar</string>
     <string name="signature_manage_dialog_title_string">Assinatura</string>
@@ -3310,7 +3310,7 @@ Send this code to the supervisor."</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="please_agree_protocal">Please Agree Protocal</string>
     <string name="privacy_share_album_confirm">Terms and conditions</string>
-    <string name="privacy_share_album_confirm_detail">Shared albums are powered by Xiaomi Cloud. Before using this feature, read and agree to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">User Agreement>&lt;/a>&lt;/font> and &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Shared albums are powered by Xiaomi Cloud. Before using this feature, read and agree to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font>.</string>
     <string name="progressbar_title">Checking for security issues…</string>
     <string name="protocal_dialog_confirm">Agree</string>
     <string name="protocal_dialog_title">Attention</string>

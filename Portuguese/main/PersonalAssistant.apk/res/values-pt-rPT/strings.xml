@@ -1198,6 +1198,8 @@ to show widgets."</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenção</string>
     <string name="pa_setting_bugreport">Comentários</string>
     <string name="pa_setting_perm_empty">Vazio</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obter recomendações de widgets baseado nos seus interesses</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Recomendações personalizadas</string>
     <string name="pa_setting_privacy_auth">Allow analyzing app usage</string>
     <string name="pa_setting_privacy_auth_summary">"You'll receive suggestions based on your usage habits"</string>
     <string name="pa_setting_privacy_category_perm">Permissões</string>

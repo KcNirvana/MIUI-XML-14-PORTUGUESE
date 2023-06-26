@@ -306,6 +306,7 @@
     <string name="gadget_weather_title">Tempo</string>
     <string name="gadget_weather_title_14">Tempo</string>
     <string name="gadget_weather_title_24">Tempo</string>
+    <string name="global_search">Pesquisar</string>
     <string name="global_search_hint">Pesquisar</string>
     <string name="group_folder">Nova pasta</string>
     <string name="group_live_folders">Pastas</string>
@@ -317,8 +318,11 @@
     <string name="home_gesture_content_center">Centro de conteúdos</string>
     <string name="home_gesture_global_search">Pesquisa</string>
     <string name="home_gesture_no_action">Nenhum</string>
+    <string name="home_gesture_notification_and_control_center">Área de notificações e Centro de Controlo</string>
     <string name="home_gesture_notification_bar">Notificações</string>
     <string name="home_pull_down_action">Deslizar para baixo no ecrã inicial</string>
+    <string name="home_pull_down_know">Percebi</string>
+    <string name="home_pull_up_content">Pode abrir a pesquisa deslizando para baixo no seu ecrã inicial agora</string>
     <string name="home_screen">Ecrã inicial</string>
     <string name="home_slide_up_action">Deslizar para cima no ecrã inicial</string>
     <string name="home_switch_personal_assistant">Assistente do ecrã inicial</string>
@@ -566,6 +570,7 @@ Segurança melhorada"</string>
     <string name="reset_scene_prompt">O ecrã vai ser reiniciado para o layout predefinido</string>
     <string name="reset_title">Restaurar</string>
     <string name="restore_icon_successful">Adicionado com sucesso</string>
+    <string name="risk_app_report">Reportar esta aplicação</string>
     <string name="screen_cells_config_title">Layout do ecrã inicial</string>
     <string name="screen_locked_toast">O layout do ecrã inicial está bloqueado</string>
     <string name="screen_number">%d ecrã</string>

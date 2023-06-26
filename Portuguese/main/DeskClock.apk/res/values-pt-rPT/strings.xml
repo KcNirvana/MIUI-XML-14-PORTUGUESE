@@ -208,10 +208,10 @@
     <string name="life_post_setting_wake_up_list_title">Histórico de despertar</string>
     <string name="life_post_wake_up_acumu_day_title">Contagem de dias</string>
     <string name="life_post_wake_up_item_acumu_day_title">Contagem de dias</string>
-    <string name="life_post_wake_up_item_percentage_title">Fãs Mi atrás de si</string>
+    <string name="life_post_wake_up_item_percentage_title">Fãs Xiaomi atrás de si</string>
     <string name="life_post_wake_up_item_time_title">Hora de despertar</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">Fãs Mi atrás de si</string>
+    <string name="life_post_wake_up_percentage_title">Fãs Xiaomi atrás de si</string>
     <string name="life_post_wake_up_time_title">Hora de despertar</string>
     <string name="life_post_weather_invalid">Toque para obter a informação do tempo</string>
     <string name="life_post_weather_no_network">Ligue-se à rede para actualizar a informação do tempo</string>
