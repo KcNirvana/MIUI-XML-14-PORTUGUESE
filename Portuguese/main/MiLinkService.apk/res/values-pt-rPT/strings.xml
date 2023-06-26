@@ -378,6 +378,7 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="toast_msg_for_multi_window">Não é possível transmitir no modo ecrã dividido</string>
     <string name="toast_msg_for_small_window">Pode minimizar a janela que está a ser transmitida para poder utilizar outras funcionalidades sem interromper a transmissão</string>
     <string name="toast_nfc_dont_move">Não afaste o telefone</string>
+    <string name="toast_nfc_same_wifi">Ligar a TV e o seu dispositivo à mesma rede</string>
     <string name="toast_title_for_small_window">Seleccionar \"Minimizar janela\" na aplicação</string>
     <string name="toast_turn_off_hotspot_before_cast">Desligar PA Móvel antes de transmitir</string>
     <string name="trust_device_desc">Estes dispositivos vão aparecer aqui quando estiverem próximos</string>

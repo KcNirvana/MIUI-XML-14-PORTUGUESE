@@ -1058,14 +1058,13 @@ Toque aqui para iniciar agora"</string>
     <string name="close_custom_permission_warning_text">"Without storage permissions, this app won't be able to download items and personalize your device. Turn off anyway?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Without storage permissions, this app won't be able to personalize your device. Turn off anyway?"</string>
     <string name="custom_widget">Widgets recomendados</string>
-    <string name="community_community_message_trigger_summary">Receive notifications about replies, likes, and Mi Community status updates using your Mi Account ID</string>
+    <string name="community_community_message_trigger_summary">Receive notifications about replies, likes, and Mi Community status updates using your Xiaomi Account ID</string>
     <string name="community_community_message_trigger_title">Notify about activity</string>
     <string name="community_cta_dialog_cancel">No thanks</string>
     <string name="community_cta_dialog_des">Third party themes now support Mi Community widget. Allow Themes to access your Mi Account ID and Mi Community statuses associated with the account to be able to view them here.</string>
     <string name="community_cta_dialog_ok">Allow</string>
     <string name="community_cta_dialog_title">Permissions required</string>
-    <string name="community_entrance_summary">Find theme-related content in Mi Community. This feature is supported by selected themes.</string>
-    <string name="community_entrance_title">Mi Community clock widget</string>
+    <string name="community_entrance_title">Xiaomi Community clock widget</string>
     <string name="community_message_trigger_disabled">Desligado</string>
     <string name="community_message_trigger_triggered">Ligado</string>
     <string name="configure_success_not_enable_aod">Applied successfully. Turn on Always-on display for the theme to take effect.</string>

@@ -203,7 +203,6 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="some_files_receive_completed">Ver os ficheiro que já recebeu em %1$s</string>
-    <string name="to_feedback">Reportar</string>
     <string name="transfer_to_pc_summary_new"><Data>A última versão de MIUI+ instalada nos portáteis Mi é compatível com Mi Share. Pode verificar a lista de portáteis suportados no site do MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu portátil estiver na lista, mas não tiver o MIUI+ instalado transfira o MIUI+</Data></string>
     <string name="transfer_to_summary">Ligar o Mi Share utilizando o atalho na área de notificações. Após ligar, vai poder ver os dispositivos próximos quando começar a partilhar fotos ou ficheiros. Toque no dispositivo do recepiente para enviar o item que estiver a partilhar</string>
     <string name="transfer_to_title">Enviar ficheiros para dispositivos móveis</string>

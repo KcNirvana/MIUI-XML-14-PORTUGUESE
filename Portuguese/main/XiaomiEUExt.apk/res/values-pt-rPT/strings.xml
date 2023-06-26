@@ -15,8 +15,10 @@
     <string name="loading">Aguarde…</string>
     <string name="lockscreen_side_apps">Atalhos do painel lateral</string>
     <string name="no_apps">Sem aplicações</string>
+    <string name="no_icons">Sem ícones</string>
     <string name="reset">Repor</string>
     <string name="select_app">Seleccionar uma aplicação</string>
     <string name="select_apps">Seleccionar aplicações</string>
+    <string name="status_bar_icons">Ícones barra de tarefas</string>
     <string name="wifi_region">Região Wi-Fi</string>
 </resources>

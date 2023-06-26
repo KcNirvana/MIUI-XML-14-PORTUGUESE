@@ -82,7 +82,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Pelicano-pardo</string>
     <string name="calendar_sound">Lembretes dos eventos</string>
-    <string name="calendar_tip">Os sons dos lembretes dos eventos funcionam para calendário, lembretes, notas e tarefas</string>
     <string name="canada_goose">Ganso do Canadá</string>
     <string name="capybara">Capivara</string>
     <string name="capybara_info">As capivaras são roedores herbívoros semi-aquáticos que podem prender a respiração debaixo de água até cinco minutos</string>
@@ -383,6 +382,7 @@ não são geradas no Segundo espaço"</string>
     <string name="screen_fps_unit">%dHz</string>
     <string name="screen_fps_unit_power_save">%dHz (poupança de bateria)</string>
     <string name="screen_fps_unit_smooth">%dHz (melhor qualidade)</string>
+    <string name="screen_fps_unit_string">%sHz</string>
     <string name="screen_original_gamut">Melhorado</string>
     <string name="screen_original_gamut_summary">Mostrar todo o conteúdo do ecrã na maior gama de cores possível</string>
     <string name="screen_paper_mode_apps_loading">Aguarde…</string>

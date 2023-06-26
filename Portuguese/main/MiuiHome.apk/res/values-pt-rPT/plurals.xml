@@ -7,17 +7,9 @@
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s não lidas de %1$s</item>
     </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">Eliminar %1$d papéis de parede?</item>
-        <item quantity="one">Eliminar %1$d papel de parede?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">Seleccionados %1$d itens</item>
-        <item quantity="one">Seleccionados %1$d item</item>
-    </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Remover %1$d aplicações do ecrã inicial?</item>
-        <item quantity="one">Remover %1$d aplicação do ecrã inicial?</item>
+        <item quantity="other">Remover %1$d itens do ecrã inicial?</item>
+        <item quantity="one">Remover %1$d item do ecrã inicial?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">página %1$d, %2$d aplicações</item>

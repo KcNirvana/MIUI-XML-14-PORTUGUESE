@@ -7820,13 +7820,11 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Desligado</string>
     <string name="shoulder_key_switch_status_open">Ligado</string>
-    <string name="show_alarm_icon_title">Mostrar ícone de alarme</string>
     <string name="show_all_anrs">Mostrar erros</string>
     <string name="show_all_anrs_summary">Mostrar erro de \"Aplicação não está a responder\" para aplicações em segundo plano</string>
     <string name="show_all_apps">Mostrar utilização total do dispositivo</string>
     <string name="show_background_processes">Mostrar processos em cache</string>
     <string name="show_badge_notifications_short">Emblemas</string>
-    <string name="show_bt_icon_title">Mostrar ícone de Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar nome da operadora com ecrã bloqueado</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animação de carregamento após desbloqueio</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Continuar a mostrar a animação de carregamento depois de desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
@@ -7848,9 +7846,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="show_ime_summary">Manter no ecrã enquanto o teclado físico estiver activo</string>
     <string name="show_magnifier_when_input">Mostrar lupa</string>
     <string name="show_menu">Mostrar menu</string>
-    <string name="show_mute_icon_title">Mostrar ícone de Silêncio</string>
     <string name="show_network_speed_title">Mostrar velocidade da ligação</string>
-    <string name="show_nfc_icon_title">Mostrar ícone de NFC</string>
     <string name="show_non_rect_clip">Depurar de operações clipe não rectangulares</string>
     <string name="show_notification_channel_warnings">Mostrar avisos do canal de notificações</string>
     <string name="show_notification_channel_warnings_summary">Mostra um aviso no ecrã quando uma aplicação publica uma notificação sem o canal ser válido</string>
@@ -8208,6 +8204,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="status_bar_app_enable_keyguard">Ecrã de bloqueio</string>
     <string name="status_bar_app_enable_message">Ícones</string>
     <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
+    <string name="status_bar_icons_title">Ícones da barra de tarefas</string>
     <string name="status_bar_settings">Notificações e barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>

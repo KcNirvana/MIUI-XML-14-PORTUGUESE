@@ -13,7 +13,7 @@
     <string name="app_name_danfa">Calculadora</string>
     <string name="app_notification_info">A Calculadora está a ser executada em segundo plano</string>
     <string name="base_rate">Taxa de juro base</string>
-    <string name="bmi_error_text">O IMC parece não estar correcto. Verifique se colocou correctamente o peso e altura</string>
+    <string name="bmi_error_text">Introduzir parâmetros válidos</string>
     <string name="bmi_label_information">Informações</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Excesso de peso</string>
@@ -148,6 +148,7 @@
     <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
     <string name="interest_rate_hint">Introduza a taxa de juro</string>
     <string name="investment_invalid_duration">A duração do investimento tem de ser maior que zero</string>
+    <string name="investment_loan_result">Detalhes</string>
     <string name="investment_type_once">Uma vez</string>
     <string name="investment_type_recurring">Periódicos</string>
     <string name="item_page_title_investment">Investimentos</string>
@@ -628,7 +629,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
     <string name="unit_data_display_length_fen">Condorim</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">Pé</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Polegada</string>

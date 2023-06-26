@@ -196,6 +196,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
     <string name="mibi_paytool_msp_not_installed">Não instalou o plugin de segurança %1$s. Instalar agora?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
+    <string name="mibi_paytool_unionpay">UnionPay</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permitir a utilização da Câmara nas Definições para utilizar as funcionalidades</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permitir o envio de SMS nas Definições para utilizar as funcionalidades</string>
