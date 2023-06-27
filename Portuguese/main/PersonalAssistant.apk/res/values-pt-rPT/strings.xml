@@ -1144,6 +1144,11 @@ Stay tuned!"</string>
     <string name="pa_picker_no_relevant_content">Sem resultados</string>
     <string name="pa_picker_permission_denied">"App vault needs to access installation status
 to show widgets."</string>
+    <string name="pa_picker_recommend_add_limit_toast">Não é possível adicionar mais widgets</string>
+    <string name="pa_picker_recommend_bottom_button_add">Adicionar widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Adicionar widget</string>
+    <string name="pa_picker_recommend_download_tip">Quando adicionar um widget, a aplicação associada vai ser transferida automaticamente</string>
+    <string name="pa_picker_recommend_title">Recomendados</string>
     <string name="pa_picker_request">Definições</string>
     <string name="pa_picker_retry">Tentar novamente</string>
     <string name="pa_picker_search">Pesquisar</string>

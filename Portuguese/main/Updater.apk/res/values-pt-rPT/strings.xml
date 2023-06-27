@@ -33,6 +33,7 @@
     <string name="download_fail_desc">O MD5 não corresponde…</string>
     <string name="downloading">A transferir…</string>
     <string name="downloading_desc">Transferência em curso. Verifique o estado na área de notificações</string>
+    <string name="fastboot_desc">O dispositivo vai reinicar para o modo Fastboot. Continuar?</string>
     <string name="fastboot_mode">Está no modo Fastboot. Apenas pode instalar ROMs com o terminal no PC</string>
     <string name="fastboot_update_warning">Estea actualização é para instalação fastboot apenas!</string>
     <string name="fetch_notification_default_channel_name">Transferências</string>
@@ -53,6 +54,7 @@
 Os dados não vão ser eliminados"</string>
     <string name="install_title">Tem a certeza que quer continuar?</string>
     <string name="menu_title_current_version_log">O que há de novo?</string>
+    <string name="menu_title_fastboot">Reiniciar para modo Fastboot</string>
     <string name="menu_title_fastboot_mode">Alterar para modo Fastboot</string>
     <string name="menu_title_pick_rom_file">Escolher pacote de actualização</string>
     <string name="menu_title_recovery">Reiniciar no modo restauro</string>

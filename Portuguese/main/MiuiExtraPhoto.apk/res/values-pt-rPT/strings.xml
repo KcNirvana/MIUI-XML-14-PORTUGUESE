@@ -62,6 +62,9 @@
     <string name="motion_photo_toast_suggest">Recomendado</string>
     <string name="ok">OK</string>
     <string name="open">Ligado</string>
+    <string name="operation_original">Comparar</string>
+    <string name="operation_redo">Refazer</string>
+    <string name="operation_undo">Anular</string>
     <string name="refocus_discard_confirm_message">Guardar alterações?</string>
     <string name="refocus_discard_negative_btn">Rejeitar</string>
     <string name="refocus_discard_positive_btn">Guardar</string>
