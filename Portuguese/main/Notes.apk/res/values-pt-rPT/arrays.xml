@@ -17,20 +17,6 @@
         <item>Endereço</item>
         <item>Nota</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>Bem-vindo às Notas</item>
-        <item>Tire notas</item>
-        <item>Pode utilizar texto, imagens e gravações de voz nas suas notas. Vários estilos e tipos de letra vão fazer das suas notas uma maravilha</item>
-        <item>Listas de verificação e lembretes vão lhe ajudar a planear a próxima viagem ou fazer uma lista de compras</item>
-        <item>Partilhe notas</item>
-        <item>Pode criar capturas de ecrã nas Notas automaticamente e partilhá-las com os amigos</item>
-        <item>Crie e mude entre pastas</item>
-        <item>Prima a seta para criar uma nova pasta ou mudar entre as existentes</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>Renomear</item>
-        <item>Eliminar</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>Pequena</item>
         <item>Média</item>
@@ -40,14 +26,6 @@
     <string-array name="note_sort_way">
         <item>Data de criação</item>
         <item>Data de modificação</item>
-    </string-array>
-    <string-array name="second_guide_contents">
-        <item>Notas de voz</item>
-        <item>Crie notas utilizando a ferramenta de voz para texto para anexar as suas gravações de voz às suas notas</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>Notas de voz</item>
-        <item>Agora pode criar notas de voz. Toque no ícone, grave a sua voz e guarde o ficheiro de áudio dentro da nota</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Bem-vindo às Notas

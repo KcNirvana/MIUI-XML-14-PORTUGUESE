@@ -124,8 +124,8 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="transfer_to_phone_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_phone_summary_new">O Mi Share permite enviar imagens e ficheiros para telefones Mi próximos e outros dispositivos Android compatíveis</string>
     <string name="transfer_to_phone_title">Enviar ficheiros para telefones</string>
-    <string name="transfer_to_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
-    <string name="transfer_to_summary_new">Turn on Mi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
+    <string name="transfer_to_summary">Ligar o Mi Share utilizando o atalho na área de notificações. Após ligar, vai poder ver os dispositivos próximos quando começar a partilhar fotos ou ficheiros. Toque no dispositivo do recepiente para enviar o item que estiver a partilhar</string>
+    <string name="transfer_to_summary_new">Ligar o Mi Share utilizando o Centro de Controlo. Após ligar, vai poder ver os dispositivos próximos por %d minutos antes de desligar automaticamente</string>
     <string name="unkonw_device">Dispositivo desconhecido</string>
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>
@@ -206,7 +206,6 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="smartisan_phone">Smartisan</string>
     <string name="some_files_receive_completed">Ver os ficheiro que já recebeu em %1$s</string>
     <string name="transfer_to_pc_summary_new"><Data>A última versão de MIUI+ instalada nos portáteis Mi é compatível com Mi Share. Pode verificar a lista de portáteis suportados no site do MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu portátil estiver na lista, mas não tiver o MIUI+ instalado transfira o MIUI+</Data></string>
-    <string name="transfer_to_summary">Ligar o Mi Share utilizando o atalho na área de notificações. Após ligar, vai poder ver os dispositivos próximos quando começar a partilhar fotos ou ficheiros. Toque no dispositivo do recepiente para enviar o item que estiver a partilhar</string>
     <string name="transfer_to_title">Enviar ficheiros para dispositivos móveis</string>
     <string name="user_instructions">Atenção</string>
     <string name="uwb_guide_summary_1">Se não consegue encontrar o dispositivo que necessita, diga à outra pessoa tocar no atalho do Mi Share no Centro de Controlo</string>
