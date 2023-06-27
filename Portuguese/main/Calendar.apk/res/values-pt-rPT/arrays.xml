@@ -30,6 +30,14 @@
         <item>Apenas este evento</item>
         <item>Todos os eventos da série</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Desligar uma vez</item>
+        <item>Desligar sempre</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Ligar uma vez</item>
+        <item>Ligar sempre</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Para a frente</item>
         <item>Para trás</item>

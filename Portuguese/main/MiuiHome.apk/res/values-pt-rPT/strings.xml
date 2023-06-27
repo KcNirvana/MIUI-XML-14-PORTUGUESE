@@ -200,6 +200,8 @@
     <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Deslize para baixo dois dedos desde a parte superior do ecrã para mudar para o Espaço Mi</string>
     <string name="free_style_exit_tip">Para voltar ao ecrã inicial deslize para cima dois dedos desde a parte inferior do ecrã</string>
+    <string name="fsg_assist_enable_summary">Deslizar desde o canto do ecrã para utilizar o assistente Google</string>
+    <string name="fsg_assist_enable_title">Assistente Google</string>
     <string name="fsg_mistake_touch_summary">Em alguns casos (p.e. a jogar ou a ver vídeos), os gestos apenas vão funcionar se forem repetidos</string>
     <string name="fsg_mistake_touch_title">Confirmação de gestos</string>
     <string name="gadget_clear_button_label">Limpeza</string>
@@ -431,6 +433,7 @@ Segurança melhorada"</string>
     <string name="shake_to_align_icons">Agitar o dispositivo para preencher as células vazias com ícones</string>
     <string name="share">Partilhar</string>
     <string name="shortcut_share_dialog_content">Os ficheiros que enviar do seu telefone são determinados por si. Tenha em atenção quando escolher ficheiros para partilhar e seleccionar os seus remetentes. Não utilize o seu telefone para enviar software que possa afectar o normal funcionamento do dispositivo do remetente</string>
+    <string name="shortcut_share_dialog_content_pad">Os ficheiros que enviar do seu telefone são determinados por si. Tenha em atenção quando escolher ficheiros para partilhar e seleccionar os seus remetentes. Não utilize o seu telefone para enviar software que possa afectar o normal funcionamento do dispositivo do remetente</string>
     <string name="shortcut_share_dialog_positive_button">Percebi</string>
     <string name="shortcut_share_dialog_title">Aviso legal</string>
     <string name="show_all">Ver tudo</string>
