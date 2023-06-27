@@ -60,4 +60,12 @@
         <item quantity="other">1$d itens</item>
         <item quantity="one">%1$d item</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">A aguardar para transferir. %1$s ficheiros restantes</item>
+        <item quantity="one">A aguardar para transferir. %1$s ficheiro restante</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">A aguardar para carregar. %1$s ficheiros restantes</item>
+        <item quantity="one">A aguardar para carregar. %1$s ficheiro restante</item>
+    </plurals>
 </resources>
