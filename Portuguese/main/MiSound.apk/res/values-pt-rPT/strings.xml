@@ -198,6 +198,9 @@
     <string name="not_support_sound_transmission_prompt">Atenção</string>
     <string name="now_here">E agora?</string>
     <string name="original_sound">Reproduzir a música original</string>
+    <string name="permission_go_to_settings">Definições</string>
+    <string name="permission_requesr_content">Permitir que esta aplicação ligue a dispositivos próximos nas Definições</string>
+    <string name="permission_requesr_title">Permissões necessárias</string>
     <string name="personal_sound">Reproduzir com o equalizador</string>
     <string name="retry_test">Começar de novo</string>
     <string name="ringtone_output_device_summary">Permitir som de chamadas recebidas e notificações quando acessórios estiverem ligados (auriculares ou dispositivos Bluetooth)</string>

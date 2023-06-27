@@ -1548,10 +1548,6 @@ volunteer"</string>
     <string name="full_fill_oprator_and_location">Fornecer informações da operadora e localização</string>
     <string name="full_fill_sim_location">Definir localização primeiro</string>
     <string name="fully_informed_privacy">Sensibilização de privacidade</string>
-    <string name="function_auto_reject_detail">"Acerca desta funcionalidade:
-1. Enquanto estiver a jogar, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
-2. Vai visualizar as notificações de chamadas não atendidas e a outra pessoa vai ouvir uma mensagem de áudio a informar que não está disponível.
-3. Esta funcionalidade é compatível apenas com operadoras na China."</string>
     <string name="function_auto_reject_title">Rejeitar chamadas VoLTE para cartões SIM sem serviço de dados</string>
     <string name="function_close">Desligado</string>
     <string name="function_gwsd_detail">"Acerca desta funcionalidade:
@@ -1896,8 +1892,6 @@ das suas sessões de jogo"</string>
     <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
     <string name="gs_call_handsfree">Mãos livres</string>
     <string name="gs_call_handsfree_mute">Modo Silêncio</string>
-    <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do ecrã inicial. Vá a Segurança &gt; Definições para o restaurar</string>
-    <string name="gs_dialog_confirm_close_title">Desligar</string>
     <string name="gs_forbid_autosync">Restringir sincronização em segundo plano</string>
     <string name="gs_game_ai_record">Gravar utilizando a IA</string>
     <string name="gs_game_ai_record_subtitle">Pode iniciar gravações enquanto joga. Vídeos com momentos chave vão ser gerados automaticamente e eliminados após 7 dias. Pode escolher guardar os vídeos permanentemente</string>
@@ -1927,6 +1921,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
     <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
     <string name="gtb_brightness_dialog_right_btn">Manter ligado</string>
     <string name="gtb_brightness_dialog_sub_message">*Pode ligar ou desligar esta funcionalidade nas Definições</string>
+    <string name="gtb_casual_guide_toast">Descobrir mais em Jogos</string>
     <string name="gtb_dialog_btn_close">Desligar</string>
     <string name="gtb_dialog_btn_open">Ligar</string>
     <string name="gtb_dialog_hint_smart_5g">Pode ligar ou desligar esta funcionalidade em Game Turbo &gt; Definições</string>
@@ -2645,6 +2640,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumo total</string>
     <string name="pc_battery_history_usetime_title">Activo</string>
+    <string name="pc_close_notifi_action">Desligar</string>
     <string name="pc_hidemode_normal">Equilibrado</string>
     <string name="pc_hidemode_performance">Desempenho</string>
     <string name="pc_hidemode_performance_title">Modo Desempenho</string>
@@ -4631,6 +4627,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
     <string name="vb_video_effects_dolby_headset">" (auriculares apenas)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ligado</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
+    <string name="vb_video_effects_dolby_tips">Melhorar o diálogo e o estéreo expandido não funcionam quando o som imersivo estiver ligado</string>
     <string name="vb_video_effects_setting_black_white">Preto e branco</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Blush</string>
@@ -5683,5 +5680,5 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="permission_instruction_shake">Esta permissão permite registar a orientação e movimentos do dispositivo</string>
     <string name="vb_video_effects_immersion_sound">Som imersivo</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimentar imersão e sensação de espaço quando o áudio compatível for reproduzido por auriculares</string>
-    <string name="vb_video_effects_spatial_summary_new">Experimentar uma sensação melhorada de espaço e direcção para áudio e vídeo suportados e ajuste o som envolvente com base no movimento da cabeça</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimentar uma sensação melhorada de espaço e direcção para áudio suportado quando estiver com auscultadores</string>
 </resources>

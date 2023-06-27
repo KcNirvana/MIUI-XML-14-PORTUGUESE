@@ -47,6 +47,7 @@ d 'de' MMMM"</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="background_icon">Fundo</string>
     <string name="below_image">Baixo</string>
+    <string name="bold_font">Negrito</string>
     <string name="black_white_clock_panel">Relógio</string>
     <string name="btn_know">Percebi</string>
     <string name="cancel">Cancelar</string>
@@ -83,6 +84,12 @@ d 'de' MMMM"</string>
     <string name="large_time">Relógio grande</string>
     <string name="letter_space">Espaço entre letras</string>
     <string name="line_space">Espaço entre linhas</string>
+    <string name="material_clock_toggle_content_description">Seleccionar AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s horas</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s horas</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo,</string>
     <string name="material_slider_range_start">Início do intervalo,</string>
     <string name="memory_leak">Leak de memória</string>

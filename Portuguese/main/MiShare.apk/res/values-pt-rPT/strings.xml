@@ -121,8 +121,10 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
     <string name="transfer_to_pc_summary">Pode utilizar o Mi Share para enviar itens para Mi Notebooks directamente. Nos outros portáteis tem de instalar o Mi Share primeiro</string>
     <string name="transfer_to_pc_title">Enviar ficheiros para computadores</string>
+    <string name="transfer_to_phone_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_phone_summary_new">O Mi Share permite enviar imagens e ficheiros para telefones Mi próximos e outros dispositivos Android compatíveis</string>
     <string name="transfer_to_phone_title">Enviar ficheiros para telefones</string>
+    <string name="transfer_to_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_summary_new">Turn on Mi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
     <string name="unkonw_device">Dispositivo desconhecido</string>
     <string name="unrecognized_manufacture">Desconhecido</string>
