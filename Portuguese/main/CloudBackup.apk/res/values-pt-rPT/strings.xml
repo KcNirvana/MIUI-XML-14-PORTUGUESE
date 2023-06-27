@@ -23,6 +23,7 @@
     <string name="backup_failed_reason_app_usage_denied">Conceder as permissões necessárias para copiar itens</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Sem espaço suficiente na Xiaomi Cloud. Actualize o seu plano ou liberte algum espaço</string>
     <string name="backup_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Conceder as permissões necessárias nas Definições para copiar itens</string>
     <string name="backup_failed_reason_network_error">Verifique as suas definições de rede e tente novamente</string>
     <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
     <string name="backup_now">Fazer cópia agora</string>
@@ -174,6 +175,8 @@ Envie este código para o técnico"</string>
     <string name="dialog_btn_restore_skip">Restaurar depois</string>
     <string name="dialog_button_agree">Permitir</string>
     <string name="dialog_button_disagree">Não permitir</string>
+    <string name="dialog_button_get_installed_apps_agree">Definições</string>
+    <string name="dialog_button_get_installed_apps_disagree">Cancelar</string>
     <string name="dialog_buy_cloud_space">Actualizar</string>
     <string name="dialog_cancel_backup_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -182,6 +185,8 @@ Envie este código para o técnico"</string>
     <string name="dialog_cloud_space_not_enough">Esta cópia necessita de %1$s de espaço na Xiaomi Cloud. Actualize o seu plano de armazenamento para fazer a cópia de itens</string>
     <string name="dialog_content_cancel_backup">Os dados já enviados vão ser perdidos se cancelar a cópia. Cancelar mesmo assim?</string>
     <string name="dialog_content_cancel_restore">Os dados já restaurados vão ser retidos se parar o restauro. Parar o restauro agora?</string>
+    <string name="dialog_get_installed_apps_consent_message">Para poder copiar automaticamente, conceda esta permissão nas Definições para aceder à lista de aplicações instaladas e seleccione permitir sempre</string>
+    <string name="dialog_get_installed_apps_consent_title">Permissões necessárias</string>
     <string name="dialog_msg_overwrite_backup">A cópia local é diferente da que está na Xiaomi Cloud. Se continuar, a cópia actual vai substituir a anterior</string>
     <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan_china">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
@@ -224,6 +229,10 @@ Envie este código para o técnico"</string>
     <string name="loading_progress_num">Carregados %s%%</string>
     <string name="loading_user_backup">A carregar cópias…</string>
     <string name="managespace_delete_backup">Eliminar</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Fechar</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Definições</string>
+    <string name="manual_request_permissions_dialog_description">Se não conceder permissões para \"%s\", não vai receber notificações acerca de cópias sem sucesso. Pode conceder esta permissão nas Definições</string>
+    <string name="manual_request_permissions_dialog_title">Permissões necessárias</string>
     <string name="menu_item_managespace">Gerir espaço</string>
     <string name="menu_item_sort">Ordenar por</string>
     <string name="menu_item_sort_name">Nome</string>
@@ -277,6 +286,11 @@ Envie este código para o técnico"</string>
     <string name="remove_unfinished">A remover. Tente novamente mais tarde</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Pode agora copiar dados do WeChat. Toque para detalhes</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Copiar dados do WeChat</string>
+    <string name="request_notification_permission_dialog_confirm">Percebi</string>
+    <string name="request_permission_post_notification">Para enviar notificações acerca das cópias</string>
+    <string name="request_permission_post_notification_title">Notificações</string>
+    <string name="request_permissions_dialog_description">Conceder permissões para enviar notificações e lembretes para poder disfrutar de todos os serviços das cópias</string>
+    <string name="request_permissions_dialog_title">Permissões necessárias</string>
     <string name="restore_app_order_finish">Concluído</string>
     <string name="restore_app_order_loading">Aguarde…</string>
     <string name="restore_app_order_retry">Tentar novamente</string>
@@ -349,6 +363,8 @@ Verifique as suas definições de rede e tente novamente"</string>
     <string name="session_failed_disk_no_space_restore_detail">É necessário pelo menos %s para restaurar itens</string>
     <string name="session_failed_disk_no_space_title">Armazenamento insuficiente. Limpe o armazenamento e tente novamente</string>
     <string name="session_failed_dist_no_space_btn_text">Limpar armazenamento</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Para poder copiar automaticamente, conceda esta permissão nas Definições para aceder à lista de aplicações instaladas e seleccione permitir sempre</string>
+    <string name="session_failed_get_installed_apps_denied_title">Permissões necessárias</string>
     <string name="session_failed_no_server_response_title">Não foi possível ligar ao servidor</string>
     <string name="session_failed_override_detail">Uma cópia no dispositivo é diferente de uma cópia na Xiaomi Cloud. Se continuar, a cópia actual vai substituir a anterior. Substituir agora?</string>
     <string name="session_failed_override_title">A substituir cópia</string>

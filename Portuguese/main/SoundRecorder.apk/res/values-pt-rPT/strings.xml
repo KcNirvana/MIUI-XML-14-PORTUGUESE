@@ -63,6 +63,10 @@
     <string name="head_set_tip_dialog_title">Utilizar microfone interno</string>
     <string name="high_bit_rate">MP3 - ~%1$dkbps - ~%2$dMB/h</string>
     <string name="invalid_argument">Argumento inválido</string>
+    <string name="invisible_mode_dialog_message">Não é possível utilizar o microfone quando está anónimo. Desligar o modo anónimo primeiro</string>
+    <string name="invisible_mode_dialog_negative">Cancelar</string>
+    <string name="invisible_mode_dialog_positive">Desligar</string>
+    <string name="invisible_mode_dialog_title">Está anónimo</string>
     <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravações de chamadas</string>
     <string name="keywords_search_record">Nova gravação;Adicionar gravação;A gravar;Gravações;Gravador;Gravação de voz;Gravador</string>
     <string name="keywords_search_record_list">Gravador;Partilhar gravação;Partilhar gravações;Gravações</string>
@@ -286,7 +290,7 @@
     <string name="error_icon_content_description">Error</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
-    <string name="invisible_mode_error_tip">Turn off Incognito mode in the Settings to be able to use microphone</string>
+    <string name="invisible_mode_error_tip">Desligar o modo anónimo nas Definições para poder utilizar o microfone</string>
     <string name="item_view_role_description">Tab</string>
     <string name="korea_permission_phone">Telefone</string>
     <string name="korea_permission_phone_resc">For accessing device status and handling recordings during calls</string>

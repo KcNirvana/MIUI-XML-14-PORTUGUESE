@@ -172,6 +172,11 @@ Pode ver o registo gerado no Ficheiros"</string>
     <string name="long_press_home_key">Toque longo no botão Início</string>
     <string name="long_press_menu_key">Toque longo no botão Menu</string>
     <string name="long_press_menu_key_when_lock">Toque longo no botão Menu no ecrã de bloqueio</string>
+    <string name="long_press_power_guide_know">Percebi</string>
+    <string name="long_press_power_guide_message" formatted="false">"Premir e segurar o botão Ligar/Desligar por %s segundos para ligar o assistente Google.
+Se segurar o botão por %s segundos, vai abrir o menu de desligar"</string>
+    <string name="long_press_power_guide_settings">Definições</string>
+    <string name="long_press_power_guide_title">Ligar com o botão Ligar/Desligar</string>
     <string name="long_press_power_key">Toque longo no botão Ligar/Desligar</string>
     <string name="long_press_power_key_half_of_second">Toque longo no botão Ligar/Desligar por 0.5 segundos para ligar o assistente Google</string>
     <string name="long_press_power_key_half_second">Toque longo no botão Ligar/Desligar por %s segundos</string>
@@ -238,6 +243,7 @@ Duplo toque para abrir Recentes"</string>
     <string name="stylus_connect_fail">Não foi possível ligar. Anexe novamente</string>
     <string name="stylus_connect_fail_no_battery">Carregar a sua stylus agora</string>
     <string name="stylus_connect_fail_no_reason">Não foi possível ligar</string>
+    <string name="stylus_connect_fail_not_match_tablet">A Stylus não é compatível com o tablet</string>
     <string name="stylus_connect_fail_not_open_gps">Não foi possível ligar. Ligue a localização e tente novamente</string>
     <string name="stylus_connecting">A ligar…</string>
     <string name="stylus_function_and_action">Funcionalidades</string>

@@ -612,6 +612,8 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
     <string name="privacy_runtime_perm_contacts_title">Aceder e editar contactos</string>
     <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de contactos</string>
     <string name="privacy_runtime_perm_external_storage_title">Aceder ao armazenamento</string>
+    <string name="privacy_runtime_perm_notification_desc">Para enviar notificações da Xiaomi Cloud</string>
+    <string name="privacy_runtime_perm_notification_title">Notificações</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para aceder ao número de telefone e estado do dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Aceder a informações do dispositivo</string>
     <string name="privacy_runtime_perm_sms_desc">Para sincronizar mensagens</string>
