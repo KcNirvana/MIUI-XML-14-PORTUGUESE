@@ -50,6 +50,7 @@
     <string name="dnd_popup_close_message">Percebi</string>
     <string name="dnd_popup_message">Pode ligar o modo Não incomodar para silenciar chamadas e notificações sem desligar os sons multimédia</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
+    <string name="emergency_call">Chamada de emergência</string>
     <string name="expand_button_title">Avançado</string>
     <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancelar</string>
     <string name="hearing_assist_bluetooth_enable_tips_start">Ligar</string>
