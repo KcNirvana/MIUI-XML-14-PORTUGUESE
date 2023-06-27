@@ -403,6 +403,7 @@
     <string name="app_manager_app_version_name">"Versão: "</string>
     <string name="app_manager_appupdate_remind">Notificar acerca de actualizações</string>
     <string name="app_manager_as_dlg_msg">Permitir que as aplicações iniciem automaticamente requer RAM e bateria adicional. Permitir mesmo assim?</string>
+    <string name="app_manager_as_dlg_msg_new">Permitir que as aplicações iniciem automaticamente requer RAM e bateria adicional. A MIUI vai optimizar as permissões de início automático das aplicações que não utiliza frequentemente para melhorar o desempenho do seu dispositivo</string>
     <string name="app_manager_as_dlg_title">Atenção</string>
     <string name="app_manager_back">Voltar</string>
     <string name="app_manager_bipartition">Aplicações clonadas</string>
@@ -669,6 +670,7 @@
     <string name="auto_import_games">Coloque todos os seus jogos num único sítio</string>
     <string name="auto_send_correcting_msg">Deixe em branco para verificar automaticamente via SMS gratuita</string>
     <string name="auto_set_by_brand">Sincronizar os detalhes do plano de dados com a sua operadora</string>
+    <string name="auto_start_tips">A MIUI vai optimizar as permissões de início automático das aplicações que não utiliza frequentemente para melhorar o desempenho do seu dispositivo</string>
     <string name="auto_task_condition_choose_battery_level_down">Quando a bateria chegar a um certo nível</string>
     <string name="auto_task_condition_choose_end_time">Hora de fim</string>
     <string name="auto_task_condition_choose_ontime">Temporizador</string>
@@ -1100,6 +1102,7 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
     <string name="dialog_btn_delete_icon">Remover</string>
     <string name="dialog_btn_no_create_icon">Cancelar</string>
     <string name="dialog_btn_yes_create_icon">Adicionar</string>
+    <string name="dialog_btn_yes_install_icon">Instalar</string>
     <string name="dialog_change_package_type_summary">Alterar o tipo de plano de dados vai repor todas as definições de utilização de dados para os valores predefinidos. Alterar tipo de plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alteração de tipo de plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
@@ -1109,6 +1112,8 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
     <string name="dialog_msg_delete_icon_content_phone">A Segurança permite limpar o lixo do seu dispositivo, localizar e neutralizar vírus, poupar bateria, gerir permissões e mais</string>
     <string name="dialog_msg_delete_icon_title_pad">Remover este atalho do ecrã inicial?</string>
     <string name="dialog_msg_delete_icon_title_phone">Remover este atalho do ecrã inicial?</string>
+    <string name="dialog_msg_install_manager_content">Instalar Segurança novamente?</string>
+    <string name="dialog_msg_install_manager_content_pad">Instalar Segurança novamente?</string>
     <string name="dialog_msg_stop_virus_scan">Parar a verificação de segurança antes que termine?</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="dialog_restrict_all_mobile_summary">A ligação de dados móveis %s vai ser restringida para todas as aplicações</string>
@@ -1235,8 +1240,6 @@ de emergência"</string>
 cartão de saúde"</string>
     <string name="ew_alert_help_earthquake_title">Onda sísmica chegou</string>
     <string name="ew_alert_help_place_navigation">Navegar</string>
-    <string name="ew_alert_help_place_text">Se necessário, vá até ao abrigo mais próximo para garantir a sua segurança e obtenha a assistência necessária</string>
-    <string name="ew_alert_help_place_title">Abrigo próximo</string>
     <string name="ew_alert_help_safe_title">Evitar perigo</string>
     <string name="ew_alert_help_tips">Mantenha-se calmo e fique em alerta. Afaste-se dos objectos em movimento e não vá de elevador. Encontre um espaço seguro e amplo, abrigue-se e aguarde</string>
     <string name="ew_alert_no_contact">Definir um contacto de emergência em Segurança &gt; Aviso de sismo primeiro</string>
@@ -1811,6 +1814,12 @@ Grave sequências e utilize-as em qualquer altura!"</string>
     <string name="gb_turbo_time_subtitle">Programar as suas sessões</string>
     <string name="gb_turbo_voice_subtitle">Apimentar as suas conversas</string>
     <string name="gb_turbo_wonder_subtitle">Gravar momentos chave</string>
+    <string name="gb_vision_enhance">Visuais melhorados</string>
+    <string name="gb_vision_enhance_desc">Melhorar qualidade de imagem e desempenho</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Taxa de frames inteligente</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajustar taxa de frames automaticamente para tornar o movimento mais suave</string>
+    <string name="gb_vision_enhance_super_resolution">Super resolução</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Optimizar a resolução para ver mais detalhes</string>
     <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
     <string name="gb_voice_changer_cartoon">Desenhos animados</string>
@@ -2559,6 +2568,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_virtual_operator">Operadora virtual</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Utilizar aplicações maliciosas representa riscos de segurança</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s pode ser uma aplicação maliciosa</string>
     <string name="optimize_manage_title">Optimização de velocidade</string>
     <string name="optimize_result_available_memory_info">Memória disponível</string>
     <string name="optimize_result_button_cloudspace">Obter mais espaço na Xiaomi Cloud</string>
@@ -2656,11 +2667,14 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm até estar carregada</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante</string>
+    <string name="pc_no_more_remind">Não lembrar</string>
     <string name="pc_performance_mode_dialog_summary">O seu dispositivo vai funcionar por %s no Modo Desempenho. O Modo Desempenho aumenta o consumo de bateria e pode levar a sobreaquecimento</string>
     <string name="pc_performance_mode_dialog_summary2">O desempenho do dispositivo vai melhorar. Isto vai aumentar o consumo de bateria e pode levar a sobreaquecimento. Ligar mesmo assim?</string>
     <string name="pc_performance_mode_dialog_title">Modo Desempenho</string>
     <string name="pc_performance_mode_noti_summary">O Modo Desempenho pode aumentar o consumo de bateria e levar a sobreaquecimento</string>
     <string name="pc_performance_mode_noti_title">Desempenho melhorado</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Dobrar o dispositivo antes de carregar para um carregamento mais estável</string>
+    <string name="pc_remind_close_cover_to_charge_title">Dobrar para carregar</string>
     <string name="pc_search_keywords_battery">Bateria</string>
     <string name="pc_search_keywords_battery_save">Poupança de bateria</string>
     <string name="pc_search_keywords_battery_use">Utilização da bateria</string>
@@ -4223,6 +4237,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
     <string name="superpower_settins_autoleave_title">Desligar automaticamente</string>
     <string name="superpower_settins_other">Definições adicionais</string>
     <string name="superpower_settins_switch_summary">Restringir as funcionalidades que consomem mais bateria para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível</string>
+    <string name="support_app_name_securitycenter">Ferramentas</string>
     <string name="support_game_booster_tips">Aumente a velocidade e melhore a experiência de jogo</string>
     <string name="sys_app_prot_cracked_confirm">Percebi</string>
     <string name="sys_cpu_title">Utilização da CPU</string>
@@ -4619,6 +4634,16 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
     <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">*Estes efeitos são aplicados ao ecrã inteiro</string>
     <string name="vb_ve_settings_display_style_tips_new">*Os efeitos vão ser aplicados à área de visualização</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Este efeito apenas vai ser aplicado à área de reprodução de vídeos.
+
+Esta funcionalidade não funciona com vídeos melhorados.
+
+Ligar um vai desligar o outro"</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Este efeito apenas vai ser aplicado ao ecrã inteiro.
+
+Esta funcionalidade não funciona com vídeos melhorados.
+
+Ligar um vai desligar o outro"</string>
     <string name="vb_ve_settings_pic_border_stronger">Contornos melhorados</string>
     <string name="vb_ve_settings_picture_stronger">Animações melhoradas</string>
     <string name="vb_video_effects_display_style">Estilo</string>
@@ -4995,7 +5020,7 @@ Tente aumentar a resolução!"</string>
     <string name="eletric_group_title_two_identification_risk_mms">Receive warnings when verification codes are forwarded</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"You'll receive a warning when verification codes from your messages are forwarded to social media"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Hide private apps</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Casting will be paused if you switch to Alipay, WeChat, Gallery, or Messaging</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">"If you open apps containing sensitive personal information (WeChat, Alipay, Gallery, etc.) while sharing your device's screen, this info won't be shown. You can manually start sharing again."</string>
     <string name="eletric_group_two_identification_risk_app">Warn about risky financial transactions</string>
     <string name="eletric_group_two_identification_risk_mms">Verification code protection</string>
     <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
@@ -5677,8 +5702,11 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="pc_high_temp_protection_noti_tile">Dispositivo superaquecido</string>
     <string name="pc_temperature_too_high">Dispositivo superaquecido</string>
     <string name="pc_wait_device_cools_down">Aguardar até que o dispositivo arrefeça para poder utilizar esta funcionalidade</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Meter no carregamento sem fios</string>
+    <string name="pc_wireless_charge_adjust_position_title">Carregar mais rapidamente</string>
     <string name="permission_instruction_shake">Esta permissão permite registar a orientação e movimentos do dispositivo</string>
     <string name="vb_video_effects_immersion_sound">Som imersivo</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimentar imersão e sensação de espaço quando o áudio compatível for reproduzido por auriculares</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Experimentar imersão e sensação de espaço quando o áudio compatível for reproduzido</string>
     <string name="vb_video_effects_spatial_summary_new">Experimentar uma sensação melhorada de espaço e direcção para áudio suportado quando estiver com auscultadores</string>
 </resources>

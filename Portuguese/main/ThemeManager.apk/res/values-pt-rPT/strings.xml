@@ -17,6 +17,7 @@
     <string name="ad_app_download_start">A iniciar transferência…</string>
     <string name="ad_app_is_downloading">A transferir…</string>
     <string name="add">Adicionar</string>
+    <string name="add_home_icon_success">Adicionado com sucesso</string>
     <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
     <string name="all_resources">Todos</string>
     <string name="already_latest_version">Actualizado</string>
@@ -639,6 +640,7 @@ Toque aqui para iniciar agora"</string>
     <string name="resource_search_color_hint_red">Vermelho</string>
     <string name="resource_search_color_hint_yellow">Amarelo</string>
     <string name="resource_search_history">Pesquisar histórico</string>
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">Nada encontrou nada</string>
     <string name="resource_see_more">Ver mais</string>
     <string name="resource_select">Seleccionar</string>

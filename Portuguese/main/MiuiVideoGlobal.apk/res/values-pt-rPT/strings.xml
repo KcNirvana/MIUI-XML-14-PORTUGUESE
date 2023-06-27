@@ -1085,6 +1085,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_video_high">High</string>
     <string name="dialog_video_low">Low</string>
     <string name="dialog_video_medium">Medium</string>
+    <string name="dialog_ytb_content">Vai sair de Vídeos e abrir o YouTube. Continuar?</string>
     <string name="diy_channels_tips">You can customize the list of your channels now.</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
     <string name="download_completed_push_title">Download complete</string>

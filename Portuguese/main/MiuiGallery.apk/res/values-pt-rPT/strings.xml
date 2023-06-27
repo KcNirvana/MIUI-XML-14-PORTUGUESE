@@ -193,8 +193,6 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="art_still_cancel_download">Cancelar</string>
     <string name="art_still_download">Transferir</string>
     <string name="art_still_download_failed_for_notwork">Não foi possível transferir. Verifique as suas definições de rede e tente novamente</string>
-    <string name="art_still_download_sdk_without_wifi_msg">O seu dispositivo não está ligado ao Wi-Fi. Transferir o plugin utilizando dados móveis?</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">O seu dispositivo não está ligado ao Wi-Fi. Transferir o plugin utilizando dados móveis?</string>
     <string name="art_still_download_sdk_without_wifi_title">Transferir plugin de \"Arte\"</string>
     <string name="art_still_download_with_metered_network_msg">O seu dispositivo está ligado a uma rede paga. Transferir os ficheiros originais pode resultar em taxas adicionais. Transferir mesmo assim?</string>
     <string name="art_still_download_with_metered_network_title">Rede paga</string>
@@ -204,6 +202,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="art_still_module_loading">A transferir plugin…</string>
     <string name="assistant_page_community">Comunidade</string>
     <string name="assistant_page_discovery">Navegar</string>
+    <string name="assistant_page_image_printing">Imprimir</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique as suas definições de rede</string>
     <string name="assistant_today_of_year_function_closed_tip">Ligar</string>
@@ -396,7 +395,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="cleaner_empty">Limpar tudo</string>
     <string name="cleaner_empty_value_description">Verificação concluída</string>
     <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
-    <string name="cleaner_raw_action">Ver detalhes</string>
+    <string name="cleaner_raw_action">Ver</string>
     <string name="cleaner_raw_description">Libertar espaço ao eliminar imagens RAW</string>
     <string name="cleaner_raw_title">Limpar ficheiros RAW</string>
     <string name="cleaner_scan_description">A optimização de itens liberta espaço no seu dispositivo</string>
@@ -410,7 +409,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="cleaner_screen_shot_action">Ver</string>
     <string name="cleaner_screen_shot_description">Eliminar capturas de ecrã que já não precisa</string>
     <string name="cleaner_screen_shot_title">Eliminar capturas de ecrã</string>
-    <string name="cleaner_similar_action">Ver detalhes</string>
+    <string name="cleaner_similar_action">Ver</string>
     <string name="cleaner_similar_description">Eliminar fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_size">Limpar lixo (%s)</string>
@@ -423,7 +422,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="cleaner_stop_scan">Parar verificação</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupados</string>
     <string name="cleaner_title">Limpeza</string>
-    <string name="cleaner_video_action">Ver detalhes</string>
+    <string name="cleaner_video_action">Ver</string>
     <string name="cleaner_video_description">Eliminar vídeos que ocupam espaço</string>
     <string name="cleaner_video_pick_delete_selected">Eliminar vídeos seleccionados</string>
     <string name="cleaner_video_title">Vídeos</string>
@@ -1034,6 +1033,7 @@ efeitos de fotos"</string>
     <string name="home_menu_collage">Colagens</string>
     <string name="home_menu_community">Comunidade</string>
     <string name="home_menu_id_photo">ID</string>
+    <string name="home_menu_image_printing">Imprimir</string>
     <string name="home_menu_macarons">Vinheta mágica</string>
     <string name="home_menu_magic_matting">Magia</string>
     <string name="home_menu_photo_movie">Clipes</string>
@@ -1167,7 +1167,7 @@ efeitos de fotos"</string>
     <string name="loading_video_fail_sync_without_network">Ligue-se à rede para transferir os metadados</string>
     <string name="loading_video_fail_syncing">Aguarde até que os metadados estejam totalmente transferidos e tente novamente</string>
     <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
-    <string name="local_secret_tip">Todos os itens privados vão ser sincronizados com a Xiaomi Cloud quando esta funcionalidade estiver ligada. Pode alterar isto em Definições > Sincronização com a Xiaomi Cloud > Gerir álbuns sincronizados > Álbuns privados</string>
+    <string name="local_secret_tip">Pode manter todos os itens privados neste dispositivo sem estarem sincronizados com a Xiaomi Cloud. Pode alterar isto em Definições > Sincronização com a Xiaomi Cloud > Gerir álbuns sincronizados</string>
     <string name="login_and_enable_service">Iniciar sessão com a Conta Xiaomi</string>
     <string name="long_press_to_refocus">Prima e segure para refocar</string>
     <string name="look_baby_info">Ver informações do álbum do bebé</string>
@@ -1428,6 +1428,7 @@ para personalizar a galeria"</string>
     <string name="multi_view_tip_sub_title">Junte ou afaste dois dedos para ajustar o tamanho dos itens mostrados</string>
     <string name="multi_view_tip_title">Zoom</string>
     <string name="must_pick_file">Seleccionar uma foto</string>
+    <string name="my_family">A minha casa</string>
     <string name="nearby_share">Nearby Share</string>
     <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
     <string name="need_to_turn_on_sync">Ligue a sincronização com a Xiaomi Cloud</string>
@@ -3395,6 +3396,7 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
+    <string name="user_family">Casa de %1$s</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="weixin_login_btn_content_description">Sign in with WeChat</string>
 </resources>
