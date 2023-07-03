@@ -81,6 +81,7 @@
     <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
     <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
     <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br/> - Streaming online<br/> - Leitor de vídeos<br/>Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
+	<string name="dialog_privacy_info_new5">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br/> - Streaming online<br/> - Leitor de vídeos<br/>Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Remover (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">Se continuar, vai remover o consentimento da Política de Privacidade de Vídeos. As informações pessoais obtidas vão ser eliminadas de acordo com as leis em vigor. A remoção de consentimento da Política de Privacidade vai ser considerada como uma recusa em aceitar os serviços online</string>
@@ -1441,14 +1442,14 @@ Update Mi Video to the latest version first."</string>
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="set_success">Changed successfully</string>
-    <string name="settings_inline_auto_play">Always autoplay</string>
-    <string name="settings_inline_auto_play_close">Autoplay off</string>
-    <string name="settings_inline_auto_play_tip_close_forever">Always off</string>
-    <string name="settings_inline_auto_play_tip_close_month">Off for one month</string>
-    <string name="settings_inline_auto_play_tip_open">On</string>
-    <string name="settings_inline_auto_play_tip_title">Mobile data usage reminders</string>
-    <string name="settings_inline_auto_play_title">Autoplay</string>
-    <string name="settings_inline_auto_play_wify">Autoplay on Wi-Fi only</string>
+    <string name="settings_inline_auto_play">Sempre</string>
+    <string name="settings_inline_auto_play_close">Desligada</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Desligado</string>
+    <string name="settings_inline_auto_play_tip_close_month">Desligado por um mês</string>
+    <string name="settings_inline_auto_play_tip_open">Ligado</string>
+    <string name="settings_inline_auto_play_tip_title">Aviso utilização de dados</string>
+    <string name="settings_inline_auto_play_title">Reprodução automática</string>
+    <string name="settings_inline_auto_play_wify">Apenas Wi-Fi</string>
     <string name="settings_inline_title">Start page autoplay</string>
     <string name="share_fail">Não foi possível partilhar. Verifique as suas definições de rede e tente novamente</string>
     <string name="share_success">Partilhado com sucesso</string>

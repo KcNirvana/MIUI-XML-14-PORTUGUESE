@@ -200,7 +200,6 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="allow_notify">Permitir notificações</string>
     <string name="allread">Ler todos</string>
     <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
-    <string name="app_loading">A carregar…</string>
     <string name="app_name">Email</string>
     <string name="app_uninstall_content">O Email é uma aplicação de sistema. Não vai poder adicionar contas de email e enviar e receber emails após desinstalar</string>
     <string name="app_uninstall_title">Desinstalar \"Email\"?</string>
@@ -286,13 +285,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="bottom_bar_more_quickreply">Resposta rápida</string>
     <string name="bottom_bar_more_share">Partilhar</string>
     <string name="bottom_bar_no_quickreply_toast">Sem resposta rápida</string>
-    <string name="broker_helper_manifest">Intent filter for AndroidManifest.xml</string>
-    <string name="broker_helper_package">Package name to enter when registering app</string>
-    <string name="broker_helper_redirect">Redirect URI for configuration json file</string>
-    <string name="broker_helper_signature">Signature to enter when registering app</string>
-    <string name="broker_helper_title">MSAL Redirect URI Info</string>
-    <string name="broker_processing">Broker is processing</string>
-    <string name="bytes">%s B</string>
+    <string name="bytes">%sB</string>
     <string name="calendar_remind_dialog_title">Lembrar mais tarde</string>
     <string name="calendar_remind_gridview_pick_date">Escolher data</string>
     <string name="calendar_skip_no_account_alert">Não foi possível encontrar esta conta</string>
@@ -673,11 +666,6 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="hide_elided">▼ Ocultar texto citado</string>
     <string name="hide_password">Ocultar palavra-passe</string>
     <string name="how_to_login_icloud">Como iniciar sessão no email iCloud</string>
-    <string name="http_auth_dialog_cancel">Cancelar</string>
-    <string name="http_auth_dialog_login">Iniciar sessão</string>
-    <string name="http_auth_dialog_password">Palavra-passe</string>
-    <string name="http_auth_dialog_title">Introduzir as credenciais</string>
-    <string name="http_auth_dialog_username">Utilizador</string>
     <string name="icloud_login_tips">Pode criar uma palavra-passe para utilizar com o seu email iCloud aqui: iCloud.com</string>
     <string name="icoud_login_pw_hint">Introduzir palavra-passe</string>
     <string name="imap_name">IMAP</string>

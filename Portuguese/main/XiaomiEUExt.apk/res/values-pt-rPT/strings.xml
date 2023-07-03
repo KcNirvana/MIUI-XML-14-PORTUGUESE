@@ -19,6 +19,6 @@
     <string name="reset">Repor</string>
     <string name="select_app">Seleccionar uma aplicação</string>
     <string name="select_apps">Seleccionar aplicações</string>
-    <string name="status_bar_icons">Ícones barra de tarefas</string>
+    <string name="status_bar_icons">Ícones da barra de tarefas</string>
     <string name="wifi_region">Região Wi-Fi</string>
 </resources>

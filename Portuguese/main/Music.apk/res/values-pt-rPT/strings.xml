@@ -1575,7 +1575,7 @@ Be Happy"</string>
     <string name="start_update">Installing new version…</string>
     <string name="summary_command_mode">Turn on to enter Command mode</string>
     <string name="supplementary_songs">Additional songs</string>
-    <string name="swipe_for_more">Swipe up for more music videos</string>
+    <string name="swipe_for_more">Deslizar para cima para mais vídeos</string>
     <string name="switch_success">Switched successfully</string>
     <string name="tab_chart">Gráficos</string>
     <string name="tab_flow">Ver</string>
@@ -1615,12 +1615,12 @@ Be Happy"</string>
     <string name="user_profile_fans_count">Followers: %s</string>
     <string name="user_profile_follow_count">Following: %s</string>
     <string name="vhigh_sound_quality">HD</string>
-    <string name="video_play_cellular">"Your device isn't connected to Wi-Fi. Use mobile data?"</string>
-    <string name="video_replay_btn">Play again</string>
-    <string name="video_retry_btn">Try again</string>
-    <string name="view_album">View album</string>
-    <string name="you_may_like">You may also like</string>
-    <string name="you_might_like_it">You might like</string>
+    <string name="video_play_cellular">Não está ligado ao Wi-Fi. Utilizar dados móveis?</string>
+    <string name="video_replay_btn">Reproduzir novamente</string>
+    <string name="video_retry_btn">Tentar novamente</string>
+    <string name="view_album">Ver álbum</string>
+    <string name="you_may_like">Pode gostar também de</string>
+    <string name="you_might_like_it">Pode gostar de</string>
     <string name="youtube_play_history">Histórico de reprodução</string>
     <string name="youtube_tab_playlist">Listas de reprodução</string>
 </resources>

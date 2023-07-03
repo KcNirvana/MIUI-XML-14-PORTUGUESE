@@ -11,6 +11,7 @@
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar as suas notas com a sua Conta Xiaomi?</string>
+    <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar a editar</string>
     <string name="alert_message_delete">Eliminar %1$s?</string>
@@ -48,6 +49,7 @@
     <string name="call_folder_name">Notas de chamada</string>
     <string name="cancel_alarm_description">Cancelar alarme</string>
     <string name="canvas_is_too_large_to_share">Este item é demasiado grande para partilhar</string>
+    <string name="clip_resource_deleted">Este item já não está disponível</string>
     <string name="cloud_trash_bin_title">Eliminar notas na Xiaomi Cloud</string>
     <string name="confirm_cancel">Não concordar</string>
     <string name="confirm_ok">Concordar</string>

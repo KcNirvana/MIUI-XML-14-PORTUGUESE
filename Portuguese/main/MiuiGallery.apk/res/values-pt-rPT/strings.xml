@@ -1093,6 +1093,9 @@ efeitos de fotos"</string>
     <string name="image_selection_title">Seleccionar a melhor foto</string>
     <string name="image_with_time">Foto tirada em %s</string>
     <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
+    <string name="immersion_menu_all_photos">Tudo</string>
+    <string name="immersion_menu_camera_photos">Câmara</string>
+    <string name="immersion_menu_photo_switch_notice">Tocar para escolher mostrar todos os itens ou apenas o álbum da câmara</string>
     <string name="impunity_declaration_settings">Notificação de ligação à Internet</string>
     <string name="impunity_declaration_summary">Mostrar notificação de ligação à Internet sempre que abrir a Galeria</string>
     <string name="initializing_cloud">A iniciar…</string>

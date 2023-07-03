@@ -2165,7 +2165,7 @@ monitorizada"</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
     <string name="status_bar">Barra de estado</string>
     <string name="status_bar_airplane">Modo Avião</string>
-    <string name="status_bar_alarm">Alarmes</string>
+    <string name="status_bar_alarm">Alarme</string>
     <string name="status_bar_clear_all_button">Limpar</string>
     <string name="status_bar_clock_date_format">EEE, dd/MM</string>
     <string name="status_bar_clock_date_format_12">EEE, dd/MM</string>
